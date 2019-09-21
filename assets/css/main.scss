@@ -8,5 +8,5 @@
 @import "minimal-mistakes"; // main partials
 
 p {
-  font-size: .75em; /* 16 is the default increase if you want it larger */
+  font-size: .75em !important; /* 16 is the default increase if you want it larger */
 }
