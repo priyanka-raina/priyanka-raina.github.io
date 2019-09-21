@@ -1,3 +1,9 @@
+---
+permalink: /teaching/
+title: "Teaching"
+excerpt: "Classes taught by Priyanka Raina"
+---
+
 # Stanford University
 - EE 271: Introduction to VLSI Systems, Autumn 2019
 - EE 271: Design Projects in VLSI Systems, Winter 2019
