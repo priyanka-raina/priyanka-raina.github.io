@@ -7,3 +7,6 @@
 # PhD Rotation Students
 - Adam Dai (Fall 2019 — present)
 - Rohan Doshi (Summer 2019 — present)
+
+# High School Students
+Akhilesh Balasingam (Summer 2019 — present)
