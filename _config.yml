@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Priyanka Raina"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Assistant Professor, Electrical Engineering, Stanford University"
+  location         : 
+  email            : praina at stanford dot edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
