@@ -2,6 +2,8 @@
 permalink: /publications/
 ---
 
+Here are some publications:
+
 * S. Shao, J. Clemons, R. Venkatesan, B. Zimmer, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. Tell, Y. Zhang, B. Dally, J. Emer, C. T. Gray, B. Khailany, S. Keckler, "Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture", to be presented at IEEE/ACM International Symposium on Microarchitecture (MICRO), Oct 2019. 
 * R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, Y. Zhang, B. Zimmer, B. Dally, J. Emer, S. Keckler, B. Khailany, "MAGNet: A Modular Accelerator Generator for Neural Networks", to be presented at IEEE/ACM International Conference On Computer Aided Design (ICCAD), Nov 2019. 
 * R. Bahr, C. Barrett, N. Bhagdikar, A. Carsello, N. Chizgi, R. G. Daly, C. Donovick, D. Durst, K. Fatahalian, P. Hanrahan, T. Hofstee, M. Horowitz, D. Huff, T. Kong, Q. Liu, M. Mann, A. Nayak, A. Niemetz, G. Nyengele, P. Raina, S. Richardson, R. Setaluri, J. Setter, D. Stanley, M. Strange, J. Thomas, L. Truong, X. Yang, K. Zhang, "Creating An Agile Hardware Flow", to be presented at HotChips 2019.
