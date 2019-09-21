@@ -2,7 +2,7 @@
 permalink: /previous-projects/
 ---
 
-## Previous Projects
+Previous Projects
 
 ### A Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology (Nvidia)
 
