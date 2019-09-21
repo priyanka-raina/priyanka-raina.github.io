@@ -1,14 +1,14 @@
 main:
   - title: "Reseach"
-    url: research.md
+    url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
-    url: teaching.md
+    url: /teaching/
   - title: "Awards"
-    url: awards.md
+    url: /awards/
   - title: "Service"
-    url: service.md
+    url: /service/
     
 docs:
   - title: Getting Started
