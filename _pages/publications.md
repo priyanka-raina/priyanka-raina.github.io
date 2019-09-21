@@ -2,8 +2,8 @@
 permalink: /publications/
 ---
 
-**MAGNet: A Modular Accelerator Generator for Neural Networks** 
-R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, Y. Zhang, B. Zimmer, B. Dally, J. Emer, S. Keckler, B. Khailany 
+**MAGNet: A Modular Accelerator Generator for Neural Networks**,
+R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, Y. Zhang, B. Zimmer, B. Dally, J. Emer, S. Keckler, B. Khailany,
 *International Conference On Computer Aided Design (ICCAD)*, November 2019
 
 **Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture**,
@@ -31,7 +31,7 @@ A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Che
 *International Symposium on Performance Analysis of Systems and Software (ISPASS)*, March 2019. [Paper](https://ieeexplore.ieee.org/document/8695666)
 
 **An Energy-Scalable Accelerator for Blind Image Deblurring**,
-P. Raina, M. Tikekar, and A. P. Chandrakasan,  
+P. Raina, M. Tikekar, and A. P. Chandrakasan,
 *Journal of Solid-State Circuits (JSSC)*, July 2017. (Invited) [Paper](https://ieeexplore.ieee.org/document/7891902)
 
 **An Energy-Scalable Accelerator for Blind Image Deblurring**, 
