@@ -2,7 +2,7 @@ main:
   - title: "Reseach"
     url: research.md
   - title: "Publications"
-    url: publications.md
+    url: /publications/
   - title: "Teaching"
     url: teaching.md
   - title: "Awards"
