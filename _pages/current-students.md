@@ -1,8 +1,12 @@
+---
+permalink: /current-students/
+---
+
 # PhD Research Advisees
 - Akash Levy (Winter 2019 — present)
 - Kathleen Feng (Spring 2019 — present)
-- Haitong Li (Fall 2018 — present) 
-- Weier Wan (Fall 2018 — present)
+- Haitong Li (Fall 2018 — present): Coadvised with H.-S. Philip Wong
+- Weier Wan (Fall 2018 — present): Coadvised with H.-S. Philip Wong
 
 # PhD Rotation Students
 - Adam Dai (Fall 2019 — present)
