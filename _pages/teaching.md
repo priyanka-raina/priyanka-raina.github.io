@@ -6,7 +6,7 @@ Priyanka teaches EE 271 and EE 272 regularly.
 
 # Stanford University
 - EE 271: Introduction to VLSI Systems, Autumn 2019
-- EE 271: Design Projects in VLSI Systems, Winter 2019
+- EE 272: Design Projects in VLSI Systems, Winter 2019
 - EE 271: Introduction to VLSI Systems, Autumn 2018
 
 # MIT
