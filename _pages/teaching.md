@@ -2,6 +2,8 @@
 permalink: /teaching/
 ---
 
+Priyanka has taught:
+
 # Stanford University
 - EE 271: Introduction to VLSI Systems, Autumn 2019
 - EE 271: Design Projects in VLSI Systems, Winter 2019
