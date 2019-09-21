@@ -11,26 +11,31 @@ main:
     url: /service/
     
 docs:
-  - title: Getting Started
+  - title: Research
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Current Projects"
+        url: /current-projects/
+      - title: "Upcoming Projects"
+        url: /upcoming-projects/
+      - title: "Previous Projects"
+        url: /previous-projects/
+      - title: "Publications"
+        url: /publications/
+      - title: "Presentations"
+        url: /presentations/
+      - title: "Chip Gallery"
+        url: /chip-gallery/
+        
+  - title: Teaching
+    children:
+      - title: "EE271"
+        url: /ee271/
+      - title: "EE271"
+        url: /ee272/
 
-  - title: Customization
+  - title: Students
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Current Students"
+        url: /current-students/
+      - title: "Previous Students"
+        url: /previous-students/
