@@ -1,15 +1,3 @@
-main:
-  - title: "Reseach"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Awards"
-    url: /awards/
-  - title: "Service"
-    url: /service/
-    
 docs:
   - title: Research
     children:
@@ -27,12 +15,19 @@ docs:
         url: /chip-gallery/
         
   - title: Teaching
+    url: /teaching/
     children:
       - title: "EE271"
         url: /ee271/
       - title: "EE271"
         url: /ee272/
 
+  - title: "Awards"
+    url: /awards/
+    
+  - title: "Service"
+    url: /service/
+    
   - title: Students
     children:
       - title: "Current Students"
