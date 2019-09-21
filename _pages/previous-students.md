@@ -4,14 +4,14 @@ permalink: /previous-students/
 
 Past students from Stanford Accelerate group:
 
-## Summer REU Students
+### Summer REU Students
 - Charles Tsao (Summer 2019)
 - Makena Low (Spring 2019 — Summer 2019)
 
-## UGVR Students
+### UGVR Students
 - Zheng Liang (Summer 2019)
 
-## PhD Rotation Students
+### PhD Rotation Students
 - Kathleen Feng (Spring 2019 — Summer 2019)
 - Jung-Soo Ko (Spring 2019)
 - Akash Levy (Winter 2019)
