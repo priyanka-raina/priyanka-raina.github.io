@@ -15,10 +15,10 @@ html {
   }
 
   @include breakpoint($large) {
-    font-size: 14px; // change to whatever, default 20px
+    font-size: 22px; // change to whatever, default 20px
   }
 
   @include breakpoint($x-large) {
-    font-size: 14px; // change to whatever, default 22px
+    font-size: 22px; // change to whatever, default 22px
   }
 }
