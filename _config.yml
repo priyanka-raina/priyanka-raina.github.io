@@ -3,3 +3,11 @@ title: Priyanka Raina
 description: Priyanka Raina's personal website
 plugins:
   - jekyll-include-cache
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
