@@ -1,7 +1,5 @@
 ---
 permalink: /teaching/
-title: "Teaching"
-excerpt: "Classes taught by Priyanka Raina"
 ---
 
 # Stanford University
