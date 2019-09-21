@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
-title: "Publications"
 excerpt: "Priyanka Raina's publications"
+classes: wide
 ---
 
 ## Publications
