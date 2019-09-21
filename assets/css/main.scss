@@ -7,6 +7,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.article-wrap p {
+p {
   font-size: 14px; /* 16 is the default increase if you want it larger */
 }
