@@ -4,6 +4,7 @@ description: Priyanka Raina's personal website
 plugins:
   - jekyll-include-cache
 author_profile: true
+include: ["_pages"]
 defaults:
   # _docs
   - scope:
