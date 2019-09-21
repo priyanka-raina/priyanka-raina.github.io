@@ -2,12 +2,7 @@
 permalink: /previous-students/
 ---
 
-## PhD Rotation Students
-- Kathleen Feng (Spring 2019 — Summer 2019)
-- Jung-Soo Ko (Spring 2019)
-- Akash Levy (Winter 2019)
-- Fei Huang (Winter 2019)
-- Raman Vilkhu (Fall 2018)
+Past students from Stanford Accelerate group:
 
 ## Summer REU Students
 - Charles Tsao (Summer 2019)
@@ -15,3 +10,10 @@ permalink: /previous-students/
 
 ## UGVR Students
 - Zheng Liang (Summer 2019)
+
+## PhD Rotation Students
+- Kathleen Feng (Spring 2019 — Summer 2019)
+- Jung-Soo Ko (Spring 2019)
+- Akash Levy (Winter 2019)
+- Fei Huang (Winter 2019)
+- Raman Vilkhu (Fall 2018)
