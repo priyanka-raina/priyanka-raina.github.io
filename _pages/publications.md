@@ -34,9 +34,9 @@ A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Che
 P. Raina, M. Tikekar, and A. P. Chandrakasan,  
 *Journal of Solid-State Circuits (JSSC)*, July 2017. (Invited) [Paper](https://ieeexplore.ieee.org/document/7891902)
 
-**An Energy-Scalable Accelerator for Blind Image Deblurring**,
-P. Raina, M. Tikekar, and A. P. Chandrakasan,  
-*European Solid-State Circuits Conference (ESSCIRC)*, September 2016. (**Best Student Paper**)[Paper](https://ieeexplore.ieee.org/document/7598255) 
+**An Energy-Scalable Accelerator for Blind Image Deblurring**, 
+P. Raina, M. Tikekar, and A. P. Chandrakasan, 
+*European Solid-State Circuits Conference (ESSCIRC)*, September 2016. (**Best Student Paper**) [Paper](https://ieeexplore.ieee.org/document/7598255) 
 
 **A 0.6V 8mW 3D Vision Processor for a Navigation Device for the Visually Impaired**,
 D. Jeon, N. Ickes, P. Raina, H. C. Wang, A. P. Chandrakasan,
