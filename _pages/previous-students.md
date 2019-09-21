@@ -1,3 +1,7 @@
+---
+permalink: /current-students/
+---
+
 # PhD Rotation Students
 - Kathleen Feng (Spring 2019 — Summer 2019)
 - Jung-Soo Ko (Spring 2019)
