@@ -7,6 +7,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-p {
-  font-size: .75em !important; /* 16 is the default increase if you want it larger */
+.page__content p, .page__content li, .page__content dl {
+    font-size: 0.75em
 }
