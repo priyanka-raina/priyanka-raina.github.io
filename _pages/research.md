@@ -1,5 +1,5 @@
 ---
-permalink: /reseach/
+permalink: /research/
 title: "Research"
 excerpt: "Priyanka Raina's research"
 ---
