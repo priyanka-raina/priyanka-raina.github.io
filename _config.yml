@@ -3,6 +3,7 @@ title: Priyanka Raina
 description: Priyanka Raina's personal website
 plugins:
   - jekyll-include-cache
+author_profile: true
 sidebar:
   - title: "Title"
     image: http://placehold.it/350x250
