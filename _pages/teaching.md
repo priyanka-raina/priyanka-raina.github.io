@@ -2,7 +2,7 @@
 permalink: /teaching/
 ---
 
-Priyanka has taught:
+Priyanka teaches EE 271 and EE 272 regularly.
 
 # Stanford University
 - EE 271: Introduction to VLSI Systems, Autumn 2019
