@@ -1,7 +1,5 @@
 ---
 permalink: /publications/
-excerpt: "Priyanka Raina's publications"
-classes: wide
 ---
 
 * S. Shao, J. Clemons, R. Venkatesan, B. Zimmer, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. Tell, Y. Zhang, B. Dally, J. Emer, C. T. Gray, B. Khailany, S. Keckler, "Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture", to be presented at IEEE/ACM International Symposium on Microarchitecture (MICRO), Oct 2019. 
