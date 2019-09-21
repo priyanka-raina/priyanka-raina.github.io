@@ -1,3 +1,6 @@
+---
+permalink: /previous-students/
+---
 
 ### A Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology (Nvidia)
 **People: Brucek Khailany, Rangharajan Venkatesan†, Yakun Sophia Shao, Brian Zimmer, Jason Clemons, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel S. Emer, C. Thomas Gray, Stephen W. Keckler**
@@ -5,10 +8,10 @@
 In this work, a scalable deep neural network (DNN) inference accelerator consisting of 36 small chips connected in a mesh network on a multi-chip-module (MCM) was designed. The accelerator enables flexible scaling for efficient inference on a wide range of DNNs, from mobile to data center domains. The chip was implemented using a novel high-productivity VLSI methodology, fully designed in C++ using High-Level Synthesis (HLS) tools and leveraged an agile VLSI design flow. The 6 mm2 chip was implemented in 16nm technology and achieves 1.29 TOPS/mm2, 0.11 pJ/op energy effi- ciency, 4 TOPS peak performance on 1 chip, and 128 peak TOPS and 2,615 images/s ResNet-50 inference in a 36-chip MCM.
 
 #### Publications
-* S. Shao, J. Clemons, R. Venkatesan, B. Zimmer, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. Tell, Y. Zhang, B. Dally, J. Emer, C. T. Gray, B. Khailany, S. Keckler, "Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture", to be presented at IEEE/ACM International Symposium on Microarchitecture (MICRO), Oct 2019. 
-* R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, Y. Zhang, B. Zimmer, B. Dally, J. Emer, S. Keckler, B. Khailany, "MAGNet: A Modular Accelerator Generator for Neural Networks", to be presented at IEEE/ACM International Conference On Computer Aided Design (ICCAD), Nov 2019. 
-* B. Khailany, R. Venkatesan, Y. S. Shao, B. Zimmer, J. Clemons, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, S. W. Keckler, "A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology", to be presented at HotChips 2019.
-* B. Zimmer, R. Venkatesan, Y. S. Shao, J. Clemons, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, S. W. Keckler, B. Khailany, "A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator with Ground-Reference Signaling in 16nm", to be presented at VLSI 2019.
+* R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, Y. Zhang, B. Zimmer, B. Dally, J. Emer, S. Keckler, B. Khailany, "MAGNet: A Modular Accelerator Generator for Neural Networks", IEEE/ACM International Conference On Computer Aided Design (ICCAD), Nov 2019. 
+* S. Shao, J. Clemons, R. Venkatesan, B. Zimmer, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. Tell, Y. Zhang, B. Dally, J. Emer, C. T. Gray, B. Khailany, S. Keckler, "Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture", IEEE/ACM International Symposium on Microarchitecture (MICRO), Oct 2019. 
+* B. Khailany, R. Venkatesan, Y. S. Shao, B. Zimmer, J. Clemons, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, S. W. Keckler, "A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology", HotChips 2019.
+* B. Zimmer, R. Venkatesan, Y. S. Shao, J. Clemons, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, S. W. Keckler, B. Khailany, "A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator with Ground-Reference Signaling in 16nm", VLSI 2019.
 
 ### Tensorloop: A Systematic Approach to DNN Accelerator Evaluation (Nvidia)
 
@@ -17,7 +20,10 @@ In this work, a scalable deep neural network (DNN) inference accelerator consist
 Tensorloop is an infrastructure for evaluating and exploring the architecture design space of deep neural network (DNN) accelerators. Timeloop uses a concise and unified representation of the key architecture and implementation attributes of  DNN accelerators to describe a broad space of hardware topologies. It can then emulate those topologies to generate an   accurate projection of performance and energy efficiency for a DNN workload through a mapper that finds the best way to  schedule operations and stage data on the specified architecture. This enables fair comparisons across different architectures and makes DNN accelerator design more systematic. 
 
 #### Publications
-* A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Chen, B. Khailany, S. Keckler, J. Emer, "Tensorloop: A Systematic Approach to DNN Accelerator Evaluation", to be presented at ISPASS 2019.
+* A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Chen, B. Khailany, S. Keckler, J. Emer, "Tensorloop: A Systematic Approach to DNN Accelerator Evaluation", ISPASS 2019.
+
+#### Code
+* [https://github.com/NVlabs/timeloop](https://github.com/NVlabs/timeloop)
 
 * * * 
 
@@ -40,9 +46,9 @@ Camera shake is the leading cause of blur in cell-phone camera images. Removing 
 This work presents the first hardware accelerator for kernel estimation for image deblurring applications. Our approach, using a multi-resolution IRLS deconvolution engine with DFT-based matrix multiplication, a high-throughput image correlator and a high-speed selective update based gradient projection solver, achieves a 78x reduction in kernel estimation runtime, and a 56x reduction in total deblurring time for a 1920 x 1080 image enabling quick feedback to the user. Configurability in kernel size and number of iterations gives up to 10x energy scalability, allowing the system to trade-off runtime with image quality. The test chip, fabricated in 40nm CMOS, consumes 105mJ for kernel estimation running at 83MHz and 0.9V, making it suitable for integration into mobile devices.
 
 #### Publications and Talks
-* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," in IEEE Journal of Solid-State Circuits (JSSC) - ESSCIRC Special Issue, July 2017. (Invited) [Paper](https://ieeexplore.ieee.org/document/7891902)
-* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," in IEEE European Solid-State Circuits Conference (ESSCIRC), Sep 2016, pp. 113-116. [Paper](https://ieeexplore.ieee.org/document/7598255)
-* P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Co-processor for Blind Image Deblurring," presented at IEEE International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, Feb. 2016. Received the 2016 ISSCC Student Research Preview Award.
+* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," IEEE Journal of Solid-State Circuits (JSSC), July 2017. (Invited) [Paper](https://ieeexplore.ieee.org/document/7891902)
+* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," IEEE European Solid-State Circuits Conference (ESSCIRC), September 2016. [Paper](https://ieeexplore.ieee.org/document/7598255) **Best Young Scientist Paper Award**
+* P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Co-processor for Blind Image Deblurring," IEEE International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, February 2016. **2016 ISSCC Student Research Preview Award**
 
 * * *
 
