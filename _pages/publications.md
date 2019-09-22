@@ -17,7 +17,7 @@ H. Li, P. Raina, H.S.P. Wong
 *Proceedings of SPIE*, September 2019. (Invited) [Paper](http://dx.doi.org/10.1117/12.2529916)
 
 **Creating An Agile Hardware Flow**  
-R. Bahr, C. Barrett, N. Bhagdikar, A. Carsello, N. Chizgi, R. G. Daly, C. Donovick, D. Durst, K. Fatahalian, P. Hanrahan, T. Hofstee, M. Horowitz, D. Huff, T. Kong, Q. Liu, M. Mann, A. Nayak, A. Niemetz, G. Nyengele, P. Raina, S. Richardson, R. Setaluri, J. Setter, D. Stanley, M. Strange, J. Thomas, L. Truong, X. Yang, K. Zhang  
+R. Bahr, C. Barrett, N. Bhagdikar, A. Carsello, N. Chizgi, R. G. Daly, C. Donovick, D. Durst, K. Fatahalian, P. Hanrahan, T. Hofstee, M. Horowitz, D. Huff, T. Kong, Q. Liu, M. Mann, A. Nayak, A. Niemetz, G. Nyengele, S. Richardson, R. Setaluri, J. Setter, D. Stanley, M. Strange, J. Thomas, L. Truong, X. Yang, K. Zhang, P. Raina  
 *Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2019. [Slides](https://www.dropbox.com/s/frg7r52xp4lw766/2019-hotchips-agile.pdf?dl=0)
 
 **A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology**  
