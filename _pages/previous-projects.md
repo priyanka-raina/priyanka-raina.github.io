@@ -46,7 +46,7 @@ A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Che
 
 ### An Energy-Efficient Accelerator for Real-Time Motion Magnification
 
-![](/assets/images/motion_chip.jpg){: .width-seventy-percent}
+![](/assets/images/motion_chip.png){: .width-seventy-percent}
 
 * * * 
 
