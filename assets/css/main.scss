@@ -8,17 +8,21 @@
 @import "minimal-mistakes"; // main partials
 
 .page__content p, .page__content li, .page__content dl {
-    font-size: 0.75em
+    font-size: 0.75em;
 }
 
 .width-seventy-percent {
-    width: 70%
+    width: 70%;
 }
 
 .width-fifty-percent {
-    width: 50%
+    width: 50%;
 }
 
 .toc .nav__title {
     background: #2F4F4F;
+}
+
+.toc__menu a {
+    font-size: 0.75em;
 }
