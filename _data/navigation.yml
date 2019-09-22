@@ -3,6 +3,7 @@ docs:
     url: /
     
   - title: Research
+    url: /current-projects/
     children:
       - title: "Current Projects"
         url: /current-projects/
@@ -24,6 +25,7 @@ docs:
         url: /ee272/
 
   - title: Students
+    url: /current-students/
     children:
       - title: "Current Students"
         url: /current-students/
