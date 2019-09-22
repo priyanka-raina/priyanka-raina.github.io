@@ -1,4 +1,7 @@
 docs:
+  - title: About
+    url: /about/
+    
   - title: Research
     children:
       - title: "Current Projects"
@@ -11,8 +14,6 @@ docs:
         url: /publications/
       - title: "Presentations"
         url: /presentations/
-      - title: "Chip Gallery"
-        url: /chip-gallery/
         
   - title: Teaching
     url: /teaching/
@@ -22,15 +23,15 @@ docs:
       - title: "EE271"
         url: /ee272/
 
-  - title: "Awards"
-    url: /awards/
-    
-  - title: "Service"
-    url: /service/
-    
   - title: Students
     children:
       - title: "Current Students"
         url: /current-students/
       - title: "Previous Students"
         url: /previous-students/
+        
+  - title: "Awards"
+    url: /awards/
+    
+  - title: "Service"
+    url: /service/
