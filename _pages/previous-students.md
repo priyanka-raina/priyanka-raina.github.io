@@ -17,3 +17,6 @@ permalink: /previous-students/
 - Akash Levy (Winter 2019)
 - Fei Huang (Winter 2019)
 - Raman Vilkhu (Fall 2018)
+
+### MS Academic Advisees
+- Jingying Yue
