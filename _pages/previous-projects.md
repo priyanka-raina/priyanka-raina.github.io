@@ -75,18 +75,16 @@ International Solid-State Circuits Conference (ISSCC) Student Research Preview (
 
 ![HDR](img/hdr.png)
 
-Computational photography refers to a wide range of image capture and processing techniques that extend the capabilities of digital photography and allow users to take photographs that could not have been taken by a traditional camera. Since its inception less than a decade ago, the field today encompasses a wide range of techniques including high dynamic range (HDR) imaging, low light enhancement, panorama stitching, image deblurring and light field photography. These techniques have so far been software based, which leads to high energy consumption and typically no support for real-time processing.
-
-This work focuses on a hardware accelerator for bilateral filtering which is commonly used in computational photography applications. Specifically, the 40 nm CMOS test chip performs HDR imaging, low light enhancement and glare reduction while operating from 98 MHz at 0.9 V to 25 MHz at 0.9 V. It processes 13 megapixels/s while consuming 17.8 mW at 98 MHz and 0.9 V, achieving significant energy reduction compared to previous CPU/GPU implementations, enabling real-time computational photography applications on mobile devices. Live demonstration at the ISSCC Demo Session. [Video](http://player.vimeo.com/video/70417371)
+Computational photography refers to a wide range of image capture and processing techniques that extend the capabilities of digital photography and allow users to take photographs that could not have been taken by a traditional camera. Since its inception less than a decade ago, the field today encompasses a wide range of techniques including high dynamic range (HDR) imaging, low light enhancement, panorama stitching, image deblurring and light field photography. These techniques have so far been software based, which leads to high energy consumption and typically no support for real-time processing. This work focuses on a hardware accelerator for bilateral filtering which is commonly used in computational photography applications. Specifically, the 40 nm CMOS test chip performs HDR imaging, low light enhancement and glare reduction while operating from 98 MHz at 0.9 V to 25 MHz at 0.9 V. It processes 13 megapixels/s while consuming 17.8 mW at 98 MHz and 0.9 V, achieving significant energy reduction compared to previous CPU/GPU implementations, enabling real-time computational photography applications on mobile devices. Live demonstration at the ISSCC Demo Session. [Video](http://player.vimeo.com/video/70417371)
 
 **Publications and Talks:**
 
-**Reconfigurable Processor for Energy-Efficient Computational Photography**
-R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan
+**Reconfigurable Processor for Energy-Efficient Computational Photography**  
+R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
 *Journal of Solid-State Circuits (JSSC)*, November 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623206)
 
-**Reconfigurable Processor for Energy-Scalable Computational Photography**
-R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan
+**Reconfigurable Processor for Energy-Scalable Computational Photography**  
+R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
 *International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683)
 
 **In the News:**
@@ -105,8 +103,8 @@ R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan
 
 **Publications and Talks:**
 
-**A 0.6V 8mW 3D Vision Processor for a Navigation Device for the Visually Impaired**
-D. Jeon, N. Ickes, P. Raina, H. C. Wang, A. P. Chandrakasan
+**A 0.6V 8mW 3D Vision Processor for a Navigation Device for the Visually Impaired**  
+D. Jeon, N. Ickes, P. Raina, H. C. Wang, A. P. Chandrakasan  
 *International Solid-State Circuits Conference (ISSCC)*, February 2016. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7418084)
 
 **In the News:**
@@ -114,5 +112,7 @@ D. Jeon, N. Ickes, P. Raina, H. C. Wang, A. P. Chandrakasan
 * A virtual “guide dog” for navigation. ([MIT News](http://news.mit.edu/2016/virtual-guide-dog-wearable-device-0202#.VrHZj9k0f5g))
 * MIT researchers have developed a ‘virtual guide dog’. ([boston.com](https://www.boston.com/news/local-news/2016/02/03/mit-researchers-have-developed-a-virtual-guide-dog))
 * Wearable with 3D camera to guide visually impaired. ([Pune Mirror](http://www.punemirror.in/others/scitech/Wearable-with-3D-camera-to-guide-visually-impaired/articleshow/50855649.cms))
+
+* * *
 
 More details about Priyanka's PhD work are on [Priyanka's MIT webpage](http://web.mit.edu/~praina/www/index.html).
