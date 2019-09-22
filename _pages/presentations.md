@@ -14,6 +14,10 @@ permalink: /presentations/
 Q. Liu, J. Setter, K. Feng, X. Yang, T. Hofstee, M. Horowitz, P. Raina  
 MICRO SRC Poster Presentation, October 2019.
 
+**An Energy-Scalable Co-processor for Blind Image Deblurring**  
+P. Raina, M. Tikekar, A. P. Chandrakasan  
+International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, February 2016. (**2016 ISSCC Student Research Preview Award**)
+
 **Reconfigurable Processor for Energy-Scalable Computational Photography**  
 R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
-*International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683)
+*International Solid-State Circuits Conference (ISSCC) Demo Session*, February 2013. [Video](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683)
