@@ -29,7 +29,7 @@ Teguh, Gedeon
 
 ### Accelerator Architectures Leveraging Emerging Technologies
 
-#### 3D CGRA Architecture with Hybrid RRAM-NEMS-based Interconnect
+#### 3D CGRA Architecture with Hybrid RRAM-NEMS-Based Interconnect
 **Akash Levy**  
 Programmable logic architectures such as FPGAs and CGRAs are extensively used in place of specialized ASICs to accelerate computationally-intensive algorithms. However, when compared with ASICs performing the same function, FPGAs typically have 10-40x lower logic density, 3-4x higher delay, and 5-12x higher dynamic power dissipation. Most of this overhead comes from the configurable interconnect. This work reduces this overhead by using RRAM-based configuration memory that actuates NEMS-based interconnect multiplexers, both of which can be integrated in 3D on top of silicon CMOS logic. This work also enables “normally off, instantly on” operation, which is critical for IoT devices with unreliable power sources. FPGAs need to load their configuration from off-chip memory on startup, which incurs a significant energy cost. This work leverages the non-volatility of RRAM to enable intermittent computing.
 
