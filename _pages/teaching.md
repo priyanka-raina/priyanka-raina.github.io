@@ -11,6 +11,7 @@ permalink: /teaching/
 
 ### MIT
 **6.374: Analysis and Design of Digital Integrated Circuits, Autumn 2017**  
+Instructor
 
 **6.UAR: Preparation for Undergraduate Research, Spring 2017**  
 Head Teaching Assistant with Anantha Chandrakasan
