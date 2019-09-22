@@ -20,4 +20,4 @@ International Solid-State Circuits Conference (ISSCC) Student Research Preview (
 
 **Reconfigurable Processor for Energy-Scalable Computational Photography**  
 R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
-*International Solid-State Circuits Conference (ISSCC) Demo Session*, February 2013. [Video](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683)
+*International Solid-State Circuits Conference (ISSCC) Demo Session*, February 2013. [Video](http://player.vimeo.com/video/70417371)
