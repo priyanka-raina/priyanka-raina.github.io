@@ -19,4 +19,7 @@ permalink: /previous-students/
 - Raman Vilkhu (Fall 2018)
 
 ### MS Academic Advisees
-- Jingying Yue
+- Jingying Yue (2018 - 2019)
+
+### Undergraduate Advisees
+- Julia Gordon (2018 - 2019)
