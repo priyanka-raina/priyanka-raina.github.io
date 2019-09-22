@@ -43,7 +43,7 @@ A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Che
 
 * * * 
 
-### Motion Magnification Accelerator
+### An Energy-Efficient Accelerator for Real-Time Motion Magnification
 
 ![Motion Magnification](img/motion.png)
 
