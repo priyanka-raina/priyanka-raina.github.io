@@ -19,3 +19,8 @@ permalink: /current-students/
 
 ### High School Students
 - Akhilesh Balasingam
+
+## MS Academic Advisees
+- Vinh Nguyen 
+- Eric Yang
+- Zainab Khan
