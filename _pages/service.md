@@ -1,3 +1,7 @@
+---
+permalink: /service/
+---
+
 ## Service
 
 ### Stanford Committees
