@@ -18,9 +18,9 @@ docs:
   - title: Teaching
     url: /teaching/
     children:
-      - title: "EE271"
+      - title: "EE 271"
         url: /ee271/
-      - title: "EE272"
+      - title: "EE 272"
         url: /ee272/
 
   - title: Students
