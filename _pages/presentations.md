@@ -10,4 +10,10 @@ permalink: /presentations/
 - Energy-Efficient Circuits and Systems for Computational Imaging and Vision on Mobile Devices, SystemX Seminar, Mar 2018. [Video](https://systemx.stanford.edu/events/seminar/20180309/energy-efficient-circuits-and-systems-computational-imaging-and-vision)
 
 ## Poster Presentations
-- Q. Liu, J. Setter, K. Feng, X. Yang, T. Hofstee, M. Horowitz, P. Raina, "A Unified Push Memory for Accelerator Generation", in MICRO SRC Poster Presentation, October 2019
+**A Unified Push Memory for Accelerator Generation**  
+Q. Liu, J. Setter, K. Feng, X. Yang, T. Hofstee, M. Horowitz, P. Raina  
+MICRO SRC Poster Presentation, October 2019.
+
+**Reconfigurable Processor for Energy-Scalable Computational Photography**  
+R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
+*International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683)
