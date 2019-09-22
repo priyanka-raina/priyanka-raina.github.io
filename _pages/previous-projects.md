@@ -71,7 +71,7 @@ International Solid-State Circuits Conference (ISSCC) Student Research Preview (
 
 * * *
 
-### Maxwell: Reconfigurable Processor for Computational Photography
+### Maxwell: A Reconfigurable Processor for Computational Photography
 
 ![](/assets/images/hdr_chip.png){: .width-half}
 
