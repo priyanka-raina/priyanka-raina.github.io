@@ -4,7 +4,7 @@ permalink: /previous-students/
 
 ## Previous Students
 
-### Summer REU Students
+### REU Students
 - Charles Tsao (Summer 2019)
 - Makena Low (Spring 2019 — Summer 2019)
 
