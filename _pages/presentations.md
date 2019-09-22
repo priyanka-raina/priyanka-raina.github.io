@@ -3,6 +3,12 @@ permalink: /presentations/
 ---
 
 ## Talks
+
+- DSSOC Meeting
+- AHA Retreat
+- AMD
+- Intel PSG
+- CASPA
 - Hardware Accelerators for Computational Imaging and Machine Learning, SCIEN Industry Affiliates Meeting, November 2018.
 - Hardware Accelerators for Computational Imaging and Machine Learning, SystemX Fall Conference, November 2018.
 - Hardware Accelerators for Computational Imaging and Machine Learning, Seminar at Apple, November 2018.
