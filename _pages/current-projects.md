@@ -27,16 +27,16 @@ Gedeon
 #### End-to-end Application Execution
 Teguh, Gedeon
 
-## Accelerator Architectures Leveraging Emerging Technologies
+### Accelerator Architectures Leveraging Emerging Technologies
 
-### 3D CGRA Architecture with Hybrid RRAM-NEMS-based Interconnect
+#### 3D CGRA Architecture with Hybrid RRAM-NEMS-based Interconnect
 **Akash Levy**
 
-### One-Shot Learning using RRAM-Based Associative Memory
+#### One-Shot Learning using RRAM-Based Associative Memory
 **Haitong Li**
 
-### Chimera: Compute (Immersed) in Memory with Embedded Resistive Arrays
+#### Chimera: Compute (Immersed) in Memory with Embedded Resistive Arrays
 **Kartik Prabhu, Rohan Doshi**
 
-### In-Memory Computing Architecture for Probabilistic Graphical Models
+#### In-Memory Computing Architecture for Probabilistic Graphical Models
 **Weier Wan**
