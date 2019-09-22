@@ -38,32 +38,35 @@ Timeloop is an infrastructure for evaluating and exploring the architecture desi
 A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Chen, B. Khailany, S. Keckler, J. Emer  
 *International Symposium on Performance Analysis of Systems and Software (ISPASS)*, March 2019. [Paper](https://ieeexplore.ieee.org/document/8695666)
 
-**Code:**
-
+**Code:**  
 [https://github.com/NVlabs/timeloop](https://github.com/NVlabs/timeloop)
 
 * * * 
 
-### Motion Magnification Accelerator (MIT)
-
-**People: Priyanka Raina, Bill Freeman, Fredo Durand, Anantha Chandrakasan**
+### Motion Magnification Accelerator
 
 ![Motion Magnification](img/motion.png)
 
 * * * 
 
-### An Energy-Scalable Accelerator for Blind Image Deblurring (MIT)
+### Maxwell: An Energy-Scalable Accelerator for Blind Image Deblurring
 
 ![Deblurring](img/deblurring.png)
 
-Camera shake is the leading cause of blur in cell-phone camera images. Removing blur requires deconvolving the blurred image with a kernel which is typically unknown and needs to be estimated from the blurred image. This kernel estimation is computationally intensive and takes several minutes on a CPU which makes it unsuitable for mobile devices.
+Camera shake is the leading cause of blur in cell-phone camera images. Removing blur requires deconvolving the blurred image with a kernel which is typically unknown and needs to be estimated from the blurred image. This kernel estimation is computationally intensive and takes several minutes on a CPU which makes it unsuitable for mobile devices. This work presents the first hardware accelerator for kernel estimation for image deblurring applications. Our approach, using a multi-resolution IRLS deconvolution engine with DFT-based matrix multiplication, a high-throughput image correlator and a high-speed selective update based gradient projection solver, achieves a 78x reduction in kernel estimation runtime, and a 56x reduction in total deblurring time for a 1920 x 1080 image enabling quick feedback to the user. Configurability in kernel size and number of iterations gives up to 10x energy scalability, allowing the system to trade-off runtime with image quality. The test chip, fabricated in 40nm CMOS, consumes 105mJ for kernel estimation running at 83MHz and 0.9V, making it suitable for integration into mobile devices.
 
-This work presents the first hardware accelerator for kernel estimation for image deblurring applications. Our approach, using a multi-resolution IRLS deconvolution engine with DFT-based matrix multiplication, a high-throughput image correlator and a high-speed selective update based gradient projection solver, achieves a 78x reduction in kernel estimation runtime, and a 56x reduction in total deblurring time for a 1920 x 1080 image enabling quick feedback to the user. Configurability in kernel size and number of iterations gives up to 10x energy scalability, allowing the system to trade-off runtime with image quality. The test chip, fabricated in 40nm CMOS, consumes 105mJ for kernel estimation running at 83MHz and 0.9V, making it suitable for integration into mobile devices.
+**Publications and Talks:**
+**An Energy-Scalable Accelerator for Blind Image Deblurring**  
+P. Raina, M. Tikekar, and A. P. Chandrakasan  
+*Journal of Solid-State Circuits (JSSC)*, July 2017. (Invited) [Paper](https://ieeexplore.ieee.org/document/7891902)
 
-#### Publications and Talks
-* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," IEEE Journal of Solid-State Circuits (JSSC), July 2017. (Invited) [Paper](https://ieeexplore.ieee.org/document/7891902)
-* P. Raina, M. Tikekar, and A. P. Chandrakasan, "An energy-scalable accelerator for blind image deblurring," IEEE European Solid-State Circuits Conference (ESSCIRC), September 2016. [Paper](https://ieeexplore.ieee.org/document/7598255) **Best Young Scientist Paper Award**
-* P. Raina, M. Tikekar, A. P. Chandrakasan, "An Energy-Scalable Co-processor for Blind Image Deblurring," IEEE International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, February 2016. **2016 ISSCC Student Research Preview Award**
+**An Energy-Scalable Accelerator for Blind Image Deblurring**  
+P. Raina, M. Tikekar, and A. P. Chandrakasan  
+*European Solid-State Circuits Conference (ESSCIRC)*, September 2016. (**Best Young Scientist Paper Award**) [Paper](https://ieeexplore.ieee.org/document/7598255)
+
+**An Energy-Scalable Co-processor for Blind Image Deblurring**  
+P. Raina, M. Tikekar, A. P. Chandrakasan  
+International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, February 2016. (**2016 ISSCC Student Research Preview Award**)
 
 * * *
 
