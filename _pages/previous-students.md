@@ -2,7 +2,7 @@
 permalink: /previous-students/
 ---
 
-Past students from Stanford Accelerate group:
+## Previous Students
 
 ### Summer REU Students
 - Charles Tsao (Summer 2019)
