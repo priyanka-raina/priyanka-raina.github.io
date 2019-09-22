@@ -1,5 +1,6 @@
 ---
 permalink: /previous-projects/
+toc: true
 ---
 
 ## Previous Projects
