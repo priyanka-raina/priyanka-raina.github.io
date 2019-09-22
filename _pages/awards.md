@@ -1,3 +1,9 @@
+---
+permalink: /awards/
+---
+
+## Awards
+
 **Terman Faculty Fellow**, Stanford, 2018  
 **Raymie Stata TA Award**, MIT, 2017  
 **Best Young Scientist Paper Award** at ESSCIRC 2016 for the paper "Energy-Scalable Accelerator for Blind Image Deblurring", 2017   
