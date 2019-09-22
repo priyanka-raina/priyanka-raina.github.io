@@ -23,3 +23,6 @@ permalink: /previous-students/
 
 ### Undergraduate Advisees
 - Julia Gordon (2018 - 2019)
+
+### Thesis Reader
+- Chris Jordan Young (2019)
