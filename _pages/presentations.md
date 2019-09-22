@@ -3,7 +3,8 @@ permalink: /presentations/
 ---
 
 ## Talks
-
+- Oxford
+- ACCAD
 - DSSOC Meeting
 - AHA Retreat
 - AMD
