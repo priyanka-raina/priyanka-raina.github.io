@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /chip-gallery/
 ---
 <!--- 3D CGRA --->
 <!--- Associative memory --->
