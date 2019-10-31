@@ -3,6 +3,13 @@ permalink: /publications/
 ---
 
 ## Publications
+**A Framework for Adding Low-Overhead, Fine-Grained Power Domains to CGRAs**  
+A. Nayak, K. Zhang, R. Setaluri, A. Carsello, M. Mann, S. Richardson, R. Bahr, P. Hanrahan, M. Horowitz, P. Raina  
+*Design, Automation and Test in Europe Conference (DATE)*, March 2020.
+
+**A 74TMACS/W CMOS-ReRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-Situ Transposable Weights for Probabilistic Graphical Models**  
+W. Wan, R. Kubendran, S. B. Eryilmaz, W. Zhang, Y. Liao, D. Wu, S. Deiss, B. Gao, P. Raina, S. Joshi, H. Wu, G. Cauwenberghs, H.-S.P. Wong  
+*International Solid-State Circuits Conference (ISSCC)*, February 2020.
 
 **MAGNet: A Modular Accelerator Generator for Neural Networks**  
 R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, Y. Zhang, B. Zimmer, B. Dally, J. Emer, S. Keckler, B. Khailany  
@@ -13,7 +20,7 @@ S. Shao, J. Clemons, R. Venkatesan, B. Zimmer, M. Fojtik, N. Jiang, B. Keller, A
 *International Symposium on Microarchitecture (MICRO)*, October 2019. **(Best Paper Nominee)** [Paper](https://people.eecs.berkeley.edu/~ysshao/assets/papers/shao2019-micro.pdf)
 
 **Neuro-Inspired Computing with Emerging Memories: Where Device Physics Meets Learning Algorithms**  
-H. Li, P. Raina, H.S.P. Wong  
+H. Li, P. Raina, H.-S.P. Wong  
 *Proceedings of SPIE*, September 2019. (Invited) [Paper](http://dx.doi.org/10.1117/12.2529916)
 
 **Creating An Agile Hardware Flow**  
