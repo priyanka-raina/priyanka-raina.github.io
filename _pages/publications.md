@@ -3,6 +3,11 @@ permalink: /publications/
 ---
 
 ## Publications
+
+**Using Halide’s Scheduling Language to Analyze DNN Accelerators**  
+X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. Raina, C. Kozyrakis, M. Horowitz  
+*International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020.
+
 **A Framework for Adding Low-Overhead, Fine-Grained Power Domains to CGRAs**  
 A. Nayak, K. Zhang, R. Setaluri, A. Carsello, M. Mann, S. Richardson, R. Bahr, P. Hanrahan, M. Horowitz, P. Raina  
 *Design, Automation and Test in Europe Conference (DATE)*, March 2020.
