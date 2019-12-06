@@ -16,6 +16,10 @@ A. Nayak, K. Zhang, R. Setaluri, A. Carsello, M. Mann, S. Richardson, R. Bahr, P
 W. Wan, R. Kubendran, S. B. Eryilmaz, W. Zhang, Y. Liao, D. Wu, S. Deiss, B. Gao, P. Raina, S. Joshi, H. Wu, G. Cauwenberghs, H.-S.P. Wong  
 *International Solid-State Circuits Conference (ISSCC)*, February 2020.
 
+**A 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Inference Accelerator with Ground-Referenced Signaling in 16nm**  
+B. Zimmer, R. Venkatesan, S. Shao, J. Clemons, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, S. W. Keckler, B. Khailany  
+*Journal of Solid-State Circuits (JSSC)*, December 2019.
+
 **MAGNet: A Modular Accelerator Generator for Neural Networks**  
 R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, Y. Zhang, B. Zimmer, B. Dally, J. Emer, S. Keckler, B. Khailany  
 *International Conference On Computer Aided Design (ICCAD)*, November 2019. [Paper](https://pdfs.semanticscholar.org/f9b9/90566338411ca302787687a5d0c5dc68b692.pdf?_ga=2.50549674.287759541.1574145941-1788187331.1574145941)
