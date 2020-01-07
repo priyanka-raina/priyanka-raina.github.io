@@ -4,6 +4,10 @@ permalink: /publications/
 
 ## Publications
 
+**Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks**  
+M. Low, P. Raina  
+*IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2020.
+
 **Using Halide’s Scheduling Language to Analyze DNN Accelerators**  
 X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. Raina, C. Kozyrakis, M. Horowitz  
 *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020.
