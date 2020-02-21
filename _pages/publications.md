@@ -4,6 +4,10 @@ permalink: /publications/
 
 ## Publications
 
+**A-QED Verification of Hardware Accelerators**  
+E. Singh, F. Lonsing, S. Chattopadhyay, M. Strange, P. Wei, X. Zhang, Y. Zhao, J. Cong, D. Chen, Z. Zhang, P. Raina, C. Barrett, S. Mitra  
+*Design Automation Conference (DAC)*, July 2020.
+
 **Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks**  
 M. Low, P. Raina  
 *IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2020.
