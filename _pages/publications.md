@@ -76,3 +76,8 @@ R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan
 R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
 *International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683)
 
+## Patents
+
+**Automated Surface Area Assessment for Dermatologic Lesions**  
+A. Chandrakasan, V. Huang, J. Huang, P. Raina  
+Feb 2020.
