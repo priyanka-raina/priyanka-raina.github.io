@@ -34,7 +34,7 @@ R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Kl
 
 **Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture**  
 S. Shao, J. Clemons, R. Venkatesan, B. Zimmer, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. Tell, Y. Zhang, B. Dally, J. Emer, C. T. Gray, B. Khailany, S. Keckler  
-*International Symposium on Microarchitecture (MICRO)*, October 2019. **([Best Paper Award](https://www.microarch.org/micro52/program/bestpaper.html))** [Paper](https://people.eecs.berkeley.edu/~ysshao/assets/papers/shao2019-micro.pdf)
+*International Symposium on Microarchitecture (MICRO)*, October 2019. **([Best Paper Award](https://www.microarch.org/micro52/program/bestpaper.html), Top Picks in Computer Architecture Honorable Mentions)** [Paper](https://people.eecs.berkeley.edu/~ysshao/assets/papers/shao2019-micro.pdf)
 
 **Neuro-Inspired Computing with Emerging Memories: Where Device Physics Meets Learning Algorithms**  
 H. Li, P. Raina, H.-S.P. Wong  
