@@ -80,4 +80,4 @@ R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan
 
 **Automated Surface Area Assessment for Dermatologic Lesions**  
 A. Chandrakasan, V. Huang, J. Huang, P. Raina  
-Feb 2020.
+Feb 2020. [Patent](http://www.freepatentsonline.com/y2019/0053750.html)
