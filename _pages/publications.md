@@ -3,10 +3,14 @@ permalink: /publications/
 ---
 
 ## Publications
-
+ 
 **A-QED Verification of Hardware Accelerators**  
 E. Singh, F. Lonsing, S. Chattopadhyay, M. Strange, P. Wei, X. Zhang, Y. Zhao, J. Cong, D. Chen, Z. Zhang, P. Raina, C. Barrett, S. Mitra  
 *Design Automation Conference (DAC)*, July 2020.
+
+**A Voltage-Mode Sensing Scheme with Differential-Row Weight Mapping For Energy-Efficient RRAM-Based In-Memory Computing**  
+W. Wan, R. Kubendran, B. Gao, S. Joshi, P. Raina, H. Wu, G. Cauwenberghs, H.-S. P. Wong  
+*Symposium on VLSI Circuits (VLSIC)*, June 2020. 
 
 **Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks**  
 M. Low, P. Raina  
