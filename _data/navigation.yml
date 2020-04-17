@@ -7,8 +7,6 @@ docs:
     children:
       - title: "Current Projects"
         url: /current-projects/
-      - title: "Upcoming Projects"
-        url: /upcoming-projects/
       - title: "Previous Projects"
         url: /previous-projects/
       - title: "Publications"
