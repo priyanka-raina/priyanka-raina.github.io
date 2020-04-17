@@ -3,7 +3,11 @@ permalink: /publications/
 ---
 
 ## Publications
- 
+  
+**Creating an Agile Hardware Design Flow**  
+R. Bahr, C. Barrett, N. Bhagdikar, A. Carsello, R. Daly, C. Donovick, D. Durst, K. Fatahalian, K. Feng, P. Hanrahan, T. Hofstee, M. Horowitz, D. Huff, F. Kjolstad, T. Kong, Q. Liu, M. Mann, J. Melchert, A. Nayak, A. Niemetz, G. Nyengele, P. Raina, S. Richardson, R. Setaluri, J. Setter, K. Sreedhar, M. Strange, J, Thomas, C. Torng, L. Truong, N. Tsiskaridze, K. Zhang  
+*Design Automation Conference (DAC)*, July 2020.  
+
 **A-QED Verification of Hardware Accelerators**  
 E. Singh, F. Lonsing, S. Chattopadhyay, M. Strange, P. Wei, X. Zhang, Y. Zhao, J. Cong, D. Chen, Z. Zhang, P. Raina, C. Barrett, S. Mitra  
 *Design Automation Conference (DAC)*, July 2020.
