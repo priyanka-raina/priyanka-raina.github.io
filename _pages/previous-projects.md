@@ -11,6 +11,10 @@ In this work, a scalable deep neural network (DNN) inference accelerator consist
 
 **Publications:**
 
+**A 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Inference Accelerator with Ground-Referenced Signaling in 16nm**  
+B. Zimmer, R. Venkatesan, S. Shao, J. Clemons, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, S. W. Keckler, B. Khailany  
+*Journal of Solid-State Circuits (JSSC)*, January 2020. [Paper](https://ieeexplore.ieee.org/document/8959403)
+
 **MAGNet: A Modular Accelerator Generator for Neural Networks**  
 R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, Y. Zhang, B. Zimmer, B. Dally, J. Emer, S. Keckler, B. Khailany  
 *International Conference On Computer Aided Design (ICCAD)*, November 2019.
