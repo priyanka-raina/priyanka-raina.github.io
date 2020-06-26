@@ -56,7 +56,7 @@ The scale of deep neural networks (DNNs) trained on increasingly large datasets 
 
 #### RRAM-Based In-Memory Computing Architecture for Probabilistic Graphical Models
 **Weier Wan**  
-![](/assets/images/weier_rram.png){: .align-right .width-thirty-percent}
+![](/assets/images/weier_rram.png){: .align-right .width-twenty-percent}
 Many powerful neural networks such as probabilistic graphical models and recurrent neural networks require flexibility in dataflow and weight access patterns. This work implements an in-memory computing architecture in a 130-nm CMOS/RRAM process, that offers dataflow reconfigurability to address the limitations of previous designs. It acheives this with in-situ access to RRAM array and its transpose for efficient access to neural network weights and a voltage sensing stochastic analog neuron.
 
 **Publications:**
