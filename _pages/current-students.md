@@ -16,7 +16,10 @@ permalink: /current-students/
 - Kartik Prabhu
 
 ### Undergraduate Research Advisees
-- Makena Low
+- Hongjie Wang (UGVR Scholar)
+- Denisse Ventura (SURF Scholar)
+- Isabela David Rodrigues (REU)
+- Charles Tsao (REU)
 - Michael Oduoza
 
 ### High School Students
