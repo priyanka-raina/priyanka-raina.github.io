@@ -56,10 +56,8 @@ Many powerful neural networks such as probabilistic graphical models and recurre
 
 **A Voltage-Mode Sensing Scheme with Differential-Row Weight Mapping For Energy-Efficient RRAM-Based In-Memory Computing**  
 W. Wan, R. Kubendran, B. Gao, S. Joshi, P. Raina, H. Wu, G. Cauwenberghs, H.-S. P. Wong  
-*Symposium on VLSI Circuits (VLSIC)*, June 2020. presentation: https://stanford.box.com/s/n3pcrulsookozhpnxqwpkkbjhlaea1m3
-summary: https://stanford.box.com/s/gjtv357g4mw2peyjm6zsd1ogeh2xov83
-demo: https://stanford.box.com/s/jgwhx5vszvxgijkh0xyen7q8dfmx7jue
+*Symposium on VLSI Circuits (VLSIC)*, June 2020. [Talk](https://stanford.box.com/s/n3pcrulsookozhpnxqwpkkbjhlaea1m3), [Demo](https://stanford.box.com/s/jgwhx5vszvxgijkh0xyen7q8dfmx7jue)
 
 **A 74TMACS/W CMOS-ReRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-Situ Transposable Weights for Probabilistic Graphical Models**  
 W. Wan, R. Kubendran, S. B. Eryilmaz, W. Zhang, Y. Liao, D. Wu, S. Deiss, B. Gao, P. Raina, S. Joshi, H. Wu, G. Cauwenberghs, H.-S.P. Wong  
-*International Solid-State Circuits Conference (ISSCC)*, February 2020.
+*International Solid-State Circuits Conference (ISSCC)*, February 2020. [Paper](https://ieeexplore.ieee.org/document/9062979)
