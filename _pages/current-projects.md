@@ -47,6 +47,6 @@ Real-time learning from a few examples (one/few-shot learning) is a key challeng
 **Kartik Prabhu, Rohan Doshi**  
 The scale of deep neural networks (DNNs) trained on increasingly large datasets has rapidly outpaced the amount of memory that can be densely integrated on the same die as compute in conventional CMOS technology. This has created an energy and performance bottleneck at the interface with off-chip DRAM. With a theoretically 12F2 1T1R cell, multi-level capability, and the promise of monolithic 3D integration, resistive RAM (RRAM) offers a new, orthogonal path to significant strides in energy-efficiency and performance of DNN hardware. Driven bottom-up by this emerging technology, we are working on a set of DNN hardware architectures which leverage the density of RRAM in both the near-memory, digital and in-memory, mixed-signal computing contexts.
 
-#### In-Memory Computing Architecture for Probabilistic Graphical Models
+#### RRAM-Based In-Memory Computing Architecture for Probabilistic Graphical Models
 **Weier Wan**  
 Many powerful neural networks such as probabilistic graphical models and recurrent neural networks require flexibility in dataflow and weight access patterns. This work implements an in-memory computing architecture in a 130-nm CMOS/RRAM process, that offers dataflow reconfigurability to address the limitations of previous designs. It acheives this with in-situ access to RRAM array and its transpose for efficient access to neural network weights and a voltage sensing stochastic analog neuron.
