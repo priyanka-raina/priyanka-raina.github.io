@@ -7,29 +7,11 @@ toc: true
 ### Agile Hardware/Software Design Methodology
 
 #### Design Space Exploration of CGRA Processing Elements using Peak DSL
-**Kathleen Feng**
-
-#### Auto-scheduling Image Processing and DDN Workloads on CGRAs
-**Adam Dai**
-
-#### Unified Buffer Halide Compiler and Auto-scheduler
-Jeff, Dillon, Adam
-
-#### Lake: Memory DSL
-Qiaoyi, Max, Keyi, Taeyoung, Kavya
-
-#### Gemstone: Physical Design Generator
-Alex, Raj, Taeyoung, James
-
-#### SoC Generation Framework
-Gedeon
-
-#### End-to-end Application Execution
-Teguh, Gedeon
+**Jackson Melchert, Kathleen Feng**
 
 #### HLS-Based Framework for Generating Deep Neural Network Accelerators
 **Kartik Prabhu, Xuan Yang**  
-Deep neural networks require custom accelerators in order to run with high performance and energy efficiency. Several DNN  accelerators that have been proposed have very similar properties, with some form of a systolic array and a hierarchy of on-chip buffers. However, designing accelerators from scratch is very expensive in terms of time and resources. To get around  this, we have created a generator framework using high-level synthesis that can create DNN accelerator designs with different parameters. In addition to this, we have a tool that performs design space exploration and finds the optimal set of parameters such as array and memory sizes in terms of energy and performance. The tool also finds the best scheduling (loop tiling and ordering) of any neural network layer on the accelerator. In other words, the system doesn't just generate the accelerator hardware, but also the compiler for it. We are using this system as a class project in EE272, our chip design bootcamp class.
+Deep neural networks require custom accelerators in order to run with high performance and energy efficiency. Several DNN accelerators that have been proposed have very similar properties, with some form of a systolic array and a hierarchy of on-chip buffers. However, designing accelerators from scratch is very expensive in terms of time and resources. To get around this, we have created a generator framework using high-level synthesis that can create DNN accelerator designs with different parameters. In addition to this, we have a tool that performs design space exploration and finds the optimal set of parameters such as array and memory sizes in terms of energy and performance. The tool also finds the best scheduling (loop tiling and ordering) of any neural network layer on the accelerator. In other words, the system doesn't just generate the accelerator hardware, but also the compiler for it. We are using this system as a class project in EE272, our chip design bootcamp class.
 
 **Code:** [Accelerator Generator](https://github.com/priyanka-raina/dnn-accelerator), [Compiler](https://github.com/xuanyoya/CNN-blocking/tree/dev)
 
@@ -44,7 +26,7 @@ Programmable logic architectures such as FPGAs and CGRAs are extensively used in
 Real-time learning from a few examples (one/few-shot learning) is a key challenge for machine learning systems today. When never-seen-before data is encountered, conventional parametric models like DNNs need to re-learn their parameters via gradient-based learning, often requiring huge amount of data coupled with slow learning iterations. Non-parametric models (like nearest neighbours) do not require any training, but have lower accuracy. Recent research has combined the two to create "memory-augmented" neural networks (MANNs) that can rapidly learn new examples while still performing well on common examples. MANNs consist of a frontend, which is a traditional CNN or RNN, that extracts features from new classes, and a backend associative memory that stores a hashed version of these features. During learning, new features are stored in the memory, and during inference, the feature computed on input data is compared with all the features stored in the memory, and the closest match determines the classification result. This work implements an associative memory with an RRAM-based content addressable memory for area-efficient feature storage and fast feature matching. 
 
 #### Chimera: Compute (Immersed) in Memory with Embedded Resistive Arrays
-**Kartik Prabhu, Rohan Doshi**  
+**Kartik Prabhu, Kalhan Koul**  
 The scale of deep neural networks (DNNs) trained on increasingly large datasets has rapidly outpaced the amount of memory that can be densely integrated on the same die as compute in conventional CMOS technology. This has created an energy and performance bottleneck at the interface with off-chip DRAM. With a theoretically 12F2 1T1R cell, multi-level capability, and the promise of monolithic 3D integration, resistive RAM (RRAM) offers a new, orthogonal path to significant strides in energy-efficiency and performance of DNN hardware. Driven bottom-up by this emerging technology, we are working on a set of DNN hardware architectures which leverage the density of RRAM in both the near-memory, digital and in-memory, mixed-signal computing contexts.
 
 #### RRAM-Based In-Memory Computing Architecture for Probabilistic Graphical Models
