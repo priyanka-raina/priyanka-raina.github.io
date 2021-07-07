@@ -1,16 +1,5 @@
-- name: Research
-  link: /current-projects/
-  dropdown:
-  - name: Current Projects
-    link: /current-projects/
-  - name: Previous Projects
-    link: /previous-projects/
 - name: Publications
   link: /publications/
-- name: Presentations
-  link: /presentations/
-- name: Students
-  link: /students/
 - name: Teaching
   link: /teaching/
   dropdown:
