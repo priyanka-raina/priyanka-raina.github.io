@@ -10,6 +10,14 @@ Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford U
 ## Research Interests
 Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity, Machine Learning, In-Memory Computing
 
+
+## Work Experience
+**Stanford University**, Stanford  
+Assistant Professor, Electrical Engineering, Sep 2018 - Present  
+
+**NVIDIA Corporation**, Santa Clara  
+Visiting Research Scientist, Architecture Research Group, Nvidia Research, Jan 2018 - Aug 2018  
+
 ## Education
 
 **PhD in Electrical Engineering and Computer Science (EECS), Massachusetts Institute of Technology (MIT)**  
