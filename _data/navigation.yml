@@ -7,5 +7,21 @@
     link: /previous-projects/
 - name: Publications
   link: /publications/
+- name: Teaching
+  - name: Teaching
+    link: /teaching/
+  dropdown:
+  - name: EE271
+    link: /ee271/
+  - name: EE272A
+    link: /ee272a/
+  - name: EE272B
+    link: /ee272a/
+  - name: EE309A
+    link: /ee309a/
+  - name: EE309B
+    link: /ee309b/
 - name: Awards
   link: /awards/
+- name: Service
+  link: /service/
