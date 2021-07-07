@@ -10,15 +10,15 @@ EE272A will introduce you to the tools and methods to create CMOS integrated cir
 
 **Term**: 2020-2021 Winter  
 **Units**: 3-4  
-**Instructor**: Priyanka Raina (praina at stanford dot edu)
-**TAs**: Jackson Melchert (melchert at stanford dot edu), Kalhan Koul (kkoul at stanford dot edu)
-**Lectures**: Mon, Wed 10:00 AM - 11:20 AM over Zoom. 
+**Instructor**: Priyanka Raina (praina at stanford dot edu)  
+**TAs**: Jackson Melchert (melchert at stanford dot edu), Kalhan Koul (kkoul at stanford dot edu)  
+**Lectures**: Mon, Wed 10:00 AM - 11:20 AM over Zoom.   
 **Office hours**:  
 Priyanka: Wed, 2:30 - 3:30 PM over Zoom.  
 Jackson: Monday 11:30-12:30 PM and Friday 9-10 AM over Zoom.  
 Kalhan: Thursday 6-7 PM and Sunday 6-7 PM over Zoom.  
-**Canvas**: All documents, including lecture notes, and lecture video recordings will be posted on Canvas. 
-**Piazza**: For questions about lectures, homework, projects we will use Piazza.
+**Canvas**: All documents, including lecture notes, and lecture video recordings will be posted on Canvas.   
+**Piazza**: For questions about lectures, homework, projects we will use Piazza.  
 
 ## Class Project
 This is a project based class, and there is a lot of material that we need to cover in a quarter. As a result you will be introduced to a number of new tools that you will learn through weekly tasks to build your project. The project will involve building a neural network accelerator from scratch. We recommend forming teams of two.
