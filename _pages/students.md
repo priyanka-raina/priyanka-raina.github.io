@@ -1,5 +1,7 @@
 ---
+layout: page
 permalink: /students/
+title: Students
 ---
 
 ## Current Students
