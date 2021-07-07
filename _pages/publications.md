@@ -1,5 +1,8 @@
 ---
-permalink: /publications/
+layout: page
+title: Publications
+subtitle: Page Subtitle
+description: The pages meta description
 ---
 
 ## Publications
