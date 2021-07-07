@@ -8,25 +8,25 @@ menubar: ee272a_menu
 ## Overview
 EE272A will introduce you to the tools and methods to create CMOS integrated circuits. Working in teams you will create a small mixed-signal VLSI design using a modern design flow and EDA tools. The project involves writing a synthesizable C++ model of the chip, using high level synthesis tools to convert it into Verilog, creating a testing/debug strategy for your chip, wrapping custom layout to fit into a standard cell system, using synthesis and place and route tools to create the layout, and understanding all the weird stuff you need to do to tape-out a chip. Useful for anyone who will build a chip in their Ph.D.
 
-Term: 2020-2021 Winter
-Units: 3-4
-Instructor: Priyanka Raina (praina@stanford.edu)
-TAs: Jackson Melchert (melchert@stanford.edu), (mailto:melchert@stanford.edu),) Kalhan Koul (kkoul@stanford.edu (mailto:kkoul@stanford.edu) )
-Lectures: Mon, Wed 10:00 AM - 11:20 AM over Zoom. Office hours:
-Priyanka: Wed, 2:30 - 3:30 PM over Zoom.
-Jackson: Monday 11:30-12:30 PM and Friday 9-10 AM over Zoom. Kalhan: Thursday 6-7 PM and Sunday 6-7 PM over Zoom.
-Canvas: All documents, including lecture notes, and lecture video recordings will be posted on Canvas. Piazza: For questions about lectures, homework, projects use Piazza. Sign up at:
-piazza.com/stanford/winter2021/ee272a (https://piazza.com/stanford/fall2020/ee272) Class Overview
+**Term**: 2020-2021 Winter  
+**Units**: 3-4  
+**Instructor**: Priyanka Raina (praina at stanford dot edu)
+**TAs**: Jackson Melchert (melchert at stanford dot edu), Kalhan Koul (kkoul at stanford dot edu)
+**Lectures**: Mon, Wed 10:00 AM - 11:20 AM over Zoom. 
+**Office hours**:  
+Priyanka: Wed, 2:30 - 3:30 PM over Zoom.  
+Jackson: Monday 11:30-12:30 PM and Friday 9-10 AM over Zoom.  
+Kalhan: Thursday 6-7 PM and Sunday 6-7 PM over Zoom.  
+**Canvas**: All documents, including lecture notes, and lecture video recordings will be posted on Canvas. 
+**Piazza**: For questions about lectures, homework, projects we will use Piazza.
 
-Class Project
-This is a project based class, and there is a lot of material that we need to cover in this quarter. As a result you will be introduced to a number of new tools that you will learn through weekly tasks to build your project. The project will involve building a neural network accelerator from scratch.
-Pre-requisites
-       EE 271 is a pre-requisite for this course.
-https://canvas.stanford.edu/courses/131349
-1/14
- 7/1/2021 Design Projects in VLSI Systems I
- Please talk to us if you have any questions about pre-requisites.
-Course Topics and Tentative Schedule
+## Class Project
+This is a project based class, and there is a lot of material that we need to cover in a quarter. As a result you will be introduced to a number of new tools that you will learn through weekly tasks to build your project. The project will involve building a neural network accelerator from scratch. We recommend forming teams of two.
+
+## Pre-requisites  
+[EE271](https://canvas.stanford.edu/courses/131349) is a pre-requisite for this course. Please talk to us if you have any questions about pre-requisites.
+
+## Course Topics and Tentative Schedule
    # Date
 1 2
 3 4 5 6 7
