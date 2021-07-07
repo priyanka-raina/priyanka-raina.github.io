@@ -2,8 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-subtitle: Page Subtitle
-description: The pages meta description
+hide_hero: true
 ---
 ## Preprints
 **Compiling Halide Programs to Push-Memory Accelerators**  
