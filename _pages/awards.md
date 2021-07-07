@@ -4,6 +4,7 @@ permalink: /awards/
 title: Awards
 hide_hero: true
 ---
+## Awards
 **Hellman Faculty Scholar Award**, 2019  
 **Terman Faculty Fellow**, Stanford, 2018  
 **Raymie Stata TA Award**, MIT, 2017  
