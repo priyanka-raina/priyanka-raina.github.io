@@ -1,37 +1,9 @@
-docs:
-  - title: About
-    url: /
-    
-  - title: Research
-    url: /current-projects/
-    children:
-      - title: "Current Projects"
-        url: /current-projects/
-      - title: "Previous Projects"
-        url: /previous-projects/
-      - title: "Publications"
-        url: /publications/
-      - title: "Presentations"
-        url: /presentations/
-        
-  - title: Teaching
-    url: /teaching/
-    children:
-      - title: "EE 271"
-        url: /ee271/
-      - title: "EE 272"
-        url: /ee272/
-
-  - title: Students
-    url: /current-students/
-    children:
-      - title: "Current Students"
-        url: /current-students/
-      - title: "Previous Students"
-        url: /previous-students/
-        
-  - title: "Awards"
-    url: /awards/
-    
-  - title: "Service"
-    url: /service/
+- name: Research
+  link: current-projects
+  dropdown:
+  - name: Current Projects
+    link: current-projects
+  - name: Previous Projects
+    link: previous-projects
+- name: Publications
+  link: publications
