@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /current-projects/
 title: Current Projects
 subtitle: Page Subtitle
 description: The pages meta description
