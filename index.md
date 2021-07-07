@@ -1,22 +1,23 @@
 ---
 layout: page
-title: Page Title
-subtitle: Page Subtitle
+title: Priyanka Raina
+subtitle: Assistant Professor, Stanford University
 description: The pages meta description
 ---
 
 Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from the IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies, and agile hardware-software design methodology. She has won the Hellman Faculty Scholar Award and is a Terman Faculty Fellow.
 
 ## Research Interests
-Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity, Machine Learning, In-Memory Computing
-
+Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity, Machine Learning, Near-Memory and In-Memory Computing
 
 ## Work Experience
 **Stanford University**, Stanford  
-Assistant Professor, Electrical Engineering, Sep 2018 - Present  
+Assistant Professor, Electrical Engineering  
+Sep 2018 - Present  
 
 **NVIDIA Corporation**, Santa Clara  
-Visiting Research Scientist, Architecture Research Group, Nvidia Research, Jan 2018 - Aug 2018  
+Visiting Research Scientist, Architecture Research Group, Nvidia Research  
+Jan 2018 - Aug 2018  
 
 ## Education
 
@@ -36,8 +37,8 @@ Thesis: Transactional Memory Architecture for Multi-core Processors
 Advisor: Anshul Kumar  
 
 ## Affiliations
-**Stanford AHA (Agile Hardware) Center**  
-**SystemX Alliance (https://systemx.stanford.edu/)**  
+**[Stanford AHA (Agile Hardware) Center](https://aha.stanford.edu/)**  
+**[SystemX Alliance](https://systemx.stanford.edu/)**  
 **AI Chip Center for Emerging Smart Systems (ACCESS)**  
 
 ## Contact
