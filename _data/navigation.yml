@@ -8,8 +8,7 @@
 - name: Publications
   link: /publications/
 - name: Teaching
-  - name: Teaching
-    link: /teaching/
+  link: /teaching/
   dropdown:
   - name: EE271
     link: /ee271/
