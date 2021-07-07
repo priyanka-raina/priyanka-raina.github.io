@@ -1,6 +1,8 @@
 ---
-permalink: /previous-projects/
-toc: true
+layout: page
+title: Previous Projects
+subtitle: Page Subtitle
+description: The pages meta description
 ---
 ## Previous Projects
 
