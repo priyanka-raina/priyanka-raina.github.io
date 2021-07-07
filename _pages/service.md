@@ -8,8 +8,8 @@ hide_hero: true
 ## Service
 
 ### Stanford Committees
-- Committee on Graduate Studies (C-GS) (2020 - )
-- Stanford EE Student Life Committee (2019 - )
+- Committee on Graduate Studies (C-GS) (2020, 2021)
+- Stanford EE Student Life Committee (2019, 2020)
 
 ### Program Chair
 - Hot Chips: A Symposium on High Performance Chips (2020)
