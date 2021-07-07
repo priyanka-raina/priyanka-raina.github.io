@@ -33,7 +33,7 @@ Advisor: Anshul Kumar
 **AI Chip Center for Emerging Smart Systems (ACCESS)**  
 
 ## Contact
+praina at stanford dot edu 
 Paul G. Allen Building, Room 114  
 330 Jane Stanford Way, Stanford, CA 94305  
-praina at stanford dot edu  
 https://profiles.stanford.edu/priyanka-raina  
