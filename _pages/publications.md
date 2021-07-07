@@ -16,11 +16,11 @@ J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan
 ## Publications
 **CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
 M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J. W. Kustin, T. Liu, G. B. Lopes, V. Turbiner, W.-S. Khwa, Y.-D. Chih, M.-F. Chang, G. Lallement, B. Murmann, S. Mitra, P. Raina  
-To appear in *Symposium on VLSI Circuits (VLSI)*, June 2021.
+*Symposium on VLSI Circuits (VLSI)*, June 2021.
 
 **One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory**  
 H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, H.-S. P. Wong, P. Raina  
-To appear in *Symposium on VLSI Technology (VLSI)*, June 2021.
+*Symposium on VLSI Technology (VLSI)*, June 2021.
 
 **Automated Codesign of Domain-Specific Hardware Accelerators and Compilers**  
 P. Raina, F. Kjolstad, M. Horowitz, P. Hanrahan, C. Barrett, K. Fatahalian  
