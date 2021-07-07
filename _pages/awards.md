@@ -1,5 +1,8 @@
 ---
-permalink: /awards/
+layout: page
+title: Awards
+subtitle: Page Subtitle
+description: The pages meta description
 ---
 
 ## Awards
