@@ -1,5 +1,5 @@
 ---
-permalink: /current-students/
+permalink: /students/
 ---
 
 ## Current Students
