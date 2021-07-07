@@ -12,28 +12,28 @@ Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity,
 
 ## Education
 
-**PhD in Electrical Engineering and Computer Science (EECS), Massachusetts Institute of Technology (MIT)**
-Jun 2013 - Feb 2018
-Thesis: Energy-Efficient Circuits and Systems for Computational Imaging and Vision on Mobile Devices
-Advisor: Anantha Chandrakasan 
+**PhD in Electrical Engineering and Computer Science (EECS), Massachusetts Institute of Technology (MIT)**  
+Jun 2013 - Feb 2018  
+Thesis: Energy-Efficient Circuits and Systems for Computational Imaging and Vision on Mobile Devices  
+Advisor: Anantha Chandrakasan   
 
-**S.M. in Electrical Engineering and Computer Science, Massachusetts Institute of Technology (MIT)**
-Sep 2011 - Jun 2013
-Thesis: Architectures for Computational Photography
-Advisor: Anantha Chandrakasan
+**S.M. in Electrical Engineering and Computer Science, Massachusetts Institute of Technology (MIT)**  
+Sep 2011 - Jun 2013  
+Thesis: Architectures for Computational Photography  
+Advisor: Anantha Chandrakasan  
 
-**B.Tech. in Electrical Engineering, Indian Institute of Technology (IIT) Delhi**
-Jul 2007 - May 2011, Department Rank: 1, Institute Rank: 2
-Thesis: Transactional Memory Architecture for Multi-core Processors
-Advisor: Anshul Kumar
+**B.Tech. in Electrical Engineering, Indian Institute of Technology (IIT) Delhi**  
+Jul 2007 - May 2011, Department Rank: 1, Institute Rank: 2   
+Thesis: Transactional Memory Architecture for Multi-core Processors  
+Advisor: Anshul Kumar  
 
 ## Affiliations
 **Stanford AHA (Agile Hardware) Center**  
-**SystemX Alliance (https://systemx.stanford.edu/)**
-**AI Chip Center for Emerging Smart Systems (ACCESS)**
+**SystemX Alliance (https://systemx.stanford.edu/)**  
+**AI Chip Center for Emerging Smart Systems (ACCESS)**  
 
 ## Contact
-Paul G. Allen Building, Room 114
-330 Jane Stanford Way, Stanford, CA 94305
-praina at stanford dot edu
-https://profiles.stanford.edu/priyanka-raina
+Paul G. Allen Building, Room 114  
+330 Jane Stanford Way, Stanford, CA 94305  
+praina at stanford dot edu  
+https://profiles.stanford.edu/priyanka-raina  
