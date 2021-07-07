@@ -29,7 +29,8 @@ Advisor: Anshul Kumar
 
 ## Affiliations
 **Stanford AHA (Agile Hardware) Center**  
-**SystemX**
+**SystemX Alliance (https://systemx.stanford.edu/)**
+**AI Chip Center for Emerging Smart Systems (ACCESS)**
 
 ## Contact
 Paul G. Allen Building, Room 114
