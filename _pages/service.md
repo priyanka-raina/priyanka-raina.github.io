@@ -1,5 +1,7 @@
 ---
+layout: page
 permalink: /service/
+title: Service
 ---
 
 ## Service
