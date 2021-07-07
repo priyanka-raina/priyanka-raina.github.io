@@ -2,6 +2,7 @@
 layout: page
 permalink: /awards/
 title: Awards
+hide_hero: true
 ---
 **Hellman Faculty Scholar Award**, 2019  
 **Terman Faculty Fellow**, Stanford, 2018  
