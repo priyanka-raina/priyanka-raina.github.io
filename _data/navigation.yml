@@ -1,5 +1,5 @@
 - name: Research
-  link: current-projects
+  link: /current-projects/
   dropdown:
   - name: Current Projects
     link: current-projects
