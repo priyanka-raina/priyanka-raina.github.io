@@ -16,13 +16,20 @@ title: Students
 
 ### MS Research Advisees
 - Kartik Prabhu
+- Michael Oduoza
 
-### Undergraduate Research Advisees
+## Previous Students
+
+### Undergraduate Research Students
 - Hongjie Wang (UGVR Scholar)
 - Denisse Ventura (SURF Scholar)
 - Isabela David Rodrigues (REU)
 - Charles Tsao (REU)
-- Michael Oduoza
+- Charles Tsao (REU, Summer 2019)
+- Makena Low (REU, Summer 2019)
+
+### UGVR Students
+- Zheng Liang (UGVR Scholar, Summer 2019)
 
 ### High School Students
 - Akhilesh Balasingam
