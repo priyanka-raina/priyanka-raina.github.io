@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /previous-projects/
 title: Previous Projects
 subtitle: Page Subtitle
 description: The pages meta description
