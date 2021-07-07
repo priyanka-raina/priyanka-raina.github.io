@@ -1,6 +1,8 @@
 ---
-permalink: /current-projects/
-toc: true
+layout: page
+title: Current Projects
+subtitle: Page Subtitle
+description: The pages meta description
 ---
 ## Current Projects
 
