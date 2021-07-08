@@ -14,7 +14,7 @@ hide_hero: true
 ### Program Chair
 - Hot Chips: A Symposium on High Performance Chips (2020)
 
-### Technical Program Committees
+### Program Committees
 - Symposium on VLSI Circuits (2022)
 - International Symposium on High-Performance Computer Architecture (HPCA) (2022)
 - International Symposium on Microarchitecture (MICRO) (2021)
