@@ -29,6 +29,7 @@ This is a project based class, and there is a lot of material that we need to co
 
 ## Course Topics and Tentative Schedule
 | #   | Date        | Topic                                                          | Homework                      |  
+
 | --- | ----------- | -------------------------------------------------------------- | ----------------------------- |  
 | 1   | Mon, Jan 11 | Class objective and overview, major tasks, tools, and flow     | HW1: Design space exploration |  
 | 2   | Wed, Jan 13 | DNNs, chip constraints, and the limitation of accelerators     |                               |  
