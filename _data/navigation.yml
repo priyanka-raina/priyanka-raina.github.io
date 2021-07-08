@@ -4,15 +4,15 @@
   link: /teaching/
   dropdown:
   - name: EE271
-    link: /ee271/
+    link: /ee271-autumn2019/
   - name: EE272A
     link: /ee272a-winter2021/
   - name: EE272B
     link: /ee272b-spring2021/
   - name: EE309A
-    link: /ee309a/
+    link: /ee309a-autumn2020/
   - name: EE309B
-    link: /ee309b/
+    link: /ee309b-winter2021/
 - name: Awards
   link: /awards/
 - name: Service
