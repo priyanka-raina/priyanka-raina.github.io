@@ -7,7 +7,7 @@ show_sidebar: false
 menubar: ee272b_menu
 ---
 ## Overview
-This is a follow on course to EE272A. While in EE272A you learn the EDA tool flow and design a pre-specified digital neural network accelerator and an analog block, in EE272B you will leverage your knowledge from EE272A and design and fabricate your own digital/analog/mixed-signal chip! This is a completely project-based course where, working in teams of two, you will propose your own mixed-signal chip, write a Verilog or a synthesizable C++ model of your chip, create a testing/debug strategy for your chip, wrap custom layout to fit into a standard cell system, use synthesis and place and route tools to create the layout of your chip, perform physical verification of your chip and finally tape it out. Useful for anyone who will build a chip in their Ph.D. 
+This is a follow on course to EE272A. While in EE272A you learn the EDA tool flow and design a pre-specified digital neural network accelerator and an analog block, in EE272B you will leverage your knowledge from EE272A and design and fabricate your own digital/analog/mixed-signal chip! This is a completely project-based course where, working in teams of two, you will propose your own mixed-signal chip, write a Verilog or a synthesizable C++ model of your chip, create a testing/debug strategy for your chip, wrap custom layout to fit into a standard cell system, use synthesis and place and route tools to create the layout of your chip, perform physical verification of your chip and finally tape it out in the open-source SkyWater 130 nm technology. Useful for anyone who will build a chip in their Ph.D. 
 
 **Term**: 2020-2021 Spring  
 
@@ -36,7 +36,7 @@ Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 
 Pre-requisites: EE271, EE272A and fundamentals of digital/analog circuit design.
 
 ## Student Projects
-**Bandgap Voltage Reference**
+### Bandgap Voltage Reference
 John Kustin  
 [Code](https://github.com/johnkustin/ee272b)
 
@@ -52,19 +52,19 @@ Can Wang, Estelle He
 Nikhil Poole    
 [Code](https://code.stanford.edu/nhpoole/ee272b_mixed_signal_mmwave_accelerator.git)  
 
-Wakey-Wakey: Low Power Reconfigurable Wake Word Accelerator  
+### Wakey-Wakey: Low Power Reconfigurable Wake Word Accelerator  
 Matthew Pauly, Eldrick Millares  
 [Code](https://github.com/eldrickm/wakey_wakey)  
 
-CryptoChip: RISC-V Processor with Crypto Accelerator  
+### CryptoChip: RISC-V Processor with Crypto Accelerator  
 Kylee Krzanich, Sam Xu  
 [Code](https://github.com/krsandwich/EE272B)  
 
-RISC-V OoO Processor with Victim Caches  
+### RISC-V OoO Processor with Victim Caches  
 George Klimiashvili, Ismael Garcia  
 [Code](https://code.stanford.edu/igarc774/ee-272b-ooo-processor-project)  
 
-Toy-CGRA: A Coarse-Grained Reconfigurable Array  
+### Toy-CGRA: A Coarse-Grained Reconfigurable Array  
 Po-Han Chen, Charles Tsao  
 [Code](https://github.com/chtsao8/ee272b_CGRA)  
 
