@@ -12,13 +12,17 @@ This is a follow on course to EE272A. While in EE272A you learn the EDA tool flo
 **Term**: 2020-2021 Spring  
 **Units**: 3-4  
 **Instructor**: Priyanka Raina (praina at stanford dot edu)  
-**TAs**: Jackson Melchert (melchert at stanford dot edu), Kalhan Koul (kkoul at stanford dot edu)  
-**Lectures**: Mon, Wed 10:00 AM - 11:20 AM over Zoom.   
-**Office hours**:  
-Priyanka: Wed, 2:30 - 3:30 PM over Zoom.  
-Jackson: Mon, 11:30 - 12:30 PM and Fri, 9 - 10 AM over Zoom.  
-Kalhan: Thu, 6 - 7 PM and Sun, 6 - 7 PM over Zoom.  
+**TAs**: Kartik Prabhu (kprabhu7 at stanford dot edu), Daniel Stanley (dstanley at stanford dot edu )  
+**Lectures**: Mon, Wed 1 - 2:30 PM over Zoom.   
+**Open office hours**:  
+Priyanka: Wed, 2:30 - 3:30 PM over Zoom.
+Kartik: Fri, 1 - 2 PM over Zoom.
+Daniel: Thu, 1 - 2 PM over Zoom.
+**Project sync-ups**:  
+Priyanka:	Mon, 2:30 - 3 PM (Po-Han/Charles), Mon, 3:30 - 4 PM (John)
+Kartik:	Mon, 2:30 - 3 PM (Kylee/Sam), Mon, 3:30 - 4 PM (Ismael/George), Tue, 2 - 2:30 PM(Eldrick/Matthew)
+Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 4:30 - 5 PM (Nikhil)
 **Canvas**: All documents, including lecture notes, and lecture video recordings will be posted on Canvas.   
-**Piazza**: For questions about lectures and homework we will use Piazza.  
+**Slack/Piazza**: For questions about lectures and project debugging we will use Slack and Piazza. Everyone should also join the [skywater-pdk Slack channel](https://invite.skywater.tools/) for collaborating and debugging with the larger open hardware community.
 
-Pre-requisites: EE271Links to an external site., EE272A and fundamentals of digital/analog circuit design.
+Pre-requisites: EE271, EE272A and fundamentals of digital/analog circuit design.
