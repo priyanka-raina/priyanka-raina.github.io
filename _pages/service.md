@@ -16,6 +16,7 @@ hide_hero: true
 
 ### Technical Program Committees
 - Symposium on VLSI Circuits (2022)
+- International Symposium on High-Performance Computer Architecture (HPCA) (2022)
 - International Symposium on Microarchitecture (MICRO) (2021)
 - International Symposium on Computer Architecture (ISCA) (2021)
 - TinyML (2021)
