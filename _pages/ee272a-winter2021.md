@@ -21,8 +21,8 @@ Kalhan: Thu, 6 - 7 PM and Sun, 6 - 7 PM over Zoom.
 **Canvas**: All documents, including lecture notes, and lecture video recordings will be posted on Canvas.   
 **Piazza**: For questions about lectures and homework we will use Piazza.  
 
-## Class Project
-This is a project based class, and there is a lot of material that we need to cover in a quarter. As a result you will be introduced to a number of new tools that you will learn through weekly tasks to build your project. The project will involve building a large digital design (a neural network accelerator) and an analog design (a phase-locked loop (PLL)) from scratch. We recommend forming teams of two for all homework.
+## Course Project
+This is a project based course, and there is a lot of material that we need to cover in a quarter. As a result you will be introduced to a number of new tools that you will learn through weekly tasks to build your project. The project will involve building a large digital design (a neural network accelerator) and an analog design (a phase-locked loop (PLL)) from scratch. We recommend forming teams of two for all homework.
 
 ## Pre-requisites  
 [EE271](/ee271-autumn2019/) is a pre-requisite for this course. Please talk to us if you have any questions about pre-requisites.
