@@ -72,7 +72,7 @@ Full text of the honor code policy and fundamental standard is [here](https://co
 ### ADA Policy
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066, [website](http://oae.stanford.edu)).
 
-### Other Useful Classes
+### Other Useful Courses
 Introduction to VLSI systems (EE271) - Pre-requisite  
 Design Projects in VLSI Systems II (EE272B) - Follow up course to EE 272A  
 Digital Systems Engineering (EE273)  
