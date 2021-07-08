@@ -40,33 +40,33 @@ Pre-requisites: EE271, EE272A and fundamentals of digital/analog circuit design.
 John Kustin  
 [Code](https://github.com/johnkustin/ee272b)
 
-### OpenPMIC: Buck Convertor
-Weston Braun, Aparna Tumkur
-[Code](https://github.com/westonb/open-pmic)
+### OpenPMIC: A Current Mode Buck Converter in Sky130  
+Weston Braun, Aparna Tumkur  
+[Code](https://github.com/westonb/open-pmic)  
 
-High Speed Serial Link
-Can Wang, Estelle He
-[Code](https://github.com/CansWang/open-source-phy_SKY130)
+### High Speed Serial Link  
+Can Wang, Estelle He  
+[Code](https://github.com/CansWang/open-source-phy_SKY130)  
 
-RADAR Motion Compensation  
-Nikhil Poole  
-[Code](https://code.stanford.edu/nhpoole/ee272b_mixed_signal_mmwave_accelerator.git)
+### A Mixed-Signal Edge Accelerator for Real-Time mmWave Platform Vibration Compensation   
+Nikhil Poole    
+[Code](https://code.stanford.edu/nhpoole/ee272b_mixed_signal_mmwave_accelerator.git)  
 
-Wakey-Wakey: Low Power Reconfigurable Wake Word Accelerator
-Matthew Pauly, Eldrick Millares
-[Code](https://github.com/eldrickm/wakey_wakey)
+Wakey-Wakey: Low Power Reconfigurable Wake Word Accelerator  
+Matthew Pauly, Eldrick Millares  
+[Code](https://github.com/eldrickm/wakey_wakey)  
 
-CryptoChip: RISC-V Processor with Crypto Accelerator
-Kylee Krzanich, Sam Xu
-[Code](https://github.com/krsandwich/EE272B)
+CryptoChip: RISC-V Processor with Crypto Accelerator  
+Kylee Krzanich, Sam Xu  
+[Code](https://github.com/krsandwich/EE272B)  
 
-RISC-V OoO Processor with Victim Caches
-George Klimiashvili, Ismael Garcia
-[Code](https://code.stanford.edu/igarc774/ee-272b-ooo-processor-project)
+RISC-V OoO Processor with Victim Caches  
+George Klimiashvili, Ismael Garcia  
+[Code](https://code.stanford.edu/igarc774/ee-272b-ooo-processor-project)  
 
-Toy-CGRA: A Coarse-Grained Reconfigurable Array
-Po-Han Chen, Charles Tsao
-[Code](https://github.com/chtsao8/ee272b_CGRA)
+Toy-CGRA: A Coarse-Grained Reconfigurable Array  
+Po-Han Chen, Charles Tsao  
+[Code](https://github.com/chtsao8/ee272b_CGRA)  
 
 
 ## Grading	 
