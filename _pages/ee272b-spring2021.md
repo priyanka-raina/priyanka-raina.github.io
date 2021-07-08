@@ -44,7 +44,7 @@ John Kustin
 Weston Braun, Aparna Tumkur  
 [Code](https://github.com/westonb/open-pmic)  
 
-### High Speed Serial Link  
+### OpenSourcePHY: A High Speed Serial Link in Sky130
 Can Wang, Estelle He  
 [Code](https://github.com/CansWang/open-source-phy_SKY130)  
 
@@ -52,11 +52,11 @@ Can Wang, Estelle He
 Nikhil Poole    
 [Code](https://code.stanford.edu/nhpoole/ee272b_mixed_signal_mmwave_accelerator.git)  
 
-### Wakey-Wakey: Low Power Reconfigurable Wake Word Accelerator  
+### Wakey-Wakey: A Low-Power, Reconfigurable Wake Word Accelerator  
 Matthew Pauly, Eldrick Millares  
 [Code](https://github.com/eldrickm/wakey_wakey)  
 
-### CryptoChip: RISC-V Processor with Crypto Accelerator  
+### CryptoChip: A RISC-V Processor with Crypto Accelerator  
 Kylee Krzanich, Sam Xu  
 [Code](https://github.com/krsandwich/EE272B)  
 
