@@ -4,7 +4,7 @@ permalink: /ee272a-winter2021/
 title: EE272A - Design Projects in VLSI Systems I
 subtitle: Learn the complete digital and analog design toolflow while creating your own neural network accelerator!  
 show_sidebar: false
-menubar: ee272a_menu
+menubar: ee272_menu
 ---
 ## Overview
 EE272A will introduce you to the tools and methods to create CMOS integrated circuits. Working in teams you will create a small mixed-signal VLSI design using a modern design flow and EDA tools. The project involves writing a synthesizable C++ model of the chip, using high level synthesis tools to convert it into Verilog, creating a testing/debug strategy for your chip, wrapping custom layout to fit into a standard cell system, using synthesis and place and route tools to create the layout, and understanding all the weird stuff you need to do to tape-out a chip. Useful for anyone who will build a chip in their Ph.D.
