@@ -44,7 +44,7 @@ This is a project based course, and there is a lot of material that we need to c
 | 11  | Mon, Feb 15 | Presidents' Day (holiday, no classes) | HW5 due, HW6: Synthesis, floorplanning, EE272B project proposal due |
 | 12  | Wed, Feb 17 | Analog functional modeling ([Slides](https://stanford.box.com/s/xl952vv6raqk2knmxgtx3aqrshsog6dx)) | |
 | 13  | Mon, Feb 22 | Analog functional modeling | HW6 due, HW7: Place and route, timing closure, signoff |
-| 14  | Wed, Feb 24 | PDK overview and making custom cells |  |
+| 14  | Wed, Feb 24 | PDK overview and making custom cells ([Slides](https://stanford.box.com/s/f2rtbg1ncc88kk8zhsyis0h23faix6gk))|  |
 | 15  | Mon, Mar 1  | Making custom cells | HW7 due, HW8: Analog block modeling and design  |
 | 16  | Wed, Mar 3  | Floorplanning and power planning ([Slides](https://stanford.box.com/s/9518iz4jzz4a53px33000ckvyn7vmu3x)) |
 | 17  | Mon, Mar 8  | Floorplanning and power planning | HW8 due, HW9: Hierarchical design, analog block integration |
