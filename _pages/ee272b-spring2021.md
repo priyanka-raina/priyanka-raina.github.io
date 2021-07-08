@@ -37,6 +37,7 @@ Pre-requisites: EE271, EE272A and fundamentals of digital/analog circuit design.
 
 ## Student Projects
 ### Bandgap Voltage Reference
+{% include image-modal.html ratio="is-16by9" link="https://via.placeholder.com/400x225" alt="Example image" large_link="https://via.placeholder.com/1200x675" %}
 John Kustin  
 [Code](https://github.com/johnkustin/ee272b)
 
