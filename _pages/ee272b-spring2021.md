@@ -60,7 +60,7 @@ Matthew Pauly, Eldrick Millares
 Kylee Krzanich, Sam Xu  
 [Code](https://github.com/krsandwich/EE272B)  
 
-### RISC-V OoO Processor with Victim Caches  
+### A RISC-V OoO Processor with Victim Caches  
 George Klimiashvili, Ismael Garcia  
 [Code](https://code.stanford.edu/igarc774/ee-272b-ooo-processor-project)  
 
