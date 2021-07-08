@@ -28,13 +28,13 @@ This is a project based class, and there is a lot of material that we need to co
 [EE271](/ee271-autumn2019/) is a pre-requisite for this course. Please talk to us if you have any questions about pre-requisites.
 
 ## Course Topics and Tentative Schedule
-| #   | Date        | Topic                                                      | Homework                      |
-| --- | ----------- | ---------------------------------------------------------- | ----------------------------- |
-| 1  | Mon, Jan 11 | Class objective and overview, major tasks, tools, and flow | HW1: Design space exploration |
-| 2  | Wed, Jan 13 | DNNs, chip constraints, and the limitation of accelerators | |
-| 3  | Mon, Jan 18 | Martin Luther King, Jr., Day (holiday, no classes)         | HW1 due, HW2: Unit testing and design in SystemVerilog |
-| 4  | Wed, Jan 20 | Maintaining designer sanity, creating a testing infrastructure | HW2 due, HW3: Integration testing and design in SystemVerilog |
-| 5  | Mon, Jan 25 | High level synthesis | |
+| #   | Date        | Topic                                                          | Homework                      |  
+| --- | ----------- | -------------------------------------------------------------- | ----------------------------- |  
+| 1   | Mon, Jan 11 | Class objective and overview, major tasks, tools, and flow     | HW1: Design space exploration |  
+| 2   | Wed, Jan 13 | DNNs, chip constraints, and the limitation of accelerators     |                               |  
+| 3   | Mon, Jan 18 | Martin Luther King, Jr., Day (holiday, no classes)             | HW1 due, HW2: Unit testing and design in SystemVerilog |
+| 4   | Wed, Jan 20 | Maintaining designer sanity, creating a testing infrastructure | HW2 due, HW3: Integration testing and design in SystemVerilog |
+| 5   | Mon, Jan 25 | High level synthesis                                           |                               |  
 | 6  | Wed, Jan 27 | High level synthesis | |
 | 7  | Mon, Feb 1  | Visual introduction to physical design | HW3 due, HW4: HLS design and functional verification |
 | 8  | Wed, Feb 3  | Static timing analysis |
