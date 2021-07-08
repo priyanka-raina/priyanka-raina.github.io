@@ -15,7 +15,7 @@ This is a follow on course to EE272A. While in EE272A you learn the EDA tool flo
 
 **Instructor**: Priyanka Raina (praina at stanford dot edu)  
 
-**TAs**: Kartik Prabhu (kprabhu7 at stanford dot edu), Daniel Stanley (dstanley at stanford dot edu )  
+**TAs**: Kartik Prabhu (kprabhu7 at stanford dot edu), Daniel Stanley (dstanley at stanford dot edu)  
 
 **Lectures**: Mon, Wed 1 - 2:30 PM over Zoom.   
 
