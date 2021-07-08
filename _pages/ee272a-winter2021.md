@@ -28,30 +28,30 @@ This is a project based class, and there is a lot of material that we need to co
 [EE271](/ee271-autumn2019/) is a pre-requisite for this course. Please talk to us if you have any questions about pre-requisites.
 
 ## Course Topics and Tentative Schedule
-| #   | Date        | Topic                                                          | Homework                      |  
 
+| #   | Date        | Topic                                                          | Homework                      |  
 | --- | ----------- | -------------------------------------------------------------- | ----------------------------- |  
 | 1   | Mon, Jan 11 | Class objective and overview, major tasks, tools, and flow     | HW1: Design space exploration |  
 | 2   | Wed, Jan 13 | DNNs, chip constraints, and the limitation of accelerators     |                               |  
 | 3   | Mon, Jan 18 | Martin Luther King, Jr., Day (holiday, no classes)             | HW1 due, HW2: Unit testing and design in SystemVerilog |
 | 4   | Wed, Jan 20 | Maintaining designer sanity, creating a testing infrastructure | HW2 due, HW3: Integration testing and design in SystemVerilog |
 | 5   | Mon, Jan 25 | High level synthesis                                           |                               |  
-| 6  | Wed, Jan 27 | High level synthesis | |
-| 7  | Mon, Feb 1  | Visual introduction to physical design | HW3 due, HW4: HLS design and functional verification |
-| 8  | Wed, Feb 3  | Static timing analysis |
-| 9  | Mon, Feb 8  | Advanced synthesis (retiming, memories, clock, reset), floorplanning | HW4 due, HW5: HLS design and performance verification |
-| 10 | Wed, Feb 10 | P&R: Placement |
-| 11 | Mon, Feb 15 | Presidents' Day (holiday, no classes) | HW5 due, HW6: Synthesis, floorplanning, EE272B project proposal due |
-| 12 | Wed, Feb 17 | P&R: Clock tree synthesis, routing | |
-| 13 | Mon, Feb 22 | P&R: Signoff steps - timing closure, DRC, LVS, LPE, GLS | HW6 due, HW7: Place and route, timing closure, signoff |
-| 14 | Wed, Feb 24 | Analog functional model | |
-| 15 | Mon, Mar 1  | Making cells | HW7 due, HW8: Analog block modeling and design |
-| 16 | Wed, Mar 3  | How to use Virtuoso for schematic and layout, design rule overview, how to wrap a cell for P&R |
-| 17 | Mon, Mar 8  | Design for testability | HW8 due, HW9: Hierarchical design, analog block integration |
-| 18 | Wed, Mar 10 | Packaging | |
-| 19 | Mon, Mar 15 | Power domains | HW9 due, HW10: Optimization, comparison with DSE, comparison with related work, paper like final report (due only if taking the class for 4 units) |
-| 20 | Wed, Mar 17 | Board design basics | |
-|    | Fri, Mar 19 | HW10 due, EE272B project checkin|
+| 6   | Wed, Jan 27 | High level synthesis                                           |                               |
+| 7   | Mon, Feb 1  | Visual introduction to physical design                         | HW3 due, HW4: HLS design and functional verification |
+| 8   | Wed, Feb 3  | Static timing analysis                                         |
+| 9   | Mon, Feb 8  | Advanced synthesis (retiming, memories, clock, reset), floorplanning | HW4 due, HW5: HLS design and performance verification |
+| 10  | Wed, Feb 10 | P&R: Placement                                                 |
+| 11  | Mon, Feb 15 | Presidents' Day (holiday, no classes)                          | HW5 due, HW6: Synthesis, floorplanning, EE272B project proposal due |
+| 12  | Wed, Feb 17 | P&R: Clock tree synthesis, routing                             |                               |
+| 13  | Mon, Feb 22 | P&R: Signoff steps - timing closure, DRC, LVS, LPE, GLS        | HW6 due, HW7: Place and route, timing closure, signoff |
+| 14  | Wed, Feb 24 | Analog functional model                                        |                               |
+| 15  | Mon, Mar 1  | Making cells | HW7 due, HW8: Analog block modeling and design  |
+| 16  | Wed, Mar 3  | How to use Virtuoso for schematic and layout, design rule overview, how to wrap a cell for P&R |
+| 17  | Mon, Mar 8  | Design for testability                                         | HW8 due, HW9: Hierarchical design, analog block integration |
+| 18  | Wed, Mar 10 | Packaging                                                      |                               |
+| 19  | Mon, Mar 15 | Power domains                                                  | HW9 due, HW10: Final report (due only if taking the class for 4 units) |
+| 20  | Wed, Mar 17 | Board design basics                                            |                               |
+|     | Fri, Mar 19 | HW10 due, EE272B project checkin                               |                               |
 
 ### Course Texts and Materials
 The lecture notes are the main reference material that you will use in the class. While the notes will cover the material in the class, they will not be as complete as the information that you would find in a textbook.
