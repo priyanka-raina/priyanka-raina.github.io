@@ -119,14 +119,14 @@ Full text of the honor code policy and fundamental standard is [here](https://co
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066, [website](http://oae.stanford.edu)).
 
 ### Other Useful Classes
-Introduction to VLSI systems (EE 271) - Pre-requisite  
-Design Projects in VLSI Systems II (EE 272B) - Follow up course to EE 272A  
-Digital Systems Engineering (EE 273)  
-Semiconductor Memory Devices and Circuit Design (EE 309A)  
-Emerging Non-Volatile Memory Devices and Circuit Design (EE 309B)  
-Fundamentals of Analog Integrated Circuit Design (EE 214A)  
-Advanced Integrated Circuit Design (EE 214B)  
-RF Integrated Circuit Design (EE 314A)  
-Analog-Digital Interface Circuits (EE 315)  
+Introduction to VLSI systems (EE271) - Pre-requisite  
+Design Projects in VLSI Systems II (EE272B) - Follow up course to EE 272A  
+Digital Systems Engineering (EE273)  
+Semiconductor Memory Devices and Circuit Design (EE309A)  
+Emerging Non-Volatile Memory Devices and Circuit Design (EE309B)  
+Fundamentals of Analog Integrated Circuit Design (EE214A)  
+Advanced Integrated Circuit Design (EE214B)  
+RF Integrated Circuit Design (EE314A)  
+Analog-Digital Interface Circuits (EE315)  
 Programming (perl, C, python)  
 Plus application-specific knowledge  
