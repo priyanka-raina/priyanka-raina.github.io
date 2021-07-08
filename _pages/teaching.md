@@ -9,7 +9,7 @@ hide_hero: true
 
 ### Stanford University
 **[EE272B: Design Projects in VLSI Systems - II, Spring 2021](/ee272b-spring2021/)**  
-**[EE272A: Design Projects in VLSI Systems - I, Winter 2021](/ee272a-winter2021/)** 
+**[EE272A: Design Projects in VLSI Systems - I, Winter 2021](/ee272a-winter2021/)**   
 **EE309B: Emerging Non-Volatile Memory Devices and Circuit Design**, Winter 2021  
 **EE309A: Semiconductor Memory Devices and Circuit Design**, Autumn 2020  
 **EE272: Design Projects in VLSI Systems**, Winter 2020  
