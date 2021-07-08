@@ -31,7 +31,7 @@ This is a project based course, and there is a lot of material that we need to c
 
 | #   | Date        | Topic                                                          | Homework                      |  
 | --- | ----------- | -------------------------------------------------------------- | ----------------------------- |  
-| 1   | Mon, Jan 11 | Class objective and overview, major tasks, tools, and flow     | HW1: Design space exploration |  
+| 1   | Mon, Jan 11 | Class objective and overview, major tasks, tools, and flow [Lecture](https://stanford.box.com/s/c0k52llce81twjlon6t120iv0u2ca9bi) | HW1: Design space exploration |  
 | 2   | Wed, Jan 13 | DNNs, chip constraints, and the limitation of accelerators     |                               |  
 | 3   | Mon, Jan 18 | Martin Luther King, Jr., Day (holiday, no classes)             | HW1 due, HW2: Unit testing and design in SystemVerilog |
 | 4   | Wed, Jan 20 | Maintaining designer sanity, creating a testing infrastructure | HW2 due, HW3: Integration testing and design in SystemVerilog |
