@@ -37,7 +37,7 @@ This is a project based course, and there is a lot of material that we need to c
 | 4   | Wed, Jan 20 | Maintaining designer sanity, creating a testing infrastructure ([Slides](https://stanford.box.com/s/h9aft1lh4eoaxyhre1waffw1iedniioe))| |
 | 5   | Mon, Jan 25 | High level synthesis ([Slides](https://stanford.box.com/s/0oa5yolmoe99mjuofpd9gfl7icellyy9)) | HW2 due, HW3: Integration testing and design in SystemVerilog |  
 | 6   | Wed, Jan 27 | Visual introduction to physical design ([Slides](https://stanford.box.com/s/fk9rl7wdwlrdfhlko5m1vw8nms8pom4u)) |                               |
-| 7   | Mon, Feb 1  | Visual introduction to physical design ([Slides](https://stanford.box.com/s/fk9rl7wdwlrdfhlko5m1vw8nms8pom4u)) | HW3 due, HW4: HLS design and functional verification |
+| 7   | Mon, Feb 1  | Visual introduction to physical design | HW3 due, HW4: HLS design and functional verification |
 | 8   | Wed, Feb 3  | Static timing analysis ([Slides](https://stanford.box.com/s/fk9rl7wdwlrdfhlko5m1vw8nms8pom4u)) |
 | 9   | Mon, Feb 8  | Guest lecture | HW4 due, HW5: HLS design and performance verification |
 | 10  | Wed, Feb 10 | Advanced synthesis (retiming, memories, clock, reset) ([Slides](https://stanford.box.com/s/mxudl8tx5f6kzahrjkcliq57zbmowxpc)) |
