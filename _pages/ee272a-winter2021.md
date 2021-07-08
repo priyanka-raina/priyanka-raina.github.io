@@ -2,6 +2,7 @@
 layout: page
 permalink: /ee272a-winter2021/
 title: EE272A - Design Projects in VLSI Systems I
+subtitle: Learn the complete digital and analog design toolflow while creating your own neural network accelerator!  
 show_sidebar: false
 menubar: ee272a_menu
 ---
