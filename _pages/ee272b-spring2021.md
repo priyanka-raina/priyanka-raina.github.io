@@ -7,7 +7,7 @@ show_sidebar: false
 menubar: ee272b_menu
 ---
 ## Overview
-This is a follow on course to EE272A. While in EE272A you learn the EDA tool flow and design a pre-specified digital neural network accelerator and an analog block, in EE272B you will leverage your knowledge from EE272A and design and fabricate your own digital/analog/mixed-signal chip! This is a completely project-based course where, working in teams of two, you will propose your own mixed-signal chip, write a Verilog or a synthesizable C++ model of your chip, create a testing/debug strategy for your chip, wrap custom layout to fit into a standard cell system, use synthesis and place and route tools to create the layout of your chip, perform physical verification of your chip and finally tape it out in the open-source SkyWater 130 nm technology. Useful for anyone who will build a chip in their Ph.D. 
+This is a follow on course to EE272A. While in EE272A you learn the EDA tool flow and design a pre-specified digital neural network accelerator and an analog block, in EE272B you will leverage your knowledge from EE272A and design and fabricate your own digital/analog/mixed-signal chip! This is a completely project-based course where, working in teams of two, you will propose your own mixed-signal chip, write a Verilog or a synthesizable C++ model of your chip, create a testing/debug strategy for your chip, wrap custom layout to fit into a standard cell system, use synthesis and place and route tools to create the layout of your chip, perform physical verification and finally tape it out in the open-source SkyWater 130 nm technology. Useful for anyone who will build a chip in their Ph.D. 
 
 **Term**: 2020-2021 Spring  
 
