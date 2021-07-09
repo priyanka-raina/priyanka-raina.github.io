@@ -22,7 +22,7 @@ items:
     icon: fa-github
     icon_brand: true
     description: >
-      Use the toolchain to tape out your own chip in teams of 2. Tapeout complete by end of Spring! 
+      Work in teams of 2 to complete your chip tapeout by the end of Spring!
 
     call_to_action_name: EE272B
     call_to_action_link: /ee272b-spring2021/
