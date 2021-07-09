@@ -1,7 +1,7 @@
 style: is-light
 height: is-medium
 items:
-  - title: EE271
+  - title: EE271 (Autumn)
     subtitle: Learn digital design fundamentals
     icon: fa-space-shuttle
     description: >
@@ -9,7 +9,7 @@ items:
  
     call_to_action_name: EE271
     call_to_action_link: /ee271-autumn2019/
-  - title: EE272A
+  - title: EE272A (Winter)
     subtitle: Learn the digital and analog EDA toolchain on an example project
     icon: fa-wrench
     description: >
@@ -17,7 +17,7 @@ items:
 
     call_to_action_name: EE272A
     call_to_action_link: /ee272a-winter2021/
-  - title: EE272B
+  - title: EE272B (Spring)
     subtitle: Use the toolchain to tape out your own chip!
     icon: fa-github
     icon_brand: true
