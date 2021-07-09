@@ -6,6 +6,9 @@ hide_hero: true
 ---
 
 ## Teaching
+For students interested in chip design, the following course sequence is recommended:
+
+
 
 ### Stanford University
 **[EE272B: Design Projects in VLSI Systems - II, Spring 2021](/ee272b-spring2021/)**  
