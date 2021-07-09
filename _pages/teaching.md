@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-hide_hero: true
 callouts: vlsi_courses
 ---
 
