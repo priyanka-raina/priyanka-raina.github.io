@@ -59,7 +59,7 @@ Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 
     </ul>
 
     <ul>
-      <li><strong>Analog design flow</strong>: We use an open-source analog design flow with the following tools: 
+      <li><strong>Analog design flow</strong>: We use an open-source analog design flow with the following tools (note that commercial analog design tools like Virtuoso and Calibre are not supported for this open PDK yet): 
           <ul>
               <li>PDK files from <a href="https://github.com/google/skywater-pdk">skywater-pdk</a>, <a href="https://github.com/RTimothyEdwards/open_pdks">open_pdks</a> and <a href="https://github.com/StefanSchippers/xschem_sky130">xschem_sky130</a>. All of these are necessary.</li>
               <li>Schematic entry with <a href="https://github.com/StefanSchippers/xschem">xschem</a>.</li>
@@ -79,9 +79,10 @@ Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 
     
 {% include image-modal.html ratio="is-3by1" link="/assets/images/analog_flow.svg" alt="Voltage reference" large_link="/assets/images/analog_flow.svg" %}
 <ul>
-  <li><strong>Digital design flow</strong>: We use either an open-source digital design flow called <a href="https://github.com/efabless/openlane">OpenLane</a>, or for advanced features, a commercial digital design flow composed using <a href="https://github.com/mflowgen/mflowgen">mflowgen</a>.
+  <li><strong>Digital design flow</strong>: We use either an open-source digital design flow called <a href="https://github.com/efabless/openlane">OpenLane</a>, or for advanced features, a (mostly) commercial digital design flow shown below composed using <a href="https://github.com/mflowgen/mflowgen">mflowgen</a>. Note that since the open PDK does not have support for Calibre yet, we use a combination of magic and netgen for DRC, extraction and LVS for the digital designs as well. In either case, we perform the final integration of the user design into the <a href="https://github.com/efabless/caravel_user_project">caravel user project</a> using OpenLane. This user project is submitted to the shuttle.</li>
 </ul>
 
+{% include image-modal.html ratio="is-3by1" link="/assets/images/commercial_digital_flow.svg" alt="Voltage reference" large_link="/assets/images/commercial_digital_flow.svg" %}
     
 <h2 id="projects">Resources</h2>
 
