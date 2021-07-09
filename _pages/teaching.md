@@ -2,12 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Teaching
+subtitle: For students interested in chip design, the following course sequence is recommended.
 callouts: vlsi_courses
 ---
-
-## Teaching
-For students interested in chip design, the following course sequence is recommended.
-
 
 ## Courses Taught
 
