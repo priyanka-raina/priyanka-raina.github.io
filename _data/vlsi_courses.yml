@@ -1,7 +1,7 @@
 style: is-light
 height: is-medium
 items:
-  - title: EE271:
+  - title: EE271
     subtitle: Learn digital design fundamentals
     icon: fa-space-shuttle
     description: >
@@ -9,7 +9,7 @@ items:
  
     call_to_action_name: EE271
     call_to_action_link: /ee271-autumn2019/
-  - title: EE272A: 
+  - title: EE272A
     subtitle: Learn the digital and analog EDA toolchain on an example project
     icon: fa-wrench
     description: >
