@@ -1,9 +1,8 @@
 style: is-light
-height: is-medium
+height: is-small
 items:
   - title: EE271 (Autumn)
     subtitle: Learn digital design fundamentals
-    icon: fa-space-shuttle
     description: >
       Taken typically by 1st year PhD and MS students, and co-terms and seniors.
  
@@ -11,7 +10,6 @@ items:
     call_to_action_link: /ee271-autumn2019/
   - title: EE272A (Winter)
     subtitle: Learn the digital and analog EDA toolchain on an example project
-    icon: fa-wrench
     description: >
       The example project is a neural network accelerator and a phase-locked loop. During this course you also write your EE272B chip proposal.
 
@@ -19,8 +17,6 @@ items:
     call_to_action_link: /ee272a-winter2021/
   - title: EE272B (Spring)
     subtitle: Use the toolchain to tape out your own chip!
-    icon: fa-microchip
-    icon_brand: true
     description: >
       Work in teams of 2 to complete your chip tapeout by the end of Spring!
 
