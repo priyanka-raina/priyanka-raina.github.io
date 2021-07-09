@@ -67,7 +67,7 @@ Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 
               <li>Simulation with <a href="https://sourceforge.net/p/ngspice/ngspice/ci/master/tree/">ngspice</a>.</li>
               <li>Layout, extraction and DRC with <a href="https://github.com/RTimothyEdwards/magic">magic</a>.</li>
               <li>LVS with <a href="https://github.com/RTimothyEdwards/netgen">netgen</a>.</li>
-              <li>Manual routing of design using magic into the <a href="https://github.com/efabless/caravel_user_project_analog">caravel analog user project</a>. This user project is submitted to the shuttle.</li>
+              <li>Manual routing of design using magic into the <a href="https://github.com/efabless/caravel_user_project_analog">caravel analog user project</a>. This user project is verified with <a href="https://github.com/efabless/open_mpw_precheck">precheck tool</a> and submitted to the shuttle.</li>
           </ul>
       </li>
     </ul>
@@ -80,7 +80,7 @@ Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 
     
 {% include image-modal.html ratio="is-3by1" link="/assets/images/analog_flow.svg" alt="Voltage reference" large_link="/assets/images/analog_flow.svg" %}
 <ul>
-  <li><strong>Digital design flow</strong>: We use either an open-source digital design flow called <a href="https://github.com/efabless/openlane">OpenLane</a>, or for advanced features, a (mostly) <a href="https://code.stanford.edu/ee272/skywater-digital-flow">commercial digital design flow</a> shown below composed using <a href="https://github.com/mflowgen/mflowgen">mflowgen</a>. Note that since the open PDK does not have support for Calibre yet, we use a combination of magic and netgen for DRC, extraction and LVS for the digital designs as well. In either case, we perform the final integration of the user design into the <a href="https://github.com/efabless/caravel_user_project">caravel user project</a> using OpenLane. This user project is submitted to the shuttle.</li>
+  <li><strong>Digital design flow</strong>: We use either an open-source digital design flow called <a href="https://github.com/efabless/openlane">OpenLane</a>, or for advanced features, a (mostly) <a href="https://code.stanford.edu/ee272/skywater-digital-flow">commercial digital design flow</a> shown below composed using <a href="https://github.com/mflowgen/mflowgen">mflowgen</a>. Note that since the open PDK does not have support for Calibre yet, we use a combination of magic and netgen for DRC, extraction and LVS for the digital designs as well. In either case, we perform the final integration of the user design into the <a href="https://github.com/efabless/caravel_user_project">caravel user project</a> using OpenLane. This user project is verified with <a href="https://github.com/efabless/open_mpw_precheck">precheck tool</a> and submitted to the shuttle.</li>
 </ul>
 
 {% include image-modal.html ratio="is-3by1" link="/assets/images/commercial_digital_flow.svg" alt="Voltage reference" large_link="/assets/images/commercial_digital_flow.svg" %}
@@ -102,6 +102,11 @@ Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 
     <li><h4>Installing Tools</h4>
         <ul>
             <li>This <a href="https://xschem.sourceforge.io/stefan/xschem_man/video_tutorials/install_xschem_sky130_and_ngspice.mp4">video</a> shows how to install ngspice, skywater-pdk, xschem_sky130, and xschem.</li>
+            <li>Caravel:
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=zJhnmilXGPo&ab_channel=efabless">User project features video</a>.</li>
+                </ul>
+            </li>
         </ul>
     </li>
     
