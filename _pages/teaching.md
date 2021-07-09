@@ -3,12 +3,12 @@ layout: page
 permalink: /teaching/
 title: Teaching
 hide_hero: true
+callouts: vlsi_courses
 ---
 
 ## Teaching
-For students interested in chip design, the following course sequence is recommended:
+For students interested in chip design, the following course sequence is recommended.
 
-![Stanford VLSI courses](/assets/images/stanford_vlsi_courses.svg)
 
 ## Courses Taught
 
