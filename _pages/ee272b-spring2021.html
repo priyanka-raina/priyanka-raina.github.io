@@ -61,7 +61,16 @@ Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 
                       <li>100 packaged ICs and 5 assembled boards post fabrication.</li>
                   </ul>
               </li>
-              <li><strong>Analog design flow</strong>: We use an open-source analog design flow: <a href="https://github.com/StefanSchippers/xschem">xschem</a> (for schematic entry), ngspice (for simulation), magic (for layout, extraction and DRC), netgen (for LVS) and finally routed the designs manually using magic into the <a href="https://github.com/efabless/caravel_user_project_analog">caravel analog user project</a>.</li>
+              <li><strong>Analog design flow</strong>: We use an open-source analog design flow: 
+                  <ul>
+                      <li>PDK: skywater-pdk, open_pdks</li>
+                      <li>Schematic entry: <a href="https://github.com/StefanSchippers/xschem">xschem</a></li>
+                      <li>Simulation: ngspice</li>
+                      <li>Layout, extraction and DRC: magic</li>
+                      <li>LVS: netgen</li>
+                      <li>Manual routing of design using magic into the <a href="https://github.com/efabless/caravel_user_project_analog">caravel analog user project</a>.</li>
+                  </ul>
+              </li>
           </ul>
       </span>
   </div>
