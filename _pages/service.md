@@ -19,7 +19,7 @@ hide_hero: true
 - International Symposium on High-Performance Computer Architecture (HPCA) (2022)
 - International Symposium on Microarchitecture (MICRO) (2021)
 - International Symposium on Computer Architecture (ISCA) (2021)
-- TinyML (2021)
+- TinyML (2021, 2022)
 - Design Automation Conference (DAC) (2020, 2021)
 - International Conference on Computer Design (ICCD) (2020)
 - Hot Chips: A Symposium on High Performance Chips (2019, 2020)
