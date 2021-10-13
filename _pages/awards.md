@@ -5,7 +5,7 @@ title: Awards
 hide_hero: true
 ---
 ## Awards
-**Intel 2021 Rising Star Faculty Award**, 2021
+**[Intel 2021 Rising Star Faculty Award](https://www.intel.com/content/www/us/en/research/blogs/rising-star-faculty-award-21.html)**, 2021   
 **Hellman Faculty Scholar Award**, 2019  
 **Terman Faculty Fellow**, Stanford, 2018  
 **Raymie Stata TA Award**, MIT, 2017  
