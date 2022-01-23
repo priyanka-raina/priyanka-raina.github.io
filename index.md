@@ -9,6 +9,8 @@ description: The pages meta description
 
 **Research Interests**: Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity, Machine Learning, Near-Memory and In-Memory Computing
 
+For a complete list of my ongoing projects please see my research group website: [https://stanfordaccelerate.github.io/](https://stanfordaccelerate.github.io/).
+
 ## Work Experience
 **Stanford University**, Stanford  
 Assistant Professor, Electrical Engineering  
