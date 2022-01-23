@@ -5,7 +5,9 @@ title: Awards
 hide_hero: true
 ---
 ## Awards
+**[JSSC Best Paper Award](https://sscs.ieee.org/membership/awards/jssc-best-paper-award)** for 2020 for the paper "A 0.32–128 TOPS, Scalable Multi-Chip-Module-Based Deep Neural Network Inference Accelerator With Ground-Referenced Signaling in 16 nm", 2022  
 **[Intel 2021 Rising Star Faculty Award](https://www.intel.com/content/www/us/en/research/blogs/rising-star-faculty-award-21.html)**, 2021   
+**[Best Paper Award at MICRO 2019](https://www.microarch.org/micro52/program/bestpaper.html)** for the paper "Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture", 2019  
 **Hellman Faculty Scholar Award**, 2019  
 **Terman Faculty Fellow**, Stanford, 2018  
 **Raymie Stata TA Award**, MIT, 2017  
