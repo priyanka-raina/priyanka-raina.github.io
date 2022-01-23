@@ -45,4 +45,7 @@ Advisor: Anshul Kumar
 praina at stanford dot edu  
 Paul G. Allen Building, Room 114  
 330 Jane Stanford Way, Stanford, CA 94305  
-https://profiles.stanford.edu/priyanka-raina  
+Stanford website: [https://profiles.stanford.edu/priyanka-raina](https://profiles.stanford.edu/priyanka-raina)  
+Research group website: [https://stanfordaccelerate.github.io/](https://stanfordaccelerate.github.io/)  
+[Google scholar](https://scholar.google.com/citations?user=rx_hNNEAAAAJ&hl=en)  
+
