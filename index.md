@@ -5,7 +5,7 @@ subtitle: Assistant Professor, Stanford University
 description: The pages meta description
 ---
 
-<img src="/assets/images/priyanka-raina.jpeg" width="300"> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from the IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies, and agile hardware-software design methodology. She has won the Hellman Faculty Scholar Award and is a Terman Faculty Fellow.
+<img src="/assets/images/priyanka-raina.jpeg" width="300" align="right"> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from the IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies, and agile hardware-software design methodology. She has won the Hellman Faculty Scholar Award and is a Terman Faculty Fellow.
 
 ## Research Interests
 Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity, Machine Learning, Near-Memory and In-Memory Computing
