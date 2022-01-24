@@ -9,7 +9,7 @@ description: The pages meta description
 
 **Research Interests**: Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity, Machine Learning, Near-Memory and In-Memory Computing
 
-For a complete list of ongoing projects please see her [publications](https://priyanka-raina.github.io/publications/) research group website: [https://stanfordaccelerate.github.io/](https://stanfordaccelerate.github.io/).
+For a complete list of ongoing and past projects please see her [publications](https://priyanka-raina.github.io/publications/) and research group website: [https://stanfordaccelerate.github.io/](https://stanfordaccelerate.github.io/).
 
 ## Work Experience
 **Stanford University**, Stanford  
