@@ -24,7 +24,7 @@ hide_hero: true
 - TinyML (2021, 2022)
 - Design Automation Conference (DAC) (2020, 2021, 2022)
 - International Conference on Computer Design (ICCD) (2020)
-- Hot Chips: A Symposium on High Performance Chips (2019, 2020)
+- Hot Chips: A Symposium on High Performance Chips (2019, 2020, 2022)
 
 ### Session Chair
 - Design Automation Conference (DAC) (2020)
