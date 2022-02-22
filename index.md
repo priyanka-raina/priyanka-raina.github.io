@@ -40,7 +40,7 @@ Advisor: Anshul Kumar
 ## Affiliations
 **[Stanford AHA (Agile Hardware) Center](https://aha.stanford.edu/)**  
 **[SystemX Alliance](https://systemx.stanford.edu/)**  
-**AI Chip Center for Emerging Smart Systems (ACCESS)**  
+**[AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk)**  
 
 ## Contact
 praina at stanford dot edu  
