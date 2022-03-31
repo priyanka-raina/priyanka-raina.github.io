@@ -40,42 +40,42 @@ Please talk to us if you have any questions about prerequisites.
 
 ## Course topics and tentative schedule
     
-| #   | Date        | Topic                                                          | Homework                      |  
-| --- | ----------- | -------------------------------------------------------------- | ----------------------------- | 
-|1 | Mon, Sep 23	| Introduction | |
-|2 | Wed, Sep 25	| Transistors and gates	| HW 1 out |
-|  | Fri, Sep 27	| Review session 1 | |	
-|3 | Mon, Sep 30	| Layout and fabrication | |	
-|4 | Wed, Oct 2	| Gate delay and power - 1	| |
-|  | Fri, Oct 4	  | Review session 2	| HW 2 out, HW 1 due |
-|5 | Mon, Oct 7	| Gate delay and power - 2, scaling	| |
-|6 | Wed, Oct 9	| Delay optimization and logical effort - 1 |	 |
-|  | Fri, Oct 11	| Review session 3	| HW 3 out, HW 2 due |
-|7 | Mon, Oct 14	| Delay optimization and logical effort - 2	| |
-|8 | Wed, Oct 16	| Static timing analysis	| |
-|  | Fri, Oct 18	| Review session 4	| HW 4 out, HW 3 due |
-|9 | Mon, Oct 21	| Sequential circuits	| |
-|10| Wed, Oct 23	| HDLs, synthesis, optimizations | 	|
-|  | Fri, Oct 25	| Review session 5: Midterm review	| HW 5 out, HW 4 due |
-|11| Mon, Oct 28	| Midterm (in class)	| |
-|12| Wed, Oct 30	| Hardware generators (genesis, magma)	|
-|  | Fri, Nov 1	  | Review session 6: Project walk-through | HW 5 due, Project out |
-|13| Mon, Nov 4	  | Design verification (Richard Ho) | |
-|14| Wed, Nov 6	  | Formal verification - 1 (Clark Barrett) | |	
-|  | Fri, Nov 8	  | Review session 7: SystemVerilog, genesis2, UVM drivers and monitors | |
-|15| Mon, Nov 11	| Formal verification - 2 (Clark Barrett)	| Project part 1 due |
-|16| Wed, Nov 13	| Advanced synthesis, delay models	| |
-|  | Fri, Nov 15	| Review session 8: Writing assertions and using CoSA (Makai) | |	
-|17| Mon, Nov 18	| High level synthesis	| |
-|18| Wed, Nov 20	| QED and symbolic QED (Subhasish Mitra)	| Project part 2 due |
-|  | Fri, Nov 22	| Review session 9: Rasterizer optimizations	| |
-|  | Mon, Nov 25	| No class (Thanksgiving)	| |
-|  | Wed, Nov 27	| No class (Thanksgiving)	| |
-|  | Wed, Nov 29	| No review session (Thanksgiving)	| |
-|19| Mon, Dec 2	  | Testing and design for testability	| |
-|20| Wed, Dec 4	  | Accelerators	| Project part 3 due |
-|  | Fri, Dec 6	  | Review session 10: Magma + fault (Lenny), HLS	| |
-|  | Fri, Dec 13	|	| Project part 4 due (extra credit) |     
+| #   | Date        | Topic                                                               | Homework                      |
+| --- | ----------- | ------------------------------------------------------------------- | ----------------------------- | 
+| 1   | Mon, Sep 23	| Introduction                                                        | |
+| 2   | Wed, Sep 25	| Transistors and gates	                                              | HW 1 out |
+|     | Fri, Sep 27	| Review session 1                                                    | |	
+| 3   | Mon, Sep 30	| Layout and fabrication                                              | |	
+| 4   | Wed, Oct 2	| Gate delay and power - 1 	                                          | |
+|     | Fri, Oct 4  | Review session 2	                                                  | HW 2 out, HW 1 due |
+| 5   | Mon, Oct 7	| Gate delay and power - 2, scaling	                                  | |
+| 6   | Wed, Oct 9	| Delay optimization and logical effort - 1                           |	 |
+|     | Fri, Oct 11	| Review session 3	                                                  | HW 3 out, HW 2 due |
+| 7   | Mon, Oct 14	| Delay optimization and logical effort - 2	                          | |
+| 8   | Wed, Oct 16	| Static timing analysis	                                          | |
+|     | Fri, Oct 18	| Review session 4	                                                  | HW 4 out, HW 3 due |
+| 9   | Mon, Oct 21	| Sequential circuits	                                              | |
+| 10  | Wed, Oct 23	| HDLs, synthesis, optimizations                                      | 	|
+|     | Fri, Oct 25	| Review session 5: Midterm review	                                  | HW 5 out, HW 4 due |
+| 11  | Mon, Oct 28	| Midterm (in class)	                                              | |
+| 12  | Wed, Oct 30	| Hardware generators (genesis, magma)	                              |
+|     | Fri, Nov 1  | Review session 6: Project walk-through                              | HW 5 due, Project out      |
+| 13  | Mon, Nov 4  | Design verification (Richard Ho)                                    | |
+| 14  | Wed, Nov 6  | Formal verification - 1 (Clark Barrett)                             | |	
+|     | Fri, Nov 8  | Review session 7: SystemVerilog, genesis2, UVM drivers and monitors | |
+| 15  | Mon, Nov 11	| Formal verification - 2 (Clark Barrett)	| Project part 1 due |
+| 16  | Wed, Nov 13	| Advanced synthesis, delay models	| |
+|     | Fri, Nov 15	| Review session 8: Writing assertions and using CoSA (Makai) | |	
+| 17  | Mon, Nov 18	| High level synthesis	| |
+| 18  | Wed, Nov 20	| QED and symbolic QED (Subhasish Mitra)	| Project part 2 due |
+|     | Fri, Nov 22	| Review session 9: Rasterizer optimizations	| |
+|     | Mon, Nov 25	| No class (Thanksgiving)	| |
+|     | Wed, Nov 27	| No class (Thanksgiving)	| |
+|     | Wed, Nov 29	| No review session (Thanksgiving)	| |
+| 19  | Mon, Dec 2  | Testing and design for testability	| |
+| 20  | Wed, Dec 4  | Accelerators	| Project part 3 due |
+|     | Fri, Dec 6  | Review session 10: Magma + fault (Lenny), HLS	| |
+|     | Fri, Dec 13	|	| Project part 4 due (extra credit) |     
 
 
 ## Course grading
