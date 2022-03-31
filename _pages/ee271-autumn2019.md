@@ -39,6 +39,7 @@ EE 101A and EE 108  (or equivalents) are pre-requisites for this course. We are 
 Please talk to us if you have any questions about prerequisites.
 
 ## Course topics and tentative schedule
+    
 | #   | Date        | Topic                                                          | Homework                      |  
 | --- | ----------- | -------------------------------------------------------------- | ----------------------------- | 
 |1 | Mon, Sep 23	| Introduction | |
@@ -74,7 +75,8 @@ Please talk to us if you have any questions about prerequisites.
 |19| Mon, Dec 2	  | Testing and design for testability	| |
 |20| Wed, Dec 4	  | Accelerators	| Project part 3 due |
 |  | Fri, Dec 6	  | Review session 10: Magma + fault (Lenny), HLS	| |
-|  | Fri, Dec 13	|	| Project part 4 due (extra credit) | 
+|  | Fri, Dec 13	|	| Project part 4 due (extra credit) |     
+
 
 ## Course grading
 Midterm: 35% - In class exam, closed book but 1 hand written cheatsheet allowed.    
