@@ -53,26 +53,26 @@ This is a project based course, and there is a lot of material that we need to c
 | 20  | Wed, Mar 17 | Power domains ([Slides](https://stanford.box.com/s/5qnb6lypa462f3klpaic5c8tkss7svxz)) |  |
 |     | Fri, Mar 19 | HW10 due, EE272B project checkin  |  |
 
-### Course Texts and Materials
+## Course Texts and Materials
 The lecture notes are the main reference material that you will use in the class. While the notes will cover the material in the class, they will not be as complete as the information that you would find in a textbook.
 To get additional information and/or an alternative explanation of the material in the notes, you can refer to these textbooks:  
 Kahng, Lienig, Markov, Hu, VLSI Physical Design  
 Weste, Harris, Principles of CMOS VLSI Design (4th Edition)  
 Rabaey, Chandrakasan, Nikolic, Digital Integrated Circuits (2nd Edition)  
 
-### Course Videos
+## Course Videos
 Course recordings can be accessed by logging into the course Canvas site. These recordings might be reused in other Stanford courses, viewed by other Stanford students, faculty, or staff, or used for other education and research purposes. Note that while the recording will mostly capture instructor slides and video, occasionally a part of your image or voice might be incidentally captured. If you have questions, please contact a member of the teaching team.
 
-### Academic Misconduct Policy
+## Academic Misconduct Policy
 It is expected that Stanford’s Honor Code will be followed in all matters relating to this course. You are encouraged to meet and exchange ideas with your classmates while studying and working on homework assignments, but you are individually responsible for your own work and for understanding the material. You are not permitted to copy or otherwise reference another student’s homework or computer code. If you have any questions regarding this policy, feel free to contact us.
 Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, disciplinary probation, suspension from the university, or dismissal from the university.
 Students are responsible for understanding the University’s Honor Code policy and must make proper use of citations of sources for writing papers, creating, presenting, and performing their work, taking examinations, and doing research.
 Full text of the honor code policy and fundamental standard is [here](https://communitystandards.stanford.edu/student-conduct-process/honor-code-and-fundamental-standard).
 
-### ADA Policy
+## ADA Policy
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066, [website](http://oae.stanford.edu)).
 
-### Other Useful Courses
+## Other Useful Courses
 Introduction to VLSI systems (EE271) - Pre-requisite  
 Design Projects in VLSI Systems II (EE272B) - Follow up course to EE 272A  
 Digital Systems Engineering (EE273)  
