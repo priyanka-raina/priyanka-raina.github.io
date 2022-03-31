@@ -8,18 +8,18 @@ items:
  
     call_to_action_name: EE271
     call_to_action_link: /ee271-autumn2019/
-  - title: EE272A (Winter)
+  - title: EE272 (Winter)
     subtitle: Learn the digital and analog EDA toolchain on an example project
     description: >
       The example project is a neural network accelerator and a phase-locked loop. During this course you also write your EE272B chip proposal.
 
-    call_to_action_name: EE272A
+    call_to_action_name: EE272
     call_to_action_link: /ee272a-winter2021/
-  - title: EE272B (Spring)
+  - title: EE372 (Spring)
     subtitle: Use the toolchain to tape out your own chip!
     description: >
       Work in teams of 2 to complete your chip tapeout by the end of Spring!
 
-    call_to_action_name: EE272B
+    call_to_action_name: EE372
     call_to_action_link: /ee272b-spring2021/
     
