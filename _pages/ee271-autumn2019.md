@@ -10,31 +10,19 @@ Rarely does a single technology take over the world in quite the way that integr
 
 The course starts with a quick introduction to MOS transistors and IC fabrication and then creates abstractions to allow you to create and reason about complex digital systems. It uses a switch resistor model of a transistor, uses it to model gates, and then shows how gates and physical layout can be synthesized from Verilog or SystemVerilog descriptions. Most of the class will be spent on providing techniques to create designs that can be validated, are low power, provide good performance, and can be completed in finite time.
 
-Term: 2019-2020 Autumn
-
-Units: 3
-
-Instructor: Priyanka Raina
-
-TAs: Kartik Prabhu, Maxwell Bradley Strange
-
-Lectures: Mon, Wed 10:30 AM - 12:00 PM at Thornton 102
-
-Review sessions: Fri, 11:30 - 12:20 at Thornton 102
-
-Weekly review sessions will help you recap some of the pre-requisites and discuss homework and background material for the project.
-
-Office hours:
-
-Priyanka: Mon, Tue, 1:30 - 2:30 PM in Allen 114
-
-Kartik: Mon, Wed, 6:00 - 7:00 PM in Packard 106
-
-Max: Tue, Thur, 10:30 - 11:30 AM in Gates 323
-
-Canvas: All documents, including lecture notes, and lecture video recordings will be posted on Canvas.
-
-Piazza: For questions about lectures, homeworks and project we will use Piazza. 
+**Term**: 2019-2020 Autumn    
+**Units**: 3    
+**Instructor**: Priyanka Raina    
+**TAs**: Kartik Prabhu, Maxwell Bradley Strange    
+**Lectures**: Mon, Wed 10:30 AM - 12:00 PM at Thornton 102    
+**Review sessions**: Fri, 11:30 - 12:20 at Thornton 102    
+Weekly review sessions will help you recap some of the pre-requisites and discuss homework and background material for the project.    
+**Office hours**:    
+Priyanka: Mon, Tue, 1:30 - 2:30 PM in Allen 114    
+Kartik: Mon, Wed, 6:00 - 7:00 PM in Packard 106    
+Max: Tue, Thur, 10:30 - 11:30 AM in Gates 323    
+**Canvas**: All documents, including lecture notes, and lecture video recordings will be posted on Canvas.    
+**Piazza**: For questions about lectures, homeworks and project we will use Piazza.     
 
 ## Course learning goals
 By taking this course, you will be able to:
@@ -88,22 +76,22 @@ Fri, Dec 6	Review session 10: Magma + fault (Lenny), HLS
 Fri, Dec 13		Project part 4 due (extra credit)
 
 ## Course grading
-Midterm: 35% - In class exam, closed book but 1 hand written cheatsheet allowed.
-Homework: 25% - 5 homeworks, 5% each.
-Project: 40% (+ extra 10%)- Can be time consuming, going to the review sessions will be helpful.
-In groups of 2.
-Part 1: Write C/C++ code to express high-level system behavior for a rasterization pipeline.
-Part 2: Implement the rasterization pipeline in SystemVerilog and synthesize it to gates using EDA tools.
-Part 3: Optimize the performance of the design.
-Part 4: (extra 10%) Port the rasterizer to magma and fault (new generator framework) and high level synthesis, and compare results.
+Midterm: 35% - In class exam, closed book but 1 hand written cheatsheet allowed.    
+Homework: 25% - 5 homeworks, 5% each.    
+Project: 40% (+ extra 10%) - Can be time consuming, going to the review sessions will be helpful.    
+In groups of 2.    
+Part 1: Write C/C++ code to express high-level system behavior for a rasterization pipeline.    
+Part 2: Implement the rasterization pipeline in SystemVerilog and synthesize it to gates using EDA tools.    
+Part 3: Optimize the performance of the design.    
+Part 4: (extra 10%) Port the rasterizer to magma and fault (new generator framework) and high level synthesis, and compare results.    
 
 ## Homework
-Handed out on Fridays (except HW1).
-Due the following week (at 11:59 PM on Friday). Please submit homework on canvas.
-Homework received up to 24 hours late will receive 50% credit. Homework received beyond 24 hours late will receive 0% credit.
-Group work on homework is okay, but each student must prepare their own individual assignment to turn in.
-If you need us to regrade your homework or midterm it must be submitted within 1 week.
-Entire homework/midterm will be re-graded and downgrading is possible.
+Handed out on Fridays (except HW1).    
+Due the following week (at 11:59 PM on Friday). Please submit homework on canvas.    
+Homework received up to 24 hours late will receive 50% credit. Homework received beyond 24 hours late will receive 0% credit.    
+Group work on homework is okay, but each student must prepare their own individual assignment to turn in.    
+If you need us to regrade your homework or midterm it must be submitted within 1 week.    
+Entire homework/midterm will be re-graded and downgrading is possible.    
 
 ## Make-up exam policy
 There are no make-ups for the midterm, so you must plan to be in class that day. Let me know immediately if a university-sanctioned event makes it impossible for you to be present at the midterm.
