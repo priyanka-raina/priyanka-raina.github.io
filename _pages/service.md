@@ -35,3 +35,6 @@ Serving on:
 - Committee on Graduate Studies (C-GS) (2020-22)
 - Stanford EE Student Life Committee Chair (2021-22)
 - Stanford EE Student Life Committee (2019-22)
+
+### MIT Student Leadership Roles
+- Graduate Women in Course 6 (GW6), Co-president, 2014   
