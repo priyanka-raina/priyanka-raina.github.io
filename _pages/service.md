@@ -37,4 +37,4 @@ Serving on:
 - Stanford EE Student Life Committee (2019-22)
 
 ### MIT Student Leadership Roles
-- Graduate Women in Course 6 (GW6), Co-president, 2014   
+- Graduate Women in Course 6 (GW6), Co-president (2014)   
