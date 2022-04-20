@@ -12,13 +12,17 @@ description: The pages meta description
 For a complete list of ongoing and past projects please see her [publications](https://priyanka-raina.github.io/publications/) and [research group website](https://stanfordaccelerate.github.io/).
 
 ## Work Experience
-**Stanford University**, Stanford  
+**Stanford University**, Stanford, CA    
 Assistant Professor, Electrical Engineering  
 Sep 2018 - Present  
 
-**NVIDIA Corporation**, Santa Clara  
-Visiting Research Scientist, Architecture Research Group, Nvidia Research  
+**NVIDIA Corporation**, Santa Clara, CA    
+Visiting Research Scientist, Architecture Research Group, NVIDIA Research  
 Jan 2018 - Aug 2018  
+
+**Intel Corporation**, Hillsboro, OR    
+Graduate Research Intern, Intel Labs    
+Jun 2013 - Aug 2013     
 
 ## Education
 
