@@ -41,6 +41,9 @@ Jul 2007 - May 2011, Department Rank: 1, Institute Rank: 2
 Thesis: Transactional Memory Architecture for Multi-core Processors  
 Advisor: Anshul Kumar  
 
+## Talks
+- [AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers at the Berkeley/Stanford/UCSC Cloud Workshop](https://vimeo.com/showcase/9529523)
+
 ## Affiliations
 **[Stanford AHA (Agile Hardware) Center](https://aha.stanford.edu/)**  
 **[SystemX Alliance](https://systemx.stanford.edu/)**  
