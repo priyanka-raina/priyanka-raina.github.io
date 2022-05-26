@@ -42,7 +42,8 @@ Thesis: Transactional Memory Architecture for Multi-core Processors
 Advisor: Anshul Kumar  
 
 ## Talk Videos
-- AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers at the Berkeley/Stanford/UCSC Cloud Workshop. [Video](https://vimeo.com/showcase/9529523)
+- **Accelerating Semiconductor Innovation in the U.S.** at the PCAST public meeting on the challenges and opportunities for U.S. leadership in semiconductors, May 12, 2022. [Video](https://www.whitehouse.gov/pcast/meetings/2022-meetings/)
+- **AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers** at the Berkeley/Stanford/UCSC Cloud Workshop, May 11, 2022. [Video](https://vimeo.com/showcase/9529523)
 
 ## Affiliations
 **[Stanford AHA (Agile Hardware) Center](https://aha.stanford.edu/)**  
