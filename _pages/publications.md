@@ -53,7 +53,7 @@ Binh Q. Le, Akash Levy, Tony F. Wu, Robert M. Radway, E. Ray Hsieh, Xin Zheng, M
 
 **CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
 M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J. W. Kustin, T. Liu, G. B. Lopes, V. Turbiner, W.-S. Khwa, Y.-D. Chih, M.-F. Chang, G. Lallement, B. Murmann, S. Mitra, P. Raina  
-*Symposium on VLSI Circuits (VLSI)*, June 2021. [Paper](https://ieeexplore.ieee.org/abstract/document/9492347) **(Best Student Paper Award - Circuits)**  
+*Symposium on VLSI Circuits (VLSI)*, June 2021. [Paper](https://ieeexplore.ieee.org/abstract/document/9492347) **(Best Student Paper Award)**  
 
 **One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory**  
 H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, H.-S. P. Wong, P. Raina  
