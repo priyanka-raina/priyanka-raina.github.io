@@ -5,7 +5,7 @@ title: Awards
 hide_hero: true
 ---
 ## Awards
-**Best Demo Paper Award** at the 2022 IEEE Symposium on VLSI Technology & Circuits for the paper "", 2022    
+**Best Demo Paper Award** at the 2022 IEEE Symposium on VLSI Technology & Circuits for the paper "Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra", 2022    
 
 **Best Student Paper Award (Circuits)** at the 2021 IEEE Symposia on VLSI Technology & Circuits for the paper "CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference", 2022    
 
