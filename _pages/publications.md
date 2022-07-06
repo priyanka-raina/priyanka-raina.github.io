@@ -86,7 +86,7 @@ E. Singh, F. Lonsing, S. Chattopadhyay, M. Strange, P. Wei, X. Zhang, Y. Zhao, D
 
 **A Voltage-Mode Sensing Scheme with Differential-Row Weight Mapping For Energy-Efficient RRAM-Based In-Memory Computing**  
 W. Wan, R. Kubendran, B. Gao, S. Joshi, P. Raina, H. Wu, G. Cauwenberghs, H.-S. P. Wong  
-*IEEE Symposium on VLSI Circuits (VLSI)*, June 2020. [Paper](https://ieeexplore.ieee.org/document/9265066), [Video](https://stanford.box.com/s/n3pcrulsookozhpnxqwpkkbjhlaea1m3), [Slides](https://stanford.box.com/s/igmr2okv8ewdc4u4z1j92asb9fpozx56), [Demo](https://stanford.box.com/s/jgwhx5vszvxgijkh0xyen7q8dfmx7jue)
+*IEEE Symposium on VLSI Technology (VLSI)*, June 2020. [Paper](https://ieeexplore.ieee.org/document/9265066), [Video](https://stanford.box.com/s/n3pcrulsookozhpnxqwpkkbjhlaea1m3), [Slides](https://stanford.box.com/s/igmr2okv8ewdc4u4z1j92asb9fpozx56), [Demo](https://stanford.box.com/s/jgwhx5vszvxgijkh0xyen7q8dfmx7jue)
 
 **Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks**  
 M. Low, V. Huang, P. Raina  
