@@ -19,6 +19,9 @@ J. Melchert, K. Feng, C. Donovick, R. Daly, C. Barrett, M. Horowitz, P. Hanrahan
 *arXiv*, April 2021. [Paper](https://arxiv.org/abs/2104.14155)
 
 ## Publications    
+**Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
+Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barret, Pat Hanrahan    
+To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, 2022.    
 
 **AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers**    
 Kalhan Koul, Jackson Melchert, Kavya Sreedhar, Leonard Truong, Gedeon Nyengele, Keyi Zhang, Qiaoyi Liu, Jeff Setter, Po-Han Chen, Yuchen Mei, Maxwell Strange, Ross Daly, Caleb Donovick, Alex Carsello, Taeyoung Kong, Kathleen Feng, Dillon Huff, Ankita Nayak, Rajsekhar Setaluri, James Thomas, Nikhil Bhagdikar, David Durst, Zachary Myers, Nestan Tsiskaridze, Stephen Richardson, Rick Bahr, Kayvon Fatahalian, Pat Hanrahan, Clark Barrett, Mark Horowitz, Christopher Torng, Fredrik Kjolstad, Priyanka Raina    
