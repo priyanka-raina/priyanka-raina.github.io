@@ -15,7 +15,7 @@ Serving on:
 
 ### Program Committees
 - Technical Program Committee, Symposium on VLSI Circuits (2022)
-- Technical Program Committee, Design, Automation and Test in Europe Conference (DATE) (2022)
+- Technical Program Committee, Design, Automation and Test in Europe Conference (DATE) (2022, 2023)
 - Program Committee, International Symposium on High-Performance Computer Architecture (HPCA) (2022)
 - Technical Program Committee, Design Automation Conference (DAC) (2020, 2021, 2022)
 - Program Committee, International Symposium on Microarchitecture (MICRO) (2022)
