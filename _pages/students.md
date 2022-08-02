@@ -14,5 +14,5 @@ hide_hero: true
 - Po-Han Chen
 
 ## Previous PhD Students
-- Haitong Li (Co-advised with Philip Wong, graduated in 2022)
-- Weier Wan (Co-advised with Philip Wong, graduated in 2022)
+- Haitong Li (Co-advised with Philip Wong) - Graduated in 2022, Faculty at Purdue (2023)
+- Weier Wan (Co-advised with Philip Wong) - Graduated in 2022
