@@ -8,8 +8,8 @@ hide_hero: true
 ## Service
 Serving on:
 - President’s Council of Advisors on Science and Technology (PCAST) National Nanotechnology Initiative (NNI) Working Group (2022)   
-- Co-chair of [American Semiconductor Academy (ASA)](https://www.semi.org/en/workforce-development/ASA) Working Group on Chip Design Infrastructure, (2022)
-- IEEE Solid State Circuits Society (SSCS) Technical Committee on Open-Source Ecosystem ([TC-OSE](https://sscs-ose.github.io/)), (2022)   
+- Co-chair of [American Semiconductor Academy (ASA)](https://www.semi.org/en/workforce-development/ASA) Working Group on Chip Design Infrastructure (2022)
+- IEEE Solid State Circuits Society (SSCS) Technical Committee on Open-Source Ecosystem ([TC-OSE](https://sscs-ose.github.io/)) (2022)   
 
 ### Program Chair
 - Hot Chips: A Symposium on High Performance Chips (2020)
