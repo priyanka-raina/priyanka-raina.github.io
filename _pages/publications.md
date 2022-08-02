@@ -16,7 +16,7 @@ Q. Liu, D. Huff, J. Setter, M. Strange, K. Feng, K. Sreedhar, Z. Wang, K. Zhang,
 
 ## Publications    
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
-Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barret, Pat Hanrahan    
+Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
 To appear in *Formal Methods in Computer-Aided Design (FMCAD)*, 2022.    
 
 **AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers**    
