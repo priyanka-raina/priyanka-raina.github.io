@@ -11,7 +11,7 @@ items:
   - title: EE272 (Winter)
     subtitle: Learn the digital and analog EDA toolchain on an example project
     description: >
-      The example project is a neural network accelerator and a phase-locked loop. During this course you also write your EE272B chip proposal.
+      The example project is a neural network accelerator and a phase-locked loop. During this course you also write your EE372 chip proposal.
 
     call_to_action_name: EE272
     call_to_action_link: /ee272a-winter2021/
