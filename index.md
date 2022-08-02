@@ -41,7 +41,7 @@ Jul 2007 - May 2011, Department Rank: 1, Institute Rank: 2
 Thesis: Transactional Memory Architecture for Multi-core Processors  
 Advisor: Anshul Kumar  
 
-## Talk Videos
+## Talk Videos and News
 - **Accelerating Semiconductor Innovation in the U.S.** at the PCAST public meeting on the challenges and opportunities for U.S. leadership in semiconductors, May 12, 2022. [Video](https://www.whitehouse.gov/pcast/meetings/2022-meetings/)
 - **AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers** at the Berkeley/Stanford/UCSC Cloud Workshop, May 11, 2022. [Video](https://vimeo.com/showcase/9529523)
 - **How computer chips get speedier through specialization** in Stanford Engineering’s The Future of Everything podcast with Russ Altman, September 21, 2021. [Video](https://youtu.be/UgmKLm4U1II)
@@ -58,4 +58,3 @@ Paul G. Allen Building, Room 114
 Stanford website: [https://profiles.stanford.edu/priyanka-raina](https://profiles.stanford.edu/priyanka-raina)  
 Research group website: [https://stanfordaccelerate.github.io/](https://stanfordaccelerate.github.io/)  
 [Google scholar](https://scholar.google.com/citations?user=rx_hNNEAAAAJ&hl=en)  
-[Photography](https://www.instagram.com/priyankaraina/?hl=en)
