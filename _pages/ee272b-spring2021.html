@@ -163,24 +163,25 @@ Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 
     {% include image-modal.html ratio="is-4by5" link="/assets/images/john-wrapper-small.png" alt="Voltage reference" large_link="/assets/images/john-wrapper-small.png" %}
   </div>
   <div class="column">
-    <span><h3>Bandgap Voltage Reference</h3></span>
-    <span><h5>John Kustin</h5></span>
+      <span><h3>Bandgap Voltage Reference</h3></span>
+    
+      <span><h5>John Kustin</h5></span>
       
-    <span><p><b>Code: 
+      <span><p><b>Code: 
         <a href="https://github.com/johnkustin/ee272b">Design</a>, 
         <a href="https://github.com/johnkustin/caravel_user_project_analog">Caravel User Project Analog</a>
-    </b></p></span>
+      </b></p></span>
       
-    <span><p><b>
+      <span><p><b>
         Documentation: 
         <a href="https://drive.google.com/file/d/1Vmb7ccgGK8U9cwlkqnf6eRwAniinLtql/view?usp=sharing">Proposal</a>, 
         <a href="https://drive.google.com/file/d/1psTVroT5Y-1nslGGq3VwPn4IWF5DJ-Lz/view?usp=sharing">Design Review</a>, 
         <a href="https://drive.google.com/file/d/1m0NlUdLWBTtyA-gyG9mW3BpWhoHS5O4d/view?usp=sharing">Final Presentation</a>, 
         <a href="https://drive.google.com/file/d/1eJvxyRTJxytNhgD45iEY3K-uSfRkh81y/view?usp=sharing">Report</a>, 
         <a href="https://drive.google.com/file/d/168TVx6-Mjg5xYlqKjp48N-VncTCjX9tP/view?usp=sharing">Silicon Results</a>
-    </b></p></span>
+      </b></p></span>
       
-    <span><p>A bandgap reference is a common way to generate a stable voltage with low sensitivities to temperature and supply voltage changes. This project is a CMOS bandgap reference circuit based on the <a href="https://ieeexplore.ieee.org/document/760378">Banba architecture</a> and implemented in SkyWater 130nm technology. The circuit consists of a self-biased CMOS op-amp, parasitic PNP transistors, resistors, and metal-in-metal (MiM) capacitors. It is designed for a reference voltage of 970.3 mV with an ideal temperature coefficient of 3.6 ppm/°C from 0-70°C. The circuit is open-source and verified to be fully functional in silicon.</p></span>
+      <span><p>A bandgap reference is a common way to generate a stable voltage with low sensitivities to temperature and supply voltage changes. This project is a CMOS bandgap reference circuit based on the <a href="https://ieeexplore.ieee.org/document/760378">Banba architecture</a> and implemented in SkyWater 130nm technology. The circuit consists of a self-biased CMOS op-amp, parasitic PNP transistors, resistors, and metal-in-metal (MiM) capacitors. It is designed for a reference voltage of 970.3 mV with an ideal temperature coefficient of 3.6 ppm/°C from 0-70°C. The circuit is open-source and verified to be fully functional in silicon.</p></span>
   
   </div>
 </div> 
@@ -191,10 +192,25 @@ Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 
     {% include image-modal.html ratio="is-4by5" link="/assets/images/weston-wrapper-small.jpeg" alt="Buck converter" large_link="/assets/images/weston-wrapper-small.jpeg" %}
   </div>
   <div class="column">
-    <span><h3>OpenPMIC: A Current Mode Buck Converter</h3></span>
-    <span><h5>Weston Braun, Aparna Tumkur</h5></span>
-    <span><h5><a href="https://github.com/westonb/open-pmic">Code</a></h5></span>
-    <span><p>OpenPMIC is a current mode buck converter in SkyWater 130nm technology designed using a fully open source flow. It also provides a library of power MOS devices for use in future open source designs. This DC-DC converter is designed to convert the 3.3 V I/O voltage to the 1.8 V level required for digital logic and is intended for integration into other projects. The prototype chip achieves a measured power efficiency of 85% at the maximum output power of 720 mW and a peak efficiency of 91% at an output power of 270mW. This work is the first open-source and silicon proven PMIC.</p></span>
+      <span><h3>OpenPMIC: A Current Mode Buck Converter</h3></span>
+      
+      <span><h5>Weston Braun, Aparna Tumkur</h5></span>
+      
+      <span><p><b>Code: 
+        <a href="https://github.com/westonb/open-pmic">Design</a>, 
+        <a href="https://github.com/westonb/Open-PMIC-tapeout">Caravel User Project Analog</a>
+        <a href="https://github.com/westonb/open-pmic-pcb">OpenPMIC PCB</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://docs.google.com/presentation/d/1cBQSitbgofe7c7ZFHN6wEK7AjSlTb3CQkrHIqdwXP6I/edit?usp=sharing">Proposal</a>, 
+        <a href="https://docs.google.com/presentation/d/1vPasXV9Lbhd-kNUkEiaC2Bks8IbjNlcl0WMSGZ9YmyA/edit?usp=sharing">Design Review</a>, 
+        <a href="https://drive.google.com/file/d/1U_0LvY6IXnms8pTq2C1oQgouH12XwK_o/view?usp=sharing">Final Presentation</a>, 
+        <a href="https://docs.google.com/presentation/d/142XM5yAWJSAtKxsgW-YPyTYFkc6bcAse/edit?usp=sharing&ouid=106549358980007323253&rtpof=true&sd=true">Silicon Results</a>
+      </b></p></span>
+      
+      <span><p>OpenPMIC is a current mode buck converter in SkyWater 130nm technology designed using a fully open source flow. It also provides a library of power MOS devices for use in future open source designs. This DC-DC converter is designed to convert the 3.3 V I/O voltage to the 1.8 V level required for digital logic and is intended for integration into other projects. The prototype chip achieves a measured power efficiency of 85% at the maximum output power of 720 mW and a peak efficiency of 91% at an output power of 270mW. This work is the first open-source and silicon proven PMIC.</p></span>
   </div>
 </div> 
     
