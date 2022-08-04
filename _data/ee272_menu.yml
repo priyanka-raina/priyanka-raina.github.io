@@ -1,5 +1,7 @@
 - label: Term
   items:
+    - name: EE372 Spring 2022
+      link: /ee372-spring2022/
     - name: EE272B Spring 2021
       link: /ee272b-spring2021/
     - name: EE272A Winter 2021
