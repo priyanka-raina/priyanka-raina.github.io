@@ -1,1 +1,578 @@
+---
+layout: page
+permalink: /ee272b-spring2021/
+title: EE272B - Design Projects in VLSI Systems II
+subtitle: Design and tape out your own digital, analog or mixed-signal chip in an open-source technology! 
+show_sidebar: false
+menubar: ee272_menu
+---
+<div class="content">
+
+    
+<h2 id="overview">Overview</h2>
+
+<p>This is a follow on course to EE272A. While in EE272A you learn the EDA tool flow and design a pre-specified digital neural network accelerator and an analog block, in EE272B you will leverage your knowledge from EE272A and design and fabricate your own digital/analog/mixed-signal chip! This is a completely project-based course where, working in teams of two, you will propose your own mixed-signal chip, write a Verilog or a synthesizable C++ model of your chip, create a testing/debug strategy for your chip, wrap custom layout to fit into a standard cell system, use synthesis and place and route tools to create the layout of your chip, perform physical verification and finally tape it out in the <a href="https://github.com/google/skywater-pdk">open-source SkyWater 130 nm technology</a>. Useful for anyone who will build a chip in their research.</p>
+
+<p><strong>Term</strong>: 2020-2021 Spring<br /><br />
+    
+<strong>Units</strong>: 3-4<br /><br />
+    
+<strong>Instructor</strong>: Priyanka Raina (praina at stanford dot edu)<br /><br />
+    
+<strong>TAs</strong>: Kartik Prabhu (kprabhu7 at stanford dot edu), Daniel Stanley (dstanley at stanford dot edu)<br /><br />
+    
+<strong>Lectures</strong>: Mon, Wed, 1 - 2:30 PM over Zoom. <br /><br />
+    
+<strong>Open office hours</strong>:<br />
+Priyanka: Wed, 2:30 - 3:30 PM over Zoom.<br />
+Kartik: Fri, 1 - 2 PM over Zoom.<br />
+Daniel: Thu, 1 - 2 PM over Zoom.<br /><br />
+
+<strong>Project sync-ups</strong>:<br />
+Priyanka: Mon, 2:30 - 3 PM (Po-Han/Charles), Mon, 3:30 - 4 PM (John)<br />
+Kartik:	Mon, 2:30 - 3 PM (Kylee/Sam), Mon, 3:30 - 4 PM (Ismael/George), Tue, 2 - 2:30 PM(Eldrick/Matthew)<br />
+Daniel:	Tue, 3 - 3:30 PM (Aparna/Weston), Tue, 3:45-4:15 PM (Can/Estelle), Tue, 4:30 - 5 PM (Nikhil) <br /><br />
+    
+<strong>Canvas</strong>: All documents, including lecture notes, and lecture video recordings will be posted on Canvas. <br /><br />
+    
+<strong>Slack/Piazza</strong>: For questions about lectures and project debugging we will use Slack and Piazza. Everyone should also join the <a href="https://invite.skywater.tools/">skywater-pdk Slack channel</a> for collaborating and debugging with the larger open hardware community.
+</p>    
+
+<h2 id="pre-requisites">Pre-requisites</h2>
+<p><a href="/ee271-autumn2019/">EE271</a>, <a href="/ee272a-winter2021/">EE272A</a> and fundamentals of digital/analog circuit design.</p>
+    
+    
+<h2 id="projects">Technology and Design Flows</h2>
+    
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column">    
+      
+    <ul>
+      <li><strong>Technology</strong>: <a href="https://github.com/google/skywater-pdk">SkyWater 130 nm open-source PDK</a>.</li>
+      <li><strong>Shuttle</strong>: <a href="https://efabless.com/chipignite/2106Q">Efabless chipIgnite MPW shuttle</a>, which provides:
+          <ul>
+              <li>10 square mm area for the user design per project.</li>
+              <li>A standardized harness called <a href="https://github.com/efabless/caravel">caravel</a> with a RISC-V CPU, RAM, and 38 general purpose I/Os.</li>
+              <li>100 packaged ICs and 5 assembled boards post fabrication.</li>
+          </ul>
+      </li>
+    </ul>
+
+    <ul>
+      <li><strong>Analog design flow</strong>: We use an open-source analog design flow with the following tools (note that commercial analog design tools like Virtuoso and Calibre are not supported for this open PDK yet): 
+          <ul>
+              <li>PDK files from <a href="https://github.com/google/skywater-pdk">skywater-pdk</a>, <a href="https://github.com/RTimothyEdwards/open_pdks">open_pdks</a> and <a href="https://github.com/StefanSchippers/xschem_sky130">xschem_sky130</a>. All of these are necessary.</li>
+              <li>Schematic entry with <a href="https://github.com/StefanSchippers/xschem">xschem</a>.</li>
+              <li>Simulation with <a href="https://sourceforge.net/p/ngspice/ngspice/ci/master/tree/">ngspice</a>.</li>
+              <li>Layout, extraction and DRC with <a href="https://github.com/RTimothyEdwards/magic">magic</a>.</li>
+              <li>LVS with <a href="https://github.com/RTimothyEdwards/netgen">netgen</a>.</li>
+              <li>Manual routing of design using magic into the <a href="https://github.com/efabless/caravel_user_project_analog">caravel analog user project</a>. This user project is verified with <a href="https://github.com/efabless/open_mpw_precheck">precheck tool</a> and submitted to the shuttle.</li>
+          </ul>
+      </li>
+    </ul>
+  
+  </div>
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-3by4" link="/assets/images/caravel.svg" alt="Voltage reference" large_link="/assets/images/caravel.svg" %}
+  </div>    
+</div>
+    
+{% include image-modal.html ratio="is-3by1" link="/assets/images/analog_flow.svg" alt="Voltage reference" large_link="/assets/images/analog_flow.svg" %}
+<ul>
+  <li><strong>Digital design flow</strong>: We use either an open-source digital design flow called <a href="https://github.com/efabless/openlane">OpenLane</a>, or for advanced features, a (mostly) <a href="https://code.stanford.edu/ee272/skywater-digital-flow">commercial digital design flow</a> shown below composed using <a href="https://github.com/mflowgen/mflowgen">mflowgen</a>. Note that since the open PDK does not have support for Calibre yet, we use a combination of magic and netgen for DRC, extraction and LVS for the digital designs as well. In either case, we perform the final integration of the user design into the <a href="https://github.com/efabless/caravel_user_project">caravel user project</a> using OpenLane. This user project is verified with <a href="https://github.com/efabless/open_mpw_precheck">precheck tool</a> and submitted to the shuttle.</li>
+</ul>
+
+{% include image-modal.html ratio="is-3by1" link="/assets/images/commercial_digital_flow.svg" alt="Voltage reference" large_link="/assets/images/commercial_digital_flow.svg" %}
+
+    
+<ul>
+  <li><strong>Memories</strong>: For memories, there are two options:
+      <ul>
+          <li><a href="https://github.com/VLSIDA/OpenRAM">OpenRAM</a> SRAM compiler: While the support for SkyWater 130 nm technology is still being added to the OpenRAM compiler, there are pre-generated SRAM macros available <a href="https://github.com/efabless/sky130_sram_macros">here</a>. The 1 KByte and 2 KByte macros are verified and can be used in projects. Among the student projects listed below, the RADAR and CGRA projects use OpenRAM SRAM macros.</li>
+          <li><a href="https://github.com/Cloud-V/DFFRAM">DFFRAM</a> compiler: This generates D flip-flop based memories. It is less dense than OpenRAM by a factor of 3, but more dense than what you would get by synthesizing to flip-flops using OpenLane. Among the student projects listed below, CryptoChip and OoO RISC-V projects use DFFRAM.</li>
+      </ul>
+</ul>
+    
+    
+<h2 id="projects">Resources</h2>
+
+    
+<ul>
+    <li><h4>Installing Tools</h4>
+        <ul>
+            <li>This <a href="https://xschem.sourceforge.io/stefan/xschem_man/video_tutorials/install_xschem_sky130_and_ngspice.mp4">video</a> shows how to install ngspice, skywater-pdk, xschem_sky130, and xschem.</li>
+            <li>For OpenLane, first install <a href="https://docs.docker.com/get-docker/">docker</a>, then follow the steps under <a href="https://github.com/efabless/openlane#quick-start">this quickstart guide</a>.</li>
+        </ul>
+    </li>
+    
+    <li><h4>Documentation</h4>
+        <ul>
+            <li><a href="https://skywater-pdk.readthedocs.io/en/latest/">SkyWater 130 nm PDK</a></li>
+            <li><a href="http://repo.hu/projects/xschem/xschem_man/xschem_man.html">Xschem</a></li>
+            <li><a href="http://ngspice.sourceforge.net/docs.html">Ngspice</a></li>
+            <li><a href="http://opencircuitdesign.com/magic/magic_docs.html">Magic</a></li>
+            <li><a href="http://opencircuitdesign.com/netgen/">Netgen</a></li>
+            <li><a href="https://openlane.readthedocs.io/en/latest/">OpenLane</a></li>
+            <li><a href="https://caravel-harness.readthedocs.io/en/latest/">Caravel</a></li>
+            <li><a href="https://mflowgen.readthedocs.io/en/latest/">Mflowgen</a></li>
+        </ul>
+    </li>
+    
+    <li><h4>Tutorials and Examples</h4>
+        <ul>
+            <li>Digital flow:
+                <ul>
+                    <li>Our <a href="https://code.stanford.edu/ee272/skywater-digital-flow">commercial digital design flow</a> composed using <a href="https://github.com/mflowgen/mflowgen">mflowgen</a>, with two small examples: a GCD unit and a design with an SRAM.</li>
+                    <li><a href="https://www.youtube.com/watch?v=d0hPdkYg5QI&ab_channel=efabless">OpenLane tutorial</a>.</li>
+                </ul>
+            </li>
+            <li>Analog flow:
+                <ul>
+                    <li><a href="https://youtu.be/fGxs2TnDgrU">Xschem/ngspice tutorial for Monte Carlo simulation</a>.</li>
+                </ul>
+            </li>
+            <li>Caravel:
+                <ul>
+                    <li><a href="https://www.youtube.com/watch?v=jBrBqhVNgDo">Walkthrough of caravel user project and analog user project, and how to submit your design to the shuttle</a>.</li>
+                    <li><a href="https://www.youtube.com/watch?v=zJhnmilXGPo&ab_channel=efabless">Caravel user project features</a> --- What are the utilities provided by caravel to the user project?</li>
+                    <li><a href="https://youtu.be/9QV8SDelURk">Aboard caravel</a> --- How to integrate your design with caravel?</li>
+                </ul>
+            </li>   
+        </ul>
+    </li>
+    
+    <li><h4>Talks</h4>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=EczW2IWdnOM&ab_channel=FOSSiFoundation">SkywaterPDK: Fully open source manufacturable PDK for a 130nm process</a> by Tim Ansell</li>
+            <li><a href="https://www.youtube.com/watch?v=Vhyv0eq_mLU">OpenLane, A Digital ASIC Flow for SkyWater 130nm Open PDK</a> by Mohamed Shalan</li>
+            <li><a href="https://www.youtube.com/watch?v=HvWveK2fZt0&ab_channel=FOSSiFoundation">The striVe RISC-V SoC Family on SkyWater 130nm</a> by Mohamed Kassem</li>
+            <li><a href="https://www.youtube.com/watch?v=Svus4uQ_CAA&ab_channel=FOSSiFoundation">Designing new 130nm cells for SkyWater 130nm</a> by James Stine</li>
+            <li><a href="https://www.youtube.com/watch?v=9Lw83kFtnc4&ab_channel=FOSSiFoundation">OpenRAM on SkyWater 130nm</a> by Matt Guthaus</li>
+            <li><a href="https://www.youtube.com/watch?v=eGucgfc_zbQ&ab_channel=FOSSiFoundation">Using Magic for DRC checks on SkyWater 130nm</a> by Tim Edwards</li>
+            <li><a href="https://www.youtube.com/watch?v=qlBzE27at6M&ab_channel=FOSSiFoundation">45 Chips in 30 Days: Open Source ASIC at its best!</a> by Mohamed Kassem</li>
+        </ul>
+    </li>
+</ul>
+    
+    
+<h2 id="projects">Student Projects</h2>
+    
+
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/john-wrapper-small.png" alt="Voltage reference" large_link="/assets/images/john-wrapper-small.png" %}
+  </div>
+  <div class="column">
+      <span><h3>Bandgap Voltage Reference</h3></span>
+    
+      <span><h5>John Kustin</h5></span>
+      
+      <span><p><b>Code: 
+        <a href="https://github.com/johnkustin/ee272b">Design</a>, 
+        <a href="https://github.com/johnkustin/caravel_user_project_analog">Caravel User Project Analog</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://drive.google.com/file/d/1Vmb7ccgGK8U9cwlkqnf6eRwAniinLtql/view?usp=sharing">Proposal</a>, 
+        <a href="https://drive.google.com/file/d/1psTVroT5Y-1nslGGq3VwPn4IWF5DJ-Lz/view?usp=sharing">Design Review</a>, 
+        <a href="https://drive.google.com/file/d/1m0NlUdLWBTtyA-gyG9mW3BpWhoHS5O4d/view?usp=sharing">Final Presentation</a>, 
+        <a href="https://drive.google.com/file/d/1eJvxyRTJxytNhgD45iEY3K-uSfRkh81y/view?usp=sharing">Report</a>, 
+        <a href="https://drive.google.com/file/d/168TVx6-Mjg5xYlqKjp48N-VncTCjX9tP/view?usp=sharing">Silicon Results</a>
+      </b></p></span>
+      
+      <span><p>A bandgap reference is a common way to generate a stable voltage with low sensitivities to temperature and supply voltage changes. This project is a CMOS bandgap reference circuit based on the <a href="https://ieeexplore.ieee.org/document/760378">Banba architecture</a> and implemented in SkyWater 130 nm technology. The circuit consists of a self-biased CMOS op-amp, parasitic PNP transistors, resistors, and metal-in-metal (MiM) capacitors. It is designed for a reference voltage of 970.3 mV with an ideal temperature coefficient of 3.6 ppm/°C from 0-70°C. The circuit is open-source and verified to be fully functional in silicon.</p></span>
+  
+  </div>
+</div> 
+    
+    
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/weston-wrapper-small.jpeg" alt="Buck converter" large_link="/assets/images/weston-wrapper-small.jpeg" %}
+  </div>
+  <div class="column">
+      <span><h3>OpenPMIC: A Current Mode Buck Converter</h3></span>
+      
+      <span><h5>Weston Braun, Aparna Tumkur</h5></span>
+      
+      <span><p><b>Code: 
+        <a href="https://github.com/westonb/open-pmic">Design</a>, 
+        <a href="https://github.com/westonb/Open-PMIC-tapeout">Caravel User Project Analog</a>,
+        <a href="https://github.com/westonb/open-pmic-pcb">OpenPMIC PCB</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://docs.google.com/presentation/d/1cBQSitbgofe7c7ZFHN6wEK7AjSlTb3CQkrHIqdwXP6I/edit?usp=sharing">Proposal</a>, 
+        <a href="https://docs.google.com/presentation/d/1vPasXV9Lbhd-kNUkEiaC2Bks8IbjNlcl0WMSGZ9YmyA/edit?usp=sharing">Design Review</a>, 
+        <a href="https://drive.google.com/file/d/1U_0LvY6IXnms8pTq2C1oQgouH12XwK_o/view?usp=sharing">Final Presentation</a>, 
+        <a href="https://docs.google.com/presentation/d/142XM5yAWJSAtKxsgW-YPyTYFkc6bcAse/edit?usp=sharing&ouid=106549358980007323253&rtpof=true&sd=true">Silicon Results</a>
+      </b></p></span>
+      
+      <span><p>OpenPMIC is a current mode buck converter in SkyWater 130 nm technology designed using a fully open source flow. It also provides a library of power MOS devices for use in future open source designs. This DC-DC converter is designed to convert the 3.3 V I/O voltage to the 1.8 V level required for digital logic and is intended for integration into other projects. The prototype chip achieves a measured power efficiency of 85% at the maximum output power of 720 mW and a peak efficiency of 91% at an output power of 270 mW. This work is the first open-source and silicon-proven PMIC.</p></span>
+  </div>
+</div> 
+    
+    
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/can-wrapper-small.png" alt="High speed link" large_link="/assets/images/can-wrapper-small.png" %}
+  </div>
+  <div class="column">
+      <span><h3>OpenSourcePHY: A High Speed Serial Link</h3></span>
+      
+      <span><h5>Can Wang, Estelle He</h5></span>
+      
+      <span><p><b>Code: 
+        <a href="https://github.com/CansWang/open-source-phy_SKY130">Design</a>, 
+        <a href="https://github.com/CansWang/caravel_user_project_analog">Caravel User Project Analog</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://drive.google.com/file/d/1TP8tV1p4iM9ehzbq9GBUs5ohoF5vJODl/view?usp=sharing">Proposal</a>, 
+        <a href="https://drive.google.com/file/d/1hd-0flNMpv8_FY6i4Kb4dT0qpod7cGr8/view?usp=sharing">Design Review</a>, 
+        <a href="https://drive.google.com/file/d/11bV4VtYQRdb8oUQJOJTcg3gskBwDToF5/view?usp=sharing">Final Presentation</a>, 
+        <a href="https://docs.google.com/presentation/d/1IDxgx_V4B2JJ0BnQ8QFw57Wf_J2GOSDH1rB3wtZpjAA/edit?usp=sharing">Silicon Bringup Progress</a>
+      </b></p></span>
+      
+      <span><p>OpenSourcePHY is an open-source fully synthesizable high speed serial link physical layer (PHY) in SkyWater 130 nm technology, which extends the <a href="https://github.com/StanfordVLSI/dragonphy2">DragonPHY</a> project. This chip focuses on the transmitter portion of the PHY, which consists of a serializer that aggregates multiple inputs at a relatively low data rate into a single high-speed data output, a driver stage that launches the signal into the physical channel and a clocking circuit that uses a <a href="https://searchworks.stanford.edu/view/13876459">multiplying delay-locked loop (MDLL)</a>.</p></span>
+  </div>
+</div> 
+    
+    
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/nikhil-wrapper-small.png" alt="RADAR motion compensation" large_link="/assets/images/nikhil-wrapper-small.png" %}
+  </div>
+  <div class="column">
+      <span><h3>A Mixed-Signal Edge Accelerator for Real-Time mmWave Platform Vibration Compensation</h3></span>
+      
+      <span><h5>Nikhil Poole</h5></span>
+      
+      <span><p><b>Code: 
+        <a href="https://github.com/nhpoole/mixed_signal_mmwave_edge_accelerator">Design</a>, 
+        <a href="https://github.com/nhpoole/mixed_signal_mmwave_accelerator_tapeout">Caravel User Project Analog</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://drive.google.com/file/d/1EhPhjriZYTfzzTepX2EH2LiqqtouI_9L/view?usp=sharing">Proposal</a>, 
+        <a href="https://drive.google.com/file/d/1gA9GUqKhmsVLA63w7e09iKQP4-inmEsI/view?usp=sharing">Design Review</a>, 
+        <a href="https://drive.google.com/file/d/1n1_LWKwceul4QuOR9uUghh0sN0Ek4yAF/view?usp=sharing">Final Presentation</a>, 
+        <a href="https://drive.google.com/file/d/1CRVJxzJ4aFldkHJYXQrQzOIb3_IUO8QW/view?usp=sharing">Silicon Results</a>
+      </b></p></span>
+      
+      <span><p>This analog/mixed-signal chip is an edge processing unit for real-time vibratory motion compensation in a mmWave radar platform, employing on-chip inertial sensor fusion to deconvolve the effect of parasitic platform micromotions. With its fully analog IMU processing pipeline and digital deconvolution kernel estimator core, the chip generates a complex inverse filter to denoise the incoming radar data, thereby demonstrating a real-time solution for high-fidelity edge-based radar processing.</p></span>
+  </div>
+</div> 
+
+
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/eldrick-wrapper-small.png" alt="Wakey wakey" large_link="/assets/images/eldrick-wrapper-small.png" %}
+  </div>
+  <div class="column">
+      <span><h3>Wakey-Wakey: A Low-Power, Reconfigurable Wake Word Accelerator</h3></span>
+      
+      <span><h5>Matthew Pauly, Eldrick Millares</h5></span>
+
+      <span><p><b>Code: 
+        <a href="https://github.com/eldrickm/wakey_wakey">Design</a>, 
+        <a href="https://github.com/eldrickm/caravel_user_project">Caravel User Project</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://drive.google.com/file/d/1vivmj8WsiZDNI7X4ZpKthd_CS4364iwX/view?usp=sharing">Proposal</a>, 
+        <a href="https://drive.google.com/file/d/1Jrccm8LTZVD7jGZz-5uUZKDk6VKZDttL/view?usp=sharing">Design Review</a>, 
+        <a href="https://drive.google.com/file/d/1dJ8GSXcz4hMSCd5AgpcyosENfTEf5-bt/view?usp=sharing">Final Presentation</a>, 
+        <a href="https://drive.google.com/file/d/1xVuR4Yg73VjDwgF8EfLsKTqphtEdF8ek/view?usp=sharing">Report</a>,  
+        <a href="https://docs.google.com/presentation/d/1TM6f_0hNNdSLnl2vTxNbHEJCe1lX5F1J/edit?usp=sharing&ouid=106549358980007323253&rtpof=true&sd=true">Silicon Bringup Progress</a>
+      </b></p></span>
+      
+      <span><p>Wakey-Wakey is an acoustic featurization and deep neural network (DNN) accelerator which detects a user-configured wake word in human speech. It interfaces directly with an external microphone and can be configured via a Wishbone bus. Wakey-Wakey's custom DNN architecture and featurization pipeline were co-optimized with its RTL design to minimize area, power, complexity, and latency.</p></span>
+  </div>
+</div> 
+  
+
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/kylee-wrapper-small.png" alt="CryptoChip" large_link="/assets/images/kylee-wrapper-small.png" %}
+  </div>
+  <div class="column">
+      <span><h3>CryptoChip: A RISC-V Processor with Crypto Accelerator</h3></span>
+      
+      <span><h5>Kylee Krzanich, Sam Xu</h5></span>
+      
+      <span><p><b>Code: 
+        <a href="https://github.com/krsandwich/Cryptochip">Design</a>, 
+        <a href="https://github.com/krsandwich/caravel_user_project-1">Caravel User Project</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://drive.google.com/file/d/1eQJ_R9WJGhEmFZ08ugaLuNDEhrRaPqVT/view?usp=sharing">Proposal</a>, 
+        <a href="https://drive.google.com/file/d/1FBfo2FeRzRovkV6vAKjYcqKKzIneT_Rk/view?usp=sharing">Design Review</a>, 
+        <a href="https://drive.google.com/file/d/1lynGqLbtdYEsETzFqsm2Gq8xBAfferGD/view?usp=sharing">Final Presentation</a>,
+        <a href="https://drive.google.com/file/d/1xO5Q0W4Bvy7nA6ymeBc6sLQG_4ctb0xO/view?usp=sharing">Report</a>
+      </b></p></span>
+          
+      <span><p>In a world where security has become more and more important, this project focuses on designing a crypto-accelerator for a modern RISC-V processor. It achieves 17-66x increase in performance for all cryptographic transactions including but not limited to random number generation and encryption. The accelerator is designed as a tighly-coupled co-processor to a general purpose, RISC-V processor generated using <a href="https://github.com/ucb-bar/chipyard">Chipyard</a>.</p></span>
+  </div>
+</div> 
+     
+
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/george-wrapper-small.png" alt="CryptoChip" large_link="/assets/images/george-wrapper-small.png" %}
+  </div>
+  <div class="column">
+      <span><h3>A RISC-V OoO Processor with Victim Caches</h3></span>
+      
+      <span><h5>George Klimiashvili, Ismael Garcia</h5></span>
+  
+      <span><p><b>Code: 
+        <a href="https://code.stanford.edu/igarc774/ee-272b-ooo-processor-project">Design</a>, 
+        <a href="https://code.stanford.edu/gklimias/caravel_user_project">Caravel User Project</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://drive.google.com/file/d/1lmWeToBvEmdM8TcjKRGPx81Q_-BfU2ES/view?usp=sharing">Proposal</a>, 
+        <a href="https://drive.google.com/file/d/1FBfo2FeRzRovkV6vAKjYcqKKzIneT_Rk/view?usp=sharing">Design Review</a>, 
+        <a href="https://drive.google.com/file/d/1Uwx5qf6wzN1MxRVvwlGKD6InA4BZqOgK/view?usp=sharing">Final Presentation</a>
+      </b></p></span>
+     
+      <span><p>This project designs an out of order (OoO) RISC-V processor based on the BOOM core using the <a href="https://github.com/ucb-bar/chipyard">Chipyard</a> framework. The project performs design space exploration of BOOM core parameters to create a design that fits within the caravel user project design constraints. It also explores the benefit of adding a victim cache, which is a small fully-associative cache that holds recently evicted data, to the core.</p></span>
+  </div>
+</div> 
+
+
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/pohan-wrapper-small.png" alt="CryptoChip" large_link="/assets/images/pohan-wrapper-small.png" %}
+  </div>
+  <div class="column">
+      <span><h3>Toy-CGRA: A Coarse-Grained Reconfigurable Array for Flexible Acceleration of Machine Learning and Image Processing</h3></span>
+      
+      <span><h5>Po-Han Chen, Charles Tsao</h5></span>
+
+      <span><p><b>Code: 
+        <a href="https://github.com/pohantw/ee272b_CGRA">Design</a>, 
+        <a href="https://github.com/pohantw/caravel_user_project">Caravel User Project</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://drive.google.com/file/d/19PoUps-Ed_bi5-7jG88UM0cNJcaJnB3l/view?usp=sharing">Proposal</a>, 
+        <a href="https://drive.google.com/file/d/1YxflOkoy9g6vLSdhqSDdzunrkFD7zKz1/view?usp=sharing">Design Review</a>, 
+        <a href="https://drive.google.com/file/d/1A8IZtoTUtO5FfI8gNJ0s23cyDWnb52mt/view?usp=sharing">Final Presentation</a>,
+        <a href="https://docs.google.com/presentation/d/19id2uF5_zr-NrXrcBN5udEEDVnGEdNgsPdotxKnAPIc/edit?usp=sharing">Silicon Bringup Progress</a>
+      </b></p></span>
+      
+      <span><p>Toy-CGRA is a 4x8 coarse-grained reconfigurable array (CGRA) that enables hardware acceleration of machine learning and image processing applications written in <a href="https://halide-lang.org/">Halide</a>. Compared to an FPGA, it provides faster configuration time and lower power consumption. Compared to an ASIC, it has higher flexibility. Toy-CGRA runs at 66 MHz and occupies an area of 3.5 mm x 2.9 mm.</p></span>
+  </div>
+</div>  
+
+    
+<h2 id="projects">Course Schedule</h2>
+    
+    
+<table>
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Presenter</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Mon, Mar 29</td>
+      <td>Lecture: Class overview, updates to digital and analog flows</td>
+      <td>Priyanka</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Wed, Mar 31</td>
+      <td>Lecture: Project overview presentations (10 minutes per group)</td>
+      <td>All groups</td>
+    </tr> 
+    <tr>
+      <td>2</td>
+      <td>Mon, Apr 5</td>
+      <td>Lecture: Analog validation</td>
+      <td>Daniel</td>
+    </tr>		
+    <tr>
+      <td>2</td>
+      <td>Wed, Apr 7</td>
+      <td>Lecture: OpenLane flow, generating hard macro from design (analog and digital)</td>
+      <td>Priyanka</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Mon, Apr 12</td>
+      <td>Lecture: Caravel integration tutorial</td>
+      <td>Kartik</td>
+    </tr>      
+    <tr>
+      <td>3</td>
+      <td>Wed, Apr 14</td>
+      <td>Lecture: Magic tutorial</td>
+      <td>Daniel</td>
+    </tr>	
+    <tr>
+      <td>4</td>
+      <td>Mon, Apr 19</td>
+      <td>Lecture: Caravel I/Os</td>
+      <td>Priyanka</td>
+    </tr>	
+    <tr>
+      <td>4</td>
+      <td>Wed, Apr 21</td>
+      <td>Lecture: Fixture tutorial</td>
+      <td>Daniel</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Mon, Apr 26</td>
+      <td>Lecture: Mid-quarter design review, functional demo (40 + 40 minutes)</td>
+      <td>Nikhil, Weston/Aparna</td>
+    </tr>	
+    <tr>
+      <td>5</td>
+      <td>Wed, Apr 28</td>
+      <td>Lecture: Mid-quarter design review, functional demo (40 + 40 minutes)</td>
+      <td>Estelle/Can, John</td>
+    </tr>      
+    <tr>
+      <td>5</td>
+      <td>Fri, Apr 30</td>
+      <td>RTL/schematics + tests due</td>
+      <td></td>
+    </tr> 		
+    <tr>
+      <td>6</td>
+      <td>Mon, May 3</td>
+      <td>Lecture: Mid-quarter design review, functional demo (40 + 40 minutes)</td>
+      <td>George/Ismael, Kylee/Sam</td>
+    </tr> 		
+    <tr>
+      <td>6</td>
+      <td>Wed, May 5</td>
+      <td>Lecture: Mid-quarter design review, functional demo (40 + 40 minutes)</td>
+      <td>Eldrick/Matthew, Charles/Po-Han</td>
+    </tr> 	
+    <tr>
+      <td>7</td>
+      <td>Mon, May 10</td>
+      <td>Debugging help</td>
+      <td>Priyanka</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Wed, May 12</td>
+      <td>Q&A with Efabless</td>
+      <td></td>
+    </tr>      
+    <tr>
+      <td>8</td>
+      <td>Mon, May 17</td>
+      <td>Debugging help</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Wed, May 19</td>
+      <td>Debugging help</td>
+      <td></td>
+    </tr>      
+    <tr>
+      <td>8</td>
+      <td>Fri, May 21</td>
+      <td>Inital layout due</td>
+      <td></td>
+    </tr>  
+    <tr>
+      <td>9</td>
+      <td>Mon, May 24</td>
+      <td>Debugging help</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Wed, May 26</td>
+      <td>Lecture: Final presentation in class (20 minutes per group)</td>
+      <td>Eldrick/Matthew, Kylee/Sam, George/Ismael, Charles/Po-Han</td>
+    </tr>  	
+    <tr>
+      <td>10</td>
+      <td>Mon, May 31</td>
+      <td>Memorial Day (holiday, no classes)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Wed, Jun 2</td>
+      <td>Lecture: Final presentation in class (20 minutes per group)</td>
+      <td>Estelle/Can, Nikhil, John, Weston/Aparna</td>
+    </tr>		
+    <tr>
+      <td>10</td>
+      <td>Fri, Jun 4</td>
+      <td>Tapeout --- Submit designs to shuttle</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table> 
+    
+    
+<h2 id="projects">Grading</h2>
+    
+    
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project overview presentation</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td>RTL/schematic + tests</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td>Mid-quarter design review</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Layout + signoff</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td>Final presentation</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Final report (Only if taking the class for 4 units)</td>
+      <td>15%</td>
+    </tr>
+    <tr>
+      <td>Weekly syncups</td>
+      <td>10%</td>
+    </tr>
+  </tbody>
+</table> 
+
+</div>
 
