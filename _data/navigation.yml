@@ -5,10 +5,10 @@
   dropdown:
   - name: EE271
     link: /ee271-autumn2019/
-  - name: EE272A
+  - name: EE272
     link: /ee272a-winter2021/
-  - name: EE272B
-    link: /ee272b-spring2021/
+  - name: EE372
+    link: /ee372-spring2022/
   - name: EE309A
     link: /ee309a-autumn2020/
   - name: EE309B
