@@ -159,29 +159,29 @@ menubar: ee272_menu
     
 <div class="columns is-mobile is-centered is-vcentered">
   <div class="column is-one-third">
-    {% include image-modal.html ratio="is-4by5" link="/assets/images/openenclave.png" alt="OpenEnclave" large_link="/assets/images/openenclave.png" %}
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/openpuf.png" alt="OpenPUF" large_link="/assets/images/openpuf.png" %}
   </div>
   <div class="column">
-      <span><h3>OpenEnclave: A Basic BGV Homomorphic Encryption Accelerator</h3></span>
+      <span><h3>OpenPUF: Next-Generation Secret-Free Physical Unclonable Function</h3></span>
       
-      <span><h5>Ian MacFarlane, JD Kelly</h5></span>
+      <span><h5>Luke Sammarone, Xiaolin Wu</h5></span>
       
       <span><p><b>Code: 
-        <a href="https://github.com/somewhatdistracted/OpenEnclave">Design</a>, 
-        <a href="https://github.com/somewhatdistracted/OpenEnclaveCaravel">Caravel User Project</a>
+        <a href="https://github.com/lsammarone/open-puf">Design</a>, 
+        <a href="https://github.com/lsammarone/OpenPUF">Caravel User Project Analog</a>
       </b></p></span>
       
       <span><p><b>
         Documentation: 
-        <a href="https://docs.google.com/presentation/d/1n6xVLY0-bcxky8UasWF_5P7-HQ09HBuz-lyrTS4lI0E/edit?usp=sharing">Proposal</a>, 
-        <a href="https://docs.google.com/presentation/d/1MrlSWDHvvKu0coFbYRCt7--kT4muAndg1f17CRrO200/edit?usp=sharing">Design Review</a>, 
-        <a href="https://docs.google.com/presentation/d/1AXocW78-NtBvkox90tVeR3YqMNlvbGLc_jJV0i6rCBY/edit?usp=sharing">Final Presentation</a>,
-        <a href="https://drive.google.com/file/d/12eSgX4-TmB8QBx1Ab13_dRdwWmjBgUZh/view?usp=sharing">Report</a>  
+        <a href="https://docs.google.com/presentation/d/1XIW-DTDzFHhSsuh1iEh5OI1h3UX_lpeM-h7DsB8r8qk/edit?usp=sharing">Proposal</a>, 
+        <a href="https://docs.google.com/presentation/d/1Lm9-Uw0LP1x6GtQCPrpDMukfF7fUCG3dsouQck7-0OA/edit?usp=sharing">Design Review</a>, 
+        <a href="https://docs.google.com/presentation/d/13B_dEMfrJocZJIYYXWAeRv8YpAzC7blMwXcpt6-oS-0/edit?usp=sharing">Final Presentation</a>,
+        <a href="https://drive.google.com/file/d/1Ssx95Qzznp3acO89i73MqsRUZ8nSMcQZ/view?usp=sharing">Report</a>  
       </b></p></span>
       
-      <span><p>Homomorphic encryption is a promising technique to enable secure computation on sensitive data. It has particualy seen significant interest for use in cloud based machine learning. OpenEnclave is an open-source hardware accelerator for the BGV fully homomorphic encryption scheme in SkyWater 130 nm technology. The design is capable of operating at 50 MHz and is comparable to or outperforms existing FPGA implementations in the literature.</p></span>
+      <span><p>Physical unclonable functions (PUFs) contain cryptographic secrets not in the form of digital values stored in memory, but in the physical characteristics of the hardware itself, enabling authentication and secret key generation securely and energy efficiently. This chip features four instances of 32-bit, 64-bit, and 128-bit bistable ring PUFs for characterization of stability, uniqueness, and settling time. The PUF super block occuies an area of 1.02 square mm and shows 48% uniqueness in post-layout simulation.</p></span>
   </div>
-</div> 
+</div>     
     
     
 <div class="columns is-mobile is-centered is-vcentered">
@@ -207,33 +207,6 @@ menubar: ee272_menu
       </b></p></span>
       
       <span><p>Kairos is a SIMD single precision floating point vector processor, with instructions conforming to the RISC-V ISA. It implements operations such as vector fused multipy-add, matrix inversion, and matrix multiply-add, to efficiently accelerate error-state extended Kalman filter (ES-EKF) for trajectory estimation.</p></span>
-  </div>
-</div> 
-    
-    
-<div class="columns is-mobile is-centered is-vcentered">
-  <div class="column is-one-third">
-    {% include image-modal.html ratio="is-4by5" link="/assets/images/openpuf.png" alt="OpenPUF" large_link="/assets/images/openpuf.png" %}
-  </div>
-  <div class="column">
-      <span><h3>OpenPUF: Next-Generation Secret-Free Physical Unclonable Function</h3></span>
-      
-      <span><h5>Luke Sammarone, Xiaolin Wu</h5></span>
-      
-      <span><p><b>Code: 
-        <a href="https://github.com/lsammarone/open-puf">Design</a>, 
-        <a href="https://github.com/lsammarone/OpenPUF">Caravel User Project Analog</a>
-      </b></p></span>
-      
-      <span><p><b>
-        Documentation: 
-        <a href="https://docs.google.com/presentation/d/1XIW-DTDzFHhSsuh1iEh5OI1h3UX_lpeM-h7DsB8r8qk/edit?usp=sharing">Proposal</a>, 
-        <a href="https://docs.google.com/presentation/d/1Lm9-Uw0LP1x6GtQCPrpDMukfF7fUCG3dsouQck7-0OA/edit?usp=sharing">Design Review</a>, 
-        <a href="https://docs.google.com/presentation/d/13B_dEMfrJocZJIYYXWAeRv8YpAzC7blMwXcpt6-oS-0/edit?usp=sharing">Final Presentation</a>,
-        <a href="https://drive.google.com/file/d/1Ssx95Qzznp3acO89i73MqsRUZ8nSMcQZ/view?usp=sharing">Report</a>  
-      </b></p></span>
-      
-      <span><p>Physical unclonable functions (PUFs) contain cryptographic secrets not in the form of digital values stored in memory, but in the physical characteristics of the hardware itself, enabling authentication and secret key generation securely and energy efficiently. This chip features four instances of 32-bit, 64-bit, and 128-bit bistable ring PUFs for characterization of stability, uniqueness, and settling time. The PUF super block occuies an area of 1.02 square mm and shows 48% uniqueness in post-layout simulation.</p></span>
   </div>
 </div> 
 
@@ -263,33 +236,6 @@ menubar: ee272_menu
       <span><p>This project is a 12-bit 10 KSPS incremental delta-sigma analog-to-digital converter (ADC) designed for sensor interface and instrumentation applications. The ADC consists of a second-order incremental modulator and three post-integrators. The total area of the ADC is 0.55 square mm, with 0.53 square mm for analog modulator and 0.02 square mm for digital filter.</p></span>
   </div>
 </div> 
-  
-
-<div class="columns is-mobile is-centered is-vcentered">
-  <div class="column is-one-third">
-    {% include image-modal.html ratio="is-4by5" link="/assets/images/openpuf.png" alt="Bandgap Reference" large_link="/assets/images/openpuf.png" %}
-  </div>
-  <div class="column">
-      <span><h3>Automated Analog Layout of Bandgap Reference Circuit</h3></span>
-      
-      <span><h5>Yueting Li, Xingyu Ni</h5></span>
-      
-      <span><p><b>Code: 
-        <a href="https://github.com/YuetingLi666/aloe-sky130">Design</a>, 
-        <a href="https://github.com/lsammarone/OpenPUF">Caravel User Project Analog</a>
-      </b></p></span>
-      
-      <span><p><b>
-        Documentation: 
-        <a href="https://docs.google.com/presentation/d/1EKPvPM6gRSZjuaUKeoVuedm9fwZs69jZ/edit?usp=sharing&ouid=106549358980007323253&rtpof=true&sd=true">Proposal</a>, 
-        <a href="https://docs.google.com/presentation/d/1KtwFiTnod-7L6TK4Uh1gs00qvmbXrWOc/edit?usp=sharing&ouid=106549358980007323253&rtpof=true&sd=true">Design Review</a>, 
-        <a href="https://docs.google.com/presentation/d/1Zp_VA55ln1SQd3MS24enabVhOmmtXbCUHLHd84XFJpM/edit?usp=sharing">Final Presentation</a>,
-        <a href="https://drive.google.com/file/d/1wb8VvVwPUm9Nb3qiVZMERFxtXos34mLa/view?usp=sharing">Report</a>
-      </b></p></span>
-          
-      <span><p>This project ports an automatic analog layout generation tool called <a href="https://ieeexplore.ieee.org/document/9524486">aloe</a> to work with SkyWater 130 nm technology. Aloe uses a digital place and route tool together with a genetic algorithm to meet different analog layout specifications. Using this tool, we generated several layouts for a bandgap voltage reference circuit on this chip, and we will compare these with a manually laid out version from the previous offering of this course.</p></span>
-  </div>
-</div> 
      
 
 <div class="columns is-mobile is-centered is-vcentered">
@@ -316,7 +262,62 @@ menubar: ee272_menu
       <span><p>Grid-based numerical methods sample N-dimensional functions at regular intervals to produce an N-dimensional set of discrete “grid points”. By breaking up grid points into hierarchical subgrids and eliminating subgrids above a certain hierarchy, one can obtain a sparsified grid space that is exponentially less dense in comparison. Grapevine is a hardware accelerator which solves classification problems using the sparse grid approach. The accelerator supports up to 6 dimensions and 256 grid points. Each grid point is implemented using a single processing element (PE). An asynchronous network-on-a-chip overlays the PEs to provide low-latency multicast routing.</p></span>
   </div>
 </div> 
+    
 
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/openpuf.png" alt="Bandgap Reference" large_link="/assets/images/openpuf.png" %}
+  </div>
+  <div class="column">
+      <span><h3>Automated Analog Layout of Bandgap Reference Circuit</h3></span>
+      
+      <span><h5>Yueting Li, Xingyu Ni</h5></span>
+      
+      <span><p><b>Code: 
+        <a href="https://github.com/YuetingLi666/aloe-sky130">Design</a>, 
+        <a href="https://github.com/lsammarone/OpenPUF">Caravel User Project Analog</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://docs.google.com/presentation/d/1EKPvPM6gRSZjuaUKeoVuedm9fwZs69jZ/edit?usp=sharing&ouid=106549358980007323253&rtpof=true&sd=true">Proposal</a>, 
+        <a href="https://docs.google.com/presentation/d/1KtwFiTnod-7L6TK4Uh1gs00qvmbXrWOc/edit?usp=sharing&ouid=106549358980007323253&rtpof=true&sd=true">Design Review</a>, 
+        <a href="https://docs.google.com/presentation/d/1Zp_VA55ln1SQd3MS24enabVhOmmtXbCUHLHd84XFJpM/edit?usp=sharing">Final Presentation</a>,
+        <a href="https://drive.google.com/file/d/1wb8VvVwPUm9Nb3qiVZMERFxtXos34mLa/view?usp=sharing">Report</a>
+      </b></p></span>
+          
+      <span><p>This project ports an automatic analog layout generation tool called <a href="https://ieeexplore.ieee.org/document/9524486">aloe</a> to work with SkyWater 130 nm technology. Aloe uses a digital place and route tool together with a genetic algorithm to meet different analog layout specifications. Using this tool, we generated several layouts for a bandgap voltage reference circuit on this chip, and we will compare these with a manually laid out version from the previous offering of this course.</p></span>
+  </div>
+</div> 
+
+    
+<div class="columns is-mobile is-centered is-vcentered">
+  <div class="column is-one-third">
+    {% include image-modal.html ratio="is-4by5" link="/assets/images/openenclave.png" alt="OpenEnclave" large_link="/assets/images/openenclave.png" %}
+  </div>
+  <div class="column">
+      <span><h3>OpenEnclave: A Basic BGV Homomorphic Encryption Accelerator</h3></span>
+      
+      <span><h5>Ian MacFarlane, JD Kelly</h5></span>
+      
+      <span><p><b>Code: 
+        <a href="https://github.com/somewhatdistracted/OpenEnclave">Design</a>, 
+        <a href="https://github.com/somewhatdistracted/OpenEnclaveCaravel">Caravel User Project</a>
+      </b></p></span>
+      
+      <span><p><b>
+        Documentation: 
+        <a href="https://docs.google.com/presentation/d/1n6xVLY0-bcxky8UasWF_5P7-HQ09HBuz-lyrTS4lI0E/edit?usp=sharing">Proposal</a>, 
+        <a href="https://docs.google.com/presentation/d/1MrlSWDHvvKu0coFbYRCt7--kT4muAndg1f17CRrO200/edit?usp=sharing">Design Review</a>, 
+        <a href="https://docs.google.com/presentation/d/1AXocW78-NtBvkox90tVeR3YqMNlvbGLc_jJV0i6rCBY/edit?usp=sharing">Final Presentation</a>,
+        <a href="https://drive.google.com/file/d/12eSgX4-TmB8QBx1Ab13_dRdwWmjBgUZh/view?usp=sharing">Report</a>  
+      </b></p></span>
+      
+      <span><p>Homomorphic encryption is a promising technique to enable secure computation on sensitive data. It has particualy seen significant interest for use in cloud based machine learning. OpenEnclave is an open-source hardware accelerator for the BGV fully homomorphic encryption scheme in SkyWater 130 nm technology. The design is capable of operating at 50 MHz and is comparable to or outperforms existing FPGA implementations in the literature.</p></span>
+  </div>
+</div> 
+    
+    
 <h2 id="overview">Logistics</h2>
 
 <p><strong>Term</strong>: 2021-2022 Spring<br /><br />
