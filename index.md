@@ -16,7 +16,7 @@ For a complete list of ongoing and past projects please see her [publications](h
 - Our paper “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference” won the **Best Student Paper Award** at the 2021 IEEE Symposia on VLSI Technology & Circuits, June 14, 2022.   
 - Michael Oduoza graduated with a BS and SM in Electrical Engineering. He is joining UC Berkeley for his PhD, June 12, 2022.
 - Weier Wan graduated with a PhD in Electrical Engineering, June 12, 2022.
-- Haitong Li graduated with a PhD in Electrical Engineering. He is starting as a faculty member at Purdue University, June 12, 2022. 
+- Haitong Li graduated with a PhD in Electrical Engineering. He is starting as an Assistant Professor at Purdue University, June 12, 2022. 
 - **Accelerating Semiconductor Innovation in the U.S.** at the PCAST public meeting on the challenges and opportunities for U.S. leadership in semiconductors, May 12, 2022. [Video](https://www.whitehouse.gov/pcast/meetings/2022-meetings/)
 - **AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers** at the Berkeley/Stanford/UCSC Cloud Workshop, May 11, 2022. [Video](https://vimeo.com/showcase/9529523)
 - **How computer chips get speedier through specialization** in Stanford Engineering’s The Future of Everything podcast with Russ Altman, September 21, 2021. [Video](https://youtu.be/UgmKLm4U1II)
