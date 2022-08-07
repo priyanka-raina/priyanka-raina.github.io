@@ -156,14 +156,21 @@ R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan
 *International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683), [Demo](http://player.vimeo.com/video/70417371)
 
 ## Poster Presentations
+**Amber: a 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision**
+Kathleen Feng    
+*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2022.    
+
+**CHIMERA: A 2MB, 0.92 TOPS, Non-Volatile Edge AI Accelerator for Training and Inference**
+Massimo Giordano, Kartik Prabhu, Kalhan Koul, Rohan Doshi, Albert Gural, Zainab F. Khan, John W. Kustin, Timothy Liu, Gregorio B. Lopes, Robert M. Radway, Victor Turbiner, Guénolé Lallement, Boris  Murmann, Subhasish Mitra, Priyanka Raina    
+*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2021.    
 
 **A Unified Push Memory for Accelerator Generation**  
 Q. Liu, J. Setter, K. Feng, X. Yang, T. Hofstee, M. Horowitz, P. Raina  
-MICRO SRC Poster Presentation, October 2019.
+*MICRO SRC Poster Presentation*, October 2019.
 
 **An Energy-Scalable Co-processor for Blind Image Deblurring**  
 P. Raina, M. Tikekar, A. P. Chandrakasan  
-International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP) Poster Session, February 2016. (**2016 ISSCC Student Research Preview Award**)
+*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2016. (**2016 ISSCC Student Research Preview Award**)
 
 **Reconfigurable Processor for Energy-Scalable Computational Photography**  
 R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
