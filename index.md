@@ -14,6 +14,7 @@ For a complete list of ongoing and past projects please see her [publications](h
 ## News and Talk Videos 
 - Our paper “Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra” won the **Best Demo Paper Award** at the [2022 IEEE Symposium on VLSI Technology & Circuits](https://mobile.twitter.com/VLSI_2022/status/1536825690196217856), June 14, 2022.    
 - Our paper “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference” won the **Best Student Paper Award** at the 2021 IEEE Symposia on VLSI Technology & Circuits, June 14, 2022.   
+- John Kustin graduated with a BS in Electrical Engineering and received the [**Student Design Project Award**](https://ee.stanford.edu/news/2022/june/2022-student-faculty-awards) for his EE272B project "An Open-Source Bandgap Voltage Reference Circuit in SkyWater 130 nm Technology". He is joining University of Michigan for his PhD, June 12, 2022.
 - Michael Oduoza graduated with a BS and SM in Electrical Engineering. He is joining UC Berkeley for his PhD, June 12, 2022.
 - Weier Wan graduated with a PhD in Electrical Engineering, June 12, 2022.
 - Haitong Li graduated with a PhD in Electrical Engineering. He is starting as an Assistant Professor at Purdue University, June 12, 2022. 
