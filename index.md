@@ -11,7 +11,18 @@ description: The pages meta description
 
 For a complete list of ongoing and past projects please see her [publications](https://priyanka-raina.github.io/publications/) and [research group website](https://stanfordaccelerate.github.io/).
 
+## News and Talk Videos 
+- Our paper “Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra” won the **Best Demo Paper Award** at the [2022 IEEE Symposium on VLSI Technology & Circuits](https://mobile.twitter.com/VLSI_2022/status/1536825690196217856), June 14, 2022.    
+- Our paper “CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference” won the **Best Student Paper Award** at the 2021 IEEE Symposia on VLSI Technology & Circuits, June 14, 2022.   
+- Michael Oduoza graduated with a BS and SM in Electrical Engineering. He is joining UC Berkeley for his PhD, June 12, 2022.
+- Weier Wan graduated with a PhD in Electrical Engineering, June 12, 2022.
+- Haitong Li graduated with a PhD in Electrical Engineering. He is starting as a faculty member at Purdue University, June 12, 2022. 
+- **Accelerating Semiconductor Innovation in the U.S.** at the PCAST public meeting on the challenges and opportunities for U.S. leadership in semiconductors, May 12, 2022. [Video](https://www.whitehouse.gov/pcast/meetings/2022-meetings/)
+- **AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers** at the Berkeley/Stanford/UCSC Cloud Workshop, May 11, 2022. [Video](https://vimeo.com/showcase/9529523)
+- **How computer chips get speedier through specialization** in Stanford Engineering’s The Future of Everything podcast with Russ Altman, September 21, 2021. [Video](https://youtu.be/UgmKLm4U1II)
+
 ## Work Experience
+
 **Stanford University**, Stanford, CA    
 Assistant Professor, Electrical Engineering  
 Sep 2018 - Present  
@@ -40,11 +51,6 @@ Advisor: Anantha Chandrakasan
 Jul 2007 - May 2011, Department Rank: 1, Institute Rank: 2   
 Thesis: Transactional Memory Architecture for Multi-core Processors  
 Advisor: Anshul Kumar  
-
-## Talk Videos and News
-- **Accelerating Semiconductor Innovation in the U.S.** at the PCAST public meeting on the challenges and opportunities for U.S. leadership in semiconductors, May 12, 2022. [Video](https://www.whitehouse.gov/pcast/meetings/2022-meetings/)
-- **AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers** at the Berkeley/Stanford/UCSC Cloud Workshop, May 11, 2022. [Video](https://vimeo.com/showcase/9529523)
-- **How computer chips get speedier through specialization** in Stanford Engineering’s The Future of Everything podcast with Russ Altman, September 21, 2021. [Video](https://youtu.be/UgmKLm4U1II)
 
 ## Affiliations
 **[Stanford AHA (Agile Hardware) Center](https://aha.stanford.edu/)**  
