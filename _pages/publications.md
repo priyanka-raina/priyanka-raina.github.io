@@ -156,11 +156,11 @@ R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan
 *International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683), [Demo](http://player.vimeo.com/video/70417371)
 
 ## Poster Presentations
-**Amber: a 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision**
-Kathleen Feng    
+**Amber: a 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision**    
+Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, Qiaoyi Liu, James Thomas, Po-Han Chen, Jackson Melchert, Zachary Myers, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
 *International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2022.    
 
-**CHIMERA: A 2MB, 0.92 TOPS, Non-Volatile Edge AI Accelerator for Training and Inference**
+**CHIMERA: A 2MB, 0.92 TOPS, Non-Volatile Edge AI Accelerator for Training and Inference**    
 Massimo Giordano, Kartik Prabhu, Kalhan Koul, Rohan Doshi, Albert Gural, Zainab F. Khan, John W. Kustin, Timothy Liu, Gregorio B. Lopes, Robert M. Radway, Victor Turbiner, Guénolé Lallement, Boris  Murmann, Subhasish Mitra, Priyanka Raina    
 *International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2021.    
 
