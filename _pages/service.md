@@ -15,7 +15,7 @@ Serving on:
 - Hot Chips: A Symposium on High Performance Chips (2020)
 
 ### Program Committees
-- Technical Program Committee, Symposium on VLSI Circuits (2022)
+- Technical Program Committee, Symposium on VLSI Technology & Circuits (2022)
 - Technical Program Committee, Design, Automation and Test in Europe Conference (DATE) (2022, 2023)
 - Program Committee, International Symposium on High-Performance Computer Architecture (HPCA) (2022)
 - Technical Program Committee, Design Automation Conference (DAC) (2020, 2021, 2022)
@@ -28,6 +28,7 @@ Serving on:
 - Program Committee, Workshop on Open-Source EDA Technology (WOSET) (2020, 2021)    
 
 ### Session Chair
+- Symposium on VLSI Technology & Circuits (2022)
 - tinyML Research Symposium (2022)
 - Design Automation Conference (DAC) (2018, 2020)
 - Hot Chips: A Symposium on High Performance Chips (2019)
