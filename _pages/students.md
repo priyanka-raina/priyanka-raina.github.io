@@ -14,21 +14,24 @@ hide_hero: true
 - Po-Han Chen
 
 ## Current Masters Students (Research)
-- Jeffrey Yu (2022 - )
-- Yuchen Mei (2022 - )
-
-## Current Undergraduate Students (Research)
-- Akhilesh Varadan Balasingam (REU 2022)
+- Jeffrey Yu 
+- Yuchen Mei 
+- Brianna McColm 
+- Xingyu Ni 
+- Peggy Lin
+- John Espera
+- Akshit Goel
+- Caleb Dang Terrill
 
 ## Previous PhD Students
 - Haitong Li (Co-advised with Philip Wong) - Graduated in 2022, Faculty at Purdue University in 2023
 - Weier Wan (Co-advised with Philip Wong) - Graduated in 2022
 
 ## Previous Masters Students (Research)
-- Xingyu Ni (Academic year research in 2022)
 - Swathi Vish Iyer (Academic year research in 2019)
 
 ## Previous Undergraduate and Coterm Students (Research)
+- Akhilesh Varadan Balasingam (REU 2022)
 - Xiaoyang Ma (UGVR 2021)
 - Michael Oduoza (Academic year research in 2020 and 2021, Graduated in 2022)
 - Charles Tsao (REU 2019, REU 2020, Graduated in 2022)
