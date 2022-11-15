@@ -6,6 +6,11 @@ hide_hero: true
 ---
 
 ## Publications    
+
+**Ultra-Dense 3D Physical Design Enables New Architectural Design Points with Large Benefits**    
+Tathagata Srimani, Robert M. Radway, Jinwoo Kim, Kartik Prabhu, Dennis Rich, Carlo Gilardi, Priyanka Raina, Max M. Shulaker, Sung-Kyu Lim, Subhasish Mitra    
+To appear in *Conference & Exhibition on Design, Automation & Test in Europe (DATE)*, April 2023.    
+
 **Unified Buffer: Compiling Halide Programs to Push-Memory Accelerators**  
 Jeff Setter, Qiaoyi Liu, Dillon Huff, Maxwell Strange, Kathleen Feng, Mark Horowitz, Priyanka Raina, Fredrik Kjolstad    
 To appear in *ACM Transactions on Architecture and Code Optimization (TACO)*, November 2022. [arXiv](https://arxiv.org/abs/2105.12858)
