@@ -17,7 +17,7 @@ To appear in *ACM Transactions on Architecture and Code Optimization (TACO)*, No
 
 **3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**  
 Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina  
-To appear in *Integration, the VLSI Journal*, October 2022.  
+To appear in *Integration, the VLSI Journal*, October 2022. [Paper](https://doi.org/10.1016/j.vlsi.2022.10.001)  
 
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
