@@ -12,6 +12,7 @@ description: The pages meta description
 For a complete list of ongoing and past projects please see her [publications](https://priyanka-raina.github.io/publications/) and [research group website](https://stanfordaccelerate.github.io/).
 
 ## News and Talk Videos   
+- Kathleen Feng will receive the **ISSCC 2022 Student Research Preview Poster Award** for "Amber: A 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision" at ISSCC 2023.   
 - The PCAST [Report on Recommendations for Semiconductors R&D](https://www.whitehouse.gov/pcast/documents-reports/), that I worked on as a part of the Working Group on Semiconductors, has been released, September 20, 2022.    
 - Our [*Nature* paper](https://www.nature.com/articles/s41586-022-04992-8) "A compute-in-memory chip based on resistive random-access memory" featured on [Stanford News](https://news.stanford.edu/2022/08/18/new-chip-ramps-ai-computing-efficiency/), August 18, 2022.     
 - Our paper “Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra” won the **Best Demo Paper Award** at the [2022 IEEE Symposium on VLSI Technology & Circuits](https://mobile.twitter.com/VLSI_2022/status/1536825690196217856), June 14, 2022.    
