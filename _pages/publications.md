@@ -13,7 +13,7 @@ To appear in *Conference & Exhibition on Design, Automation & Test in Europe (DA
 
 **3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**  
 Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina  
-*Integration, the VLSI Journal*, January 2023. [Paper](https://doi.org/10.1016/j.vlsi.2022.10.001)  
+*Integration*, January 2023. [Paper](https://doi.org/10.1016/j.vlsi.2022.10.001)  
 
 **High-Density Analog Image Storage in an Analog-Valued Non-Volatile Memory Array**   
 Xin Zheng, Ryan V. Zarcone, Akash Levy, Win-San Khwa, Priyanka Raina, Bruno A. Olshausen, H.-S. Philip Wong   
@@ -37,7 +37,7 @@ Taeyoung Kong, Kalhan Koul, Priyanka Raina, Mark A Horowitz, Christopher Torng
 
 **Improving Energy Efficiency of CGRAs with Low-Overhead Fine-Grained Power Domains**    
 Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Christopher Torng, Stephen Richardson, Rick Bahr, Pat Hanrahan, Mark Horowitz, Priyanka Raina    
-*Transactions on Reconfigurable Technology and Systems (TRETS)*, August 2022. [Paper](https://doi.org/10.1145/3558394)        
+*ACM Transactions on Reconfigurable Technology and Systems (TRETS)*, August 2022. [Paper](https://doi.org/10.1145/3558394)        
 
 **A Compute-in-Memory Chip Based on Resistive Random-Access Memory**    
 Weier Wan, Rajkumar Kubendran, Clemens Schaefer, Sukru Burc Eryilmaz, Wenqiang Zhang, Dabin Wu, Stephen Deiss, Priyanka Raina, He Qian, Bin Gao, Siddharth Joshi, Huaqiang Wu, H.-S. Philip Wong, Gert Cauwenberghs     
@@ -45,11 +45,11 @@ Weier Wan, Rajkumar Kubendran, Clemens Schaefer, Sukru Burc Eryilmaz, Wenqiang Z
 
 **Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
-*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022. [Slides](http://doi.org/10.1109/HCS55958.2022.9895616), [Video](https://drive.google.com/file/d/1eTfIfUbUkYadmRmuRtVijnKcEoTy_G81/view?usp=sharing) 
+*IEEE Hot Chips Symposium (Hot Chips)*, August 2022. [Slides](http://doi.org/10.1109/HCS55958.2022.9895616), [Video](https://drive.google.com/file/d/1eTfIfUbUkYadmRmuRtVijnKcEoTy_G81/view?usp=sharing) 
 
 **Enabling Reusable Physical Design Flows with Modular Flow Generators**  
 Alex Carsello, James Thomas, Ankita Nayak, Po-Han Chen, Mark Horowitz, Priyanka Raina, Christopher Torng  
-*Design Automation Conference (DAC)*, July 2022. [Paper](https://doi.org/10.1145/3489517.3530633)
+*ACM/IEEE Design Automation Conference (DAC)*, July 2022. [Paper](https://doi.org/10.1145/3489517.3530633)
 
 **Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra**    
 Alex Carsello, Kathleen Feng, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
@@ -65,63 +65,63 @@ Ross Daly, Jackson Melchert, Kalhan Koul, Raj Setaluri, Rick Bahr, Clark Barrett
 
 **CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
 Kartik Prabhu, Albert Gural, Zainab F. Khan, Robert M. Radway, Massimo Giordano, Kalhan Koul, Rohan Doshi, John W. Kustin, Timothy Liu, Gregorio B. Lopes, Victor Turbiner, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Guenole Lallement, Boris Murmann, Subhasish Mitra, Priyanka Raina   
-*Journal of Solid-State Circuits (JSSC)*, January 2022. [Paper](https://doi.org/10.1109/JSSC.2022.3140753)    
+*IEEE Journal of Solid-State Circuits (JSSC)*, January 2022. [Paper](https://doi.org/10.1109/JSSC.2022.3140753)    
 
 **Efficient Routing for Coarse-Grained Reconfigurable Arrays using Multi-Pole NEM Relays**  
 Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina     
 *IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, January 2022. [Paper](http://doi.org/10.1109/ASP-DAC52403.2022.9712515)        
 
 **SAPIENS: A 64-Kbit RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge**   
-H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, W.-S. Khwa, H. Chuang, Y.-D. Chih, M.-F. Chang, H.-S. P. Wong, P. Raina  
-*IEEE Transactions on Electron Devices (T-ED)*, September 2021. [Paper](https://ieeexplore.ieee.org/document/9535369)  
+Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, Hongjie Wang, Po-Han Chen, Weier Wan, Win-San Khwa, Harry Chuang, Y.-D. Chih, Meng-Fan Chang, H.-S. Philip Wong, Priyanka Raina  
+*IEEE Transactions on Electron Devices (T-ED)*, September 2021. [Paper](https://doi.org/10.1109/TED.2021.3110464)  
 
 **RADAR: A Fast and Energy-Efficient Programming Technique for Multiple Bits-per-Cell RRAM Arrays**  
-Binh Q. Le, Akash Levy, Tony F. Wu, Robert M. Radway, E. Ray Hsieh, Xin Zheng, Mark Nelson, Priyanka Raina, H.-S. Philip Wong, Simon Wong and Subhasish Mitra   
-*IEEE Transactions on Electron Devices (T-ED)*, September 2021. [Paper](https://ieeexplore.ieee.org/document/9497347)  
+Binh Q. Le, Akash Levy, Tony F. Wu, Robert M. Radway, E. Ray Hsieh, Xin Zheng, Mark Nelson, Priyanka Raina, H.-S. Philip Wong, Simon Wong, Subhasish Mitra   
+*IEEE Transactions on Electron Devices (T-ED)*, September 2021. [Paper](https://doi.org/10.1109/TED.2021.3097975)  
 
 **CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
-M. Giordano, K. Prabhu, K. Koul, R. M. Radway, A. Gural, R. Doshi, Z. F. Khan, J. W. Kustin, T. Liu, G. B. Lopes, V. Turbiner, W.-S. Khwa, Y.-D. Chih, M.-F. Chang, G. Lallement, B. Murmann, S. Mitra, P. Raina  
-*IEEE Symposium on VLSI Circuits (VLSI)*, June 2021. [Paper](https://ieeexplore.ieee.org/abstract/document/9492347) **(Best Student Paper Award)**  
+Massimo Giordano, Kartik Prabhu, Kalhan Koul, Robert M. Radway, Albert Gural, Rohan Doshi, Zainab F. Khan, John W. Kustin, Timothy Liu, Gregorio B. Lopes, Victor Turbiner, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Guenole Lallement, Boris Murmann, Subhasish Mitra, Priyanka Raina  
+*IEEE Symposium on VLSI Circuits (VLSI)*, June 2021. [Paper](http://doi.org/10.23919/VLSICircuits52068.2021.9492347) **(Best Student Paper Award)**  
 
 **One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory**  
-H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, H.-S. P. Wong, P. Raina  
+Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, Hongjie Wang, Po-Han Chen, Weier Wan, H.-S. Philip Wong, Priyanka Raina  
 *IEEE Symposium on VLSI Technology (VLSI)*, June 2021. [Paper](https://ieeexplore.ieee.org/abstract/document/9508761)   
 
 **Simba: Scaling Deep-Learning Inference with Chiplet-Based Architecture**   
-S. Shao, J. Clemons, R. Venkatesan, B. Zimmer, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, B. Khailany, S. W. Keckler   
-*Communications of the ACM*, June 2021. [Paper](https://dl.acm.org/doi/10.1145/3460227)   
+Yakun Sophia Shao, Jason Cemons, Rangharajan Venkatesan, Brian Zimmer, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel Emer, C. Thomas Gray, Brucek Khailany, Stephen W. Keckler   
+*Communications of the ACM*, June 2021. [Paper](https://doi.org/10.1145/3460227)   
 
 **Automated Codesign of Domain-Specific Hardware Accelerators and Compilers**  
-P. Raina, F. Kjolstad, M. Horowitz, P. Hanrahan, C. Barrett, K. Fatahalian  
-*ASCR Workshop on Reimagining Codesign*, March 2021. [Paper](https://custom.cvent.com/DCBD4ADAAD004096B1E4AD96F3C8049E/files/event/f64a4f28b4734808924cc8c3d9a2af63/d03b30a559d14c909dab4c8096d2f191.pdf) 
+Priyanka Raina, Fredrik Kjolstad, Mark Horowitz, Pat Hanrahan, Clark Barrett, Kayvon Fatahalian  
+*ASCR Workshop on Reimagining Codesign*, March 2021. [Paper](https://priyanka-raina.github.io/assets/papers/ASCR\%20Workshop\%202021\%20-\%20Hardware-Compiler\%20Codesign.pdf) 
 
 **Monte Carlo Simulation of a Three-Terminal RRAM with Applications to Neuromorphic Computing**  
-A. Balasingam, A. Levy, H. Li, P. Raina  
-*International Conference on Simulation of Semiconductor Processes and Devices (SISPAD)*, September 2020. [Paper](https://ieeexplore.ieee.org/document/9241659)
+Akhilesh Balasingam, Akash Levy, Haitong Li, Priyanka Raina  
+*International Conference on Simulation of Semiconductor Processes and Devices (SISPAD)*, September 2020. [Paper](http://doi.org/10.23919/SISPAD49475.2020.9241659)
 
 **Creating an Agile Hardware Design Flow**  
-R. Bahr, C. Barrett, N. Bhagdikar, A. Carsello, R. Daly, C. Donovick, D. Durst, K. Fatahalian, K. Feng, P. Hanrahan, T. Hofstee, M. Horowitz, D. Huff, F. Kjolstad, T. Kong, Q. Liu, M. Mann, J. Melchert, A. Nayak, A. Niemetz, G. Nyengele, P. Raina, S. Richardson, R. Setaluri, J. Setter, K. Sreedhar, M. Strange, J. Thomas, C. Torng, L. Truong, N. Tsiskaridze, K. Zhang  
-*Design Automation Conference (DAC)*, July 2020. [Paper](https://stanford.box.com/s/lieh7jsdzhovw2e0j7amdre7sy8scp5j), [Video](https://stanford.box.com/s/6tv07vdy1s3ne2x6lrcj150m3fhubsaf), [Slides](https://stanford.box.com/s/crmvsvgtoser2oqvykex9t70g6ckpsdc)
+Rick Bahr, Clark Barrett, Nikhil Bhagdikar, Alex Carsello, Ross G. Daly, Caleb Donovick, David Durst, Kayvon Fatahalian, Kathleen Feng, Pat Hanrahan, Teguh Hofstee, Mark Horowitz, Dillon Huff, Fredrik Kjolstad, Taeyoung Kong, Qiaoyi Liu, Makai Mann, Jackson Melchert, Ankita Nayak, Aina Niemetz, Gedeon Nyengele, Priyanka Raina, Stephen Richardson, Raj Setaluri, Jeff Setter, Kavya Sreedhar, Maxwell Strange, James Thomas, Christopher Torng, Leonard Truong, Nestan Tsiskaridze, Keyi Zhang  
+*ACM/IEEE Design Automation Conference (DAC)*, July 2020. [Paper](http://doi.org/10.1109/DAC18072.2020.9218553)
 
 **A-QED Verification of Hardware Accelerators**  
-E. Singh, F. Lonsing, S. Chattopadhyay, M. Strange, P. Wei, X. Zhang, Y. Zhao, D. Chen, J. Cong, P. Raina, Z. Zhang, C. Barrett, S. Mitra  
-*Design Automation Conference (DAC)*, July 2020. [Paper](https://ieeexplore.ieee.org/document/9218715)
+Eshan Singh, Florian Lonsing, Saranyu Chattopadhyay, Maxwell Strange, Peng Wei, Xiaofan Zhang, Yuan Zhou, Deming Chen, Jason Cong, Priyanka Raina, Zhiru Zhang, Clark Barrett, Subhasish Mitra  
+*ACM/IEEE Design Automation Conference (DAC)*, July 2020. [Paper](http://doi.org/10.1109/DAC18072.2020.9218715)
 
 **A Voltage-Mode Sensing Scheme with Differential-Row Weight Mapping For Energy-Efficient RRAM-Based In-Memory Computing**  
-W. Wan, R. Kubendran, B. Gao, S. Joshi, P. Raina, H. Wu, G. Cauwenberghs, H.-S. P. Wong  
-*IEEE Symposium on VLSI Technology (VLSI)*, June 2020. [Paper](https://ieeexplore.ieee.org/document/9265066), [Video](https://stanford.box.com/s/n3pcrulsookozhpnxqwpkkbjhlaea1m3), [Slides](https://stanford.box.com/s/igmr2okv8ewdc4u4z1j92asb9fpozx56), [Demo](https://stanford.box.com/s/jgwhx5vszvxgijkh0xyen7q8dfmx7jue)
+Weier Wan, Rajkumar Kubendran, Bin Gao, Siddharth Joshi, Priyanka Raina, Huaqiang Wu, Gert Cauwenberghs, H. S. Philip Wong  
+*IEEE Symposium on VLSI Technology (VLSI)*, June 2020. [Paper](http://doi.org/10.1109/VLSITechnology18217.2020.9265066)
 
 **Automating Vitiligo Skin Lesion Segmentation Using Convolutional Neural Networks**  
-M. Low, V. Huang, P. Raina  
-*IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2020. [Paper](https://ieeexplore.ieee.org/abstract/document/9098682)
+Makena Low, Victor Huang, Priyanka Raina  
+*IEEE International Symposium on Biomedical Imaging (ISBI)*, April 2020. [Paper](https://doi.org/10.1109/ISBI45749.2020.9098682)
 
-**Using Halide’s Scheduling Language to Analyze DNN Accelerators**  
-X. Yang, M. Gao, Q. Liu, J. Pu, A. Nayak, J. Setter, S. Bell, K. Cao, H. Ha, P. Raina, C. Kozyrakis, M. Horowitz  
-*International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020. [Paper](https://dl.acm.org/doi/10.1145/3373376.3378514), [Video](https://youtu.be/vy3s6VZr8TQ), [Abstract](https://asplos.hosting2.acm.org/wp/wp-content/uploads/2020/abstracts/paper_4_0.html)
+**Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators**  
+Xuan Yang, Mingyu Gao, Qiaoyi Liu, Jeff Setter, Jing Pu, Ankita Nayak, Steven Bell, Kaidi Cao, Heonjae Ha, Priyanka Raina, Christos Kozyrakis, Mark Horowitz  
+*International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2020. [Paper](https://doi.org/10.1145/3373376.3378514), [Video](https://youtu.be/vy3s6VZr8TQ), [Abstract](https://asplos.hosting2.acm.org/wp/wp-content/uploads/2020/abstracts/paper_4_0.html)
 
 **A Framework for Adding Low-Overhead, Fine-Grained Power Domains to CGRAs**  
-A. Nayak, K. Zhang, R. Setaluri, A. Carsello, M. Mann, S. Richardson, R. Bahr, P. Hanrahan, M. Horowitz, P. Raina  
-*Design, Automation and Test in Europe Conference (DATE)*, March 2020. **([Best Paper Award Nominee](https://www.date-conference.com))** [Paper](https://ieeexplore.ieee.org/document/9116477/authors#authors)
+Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Stephen Richardson, Rick Bahr, Pat Hanrahan, Mark Horowitz, Priyanka Raina  
+*Conference & Exhibition on Design, Automation & Test in Europe (DATE)*, March 2020. **([Best Paper Award Nominee](https://www.date-conference.com))** [Paper](https://doi.org/10.23919/DATE48585.2020.9116477)
 
 **A 74TMACS/W CMOS-ReRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-Situ Transposable Weights for Probabilistic Graphical Models**  
 W. Wan, R. Kubendran, S. B. Eryilmaz, W. Zhang, Y. Liao, D. Wu, S. Deiss, B. Gao, P. Raina, S. Joshi, H. Wu, G. Cauwenberghs, H.-S.P. Wong  
