@@ -124,65 +124,65 @@ Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Stephen Richa
 *Conference & Exhibition on Design, Automation & Test in Europe (DATE)*, March 2020. **([Best Paper Award Nominee](https://www.date-conference.com))** [Paper](https://doi.org/10.23919/DATE48585.2020.9116477)
 
 **A 74TMACS/W CMOS-ReRAM Neurosynaptic Core with Dynamically Reconfigurable Dataflow and In-Situ Transposable Weights for Probabilistic Graphical Models**  
-W. Wan, R. Kubendran, S. B. Eryilmaz, W. Zhang, Y. Liao, D. Wu, S. Deiss, B. Gao, P. Raina, S. Joshi, H. Wu, G. Cauwenberghs, H.-S.P. Wong  
-*International Solid-State Circuits Conference (ISSCC)*, February 2020. [Paper](https://ieeexplore.ieee.org/document/9062979)
+Weier Wan, Rajkumar Kubendran, S. Burc Eryilmaz, Wenqiang Zhang, Yan Liao, Dabin Wu, Stephen Deiss, Bin Gao, Priyanka Raina, Siddharth Joshi, Huaqiang Wu, Gert Cauwenberghs, H.-S. Philip Wong  
+*IEEE International Solid-State Circuits Conference (ISSCC)*, February 2020. [Paper](https://doi.org/10.1109/ISSCC19947.2020.9062979)
 
 **A 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Inference Accelerator with Ground-Referenced Signaling in 16nm**  
-B. Zimmer, R. Venkatesan, S. Shao, J. Clemons, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, S. W. Keckler, B. Khailany  
-*Journal of Solid-State Circuits (JSSC)*, January 2020. **([JSSC Best Paper Award](https://sscs.ieee.org/membership/awards/jssc-best-paper-award))** [Paper](https://ieeexplore.ieee.org/document/8959403)
+Brian Zimmer, Rangharajan Venkatesan, Yakun Sophia Shao, Jason Clemons, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel S. Emer, C. Thomas Gray, Stephen W. Keckler, Brucek Khailany  
+*IEEE Journal of Solid-State Circuits (JSSC)*, January 2020. **([JSSC Best Paper Award](https://sscs.ieee.org/membership/awards/jssc-best-paper-award))** [Paper](https://doi.org/10.1109/JSSC.2019.2960488)
 
 **MAGNet: A Modular Accelerator Generator for Neural Networks**  
-R. Venkatesan, S. Shao, M. Wang, J. Clemons, S. Dai, M. Fojtik, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, Y. Zhang, B. Zimmer, B. Dally, J. Emer, S. Keckler, B. Khailany  
-*International Conference On Computer Aided Design (ICCAD)*, November 2019. [Paper](https://pdfs.semanticscholar.org/f9b9/90566338411ca302787687a5d0c5dc68b692.pdf?_ga=2.50549674.287759541.1574145941-1788187331.1574145941)
+Rangharajan Venkatesan, Yakun Sophia Shao, Miaorong Wang, Jason Clemons, Steve Dai, Matthew R. Fojtik, Ben Keller, Alicia Klinefelter, Nathaniel Ross Pinckney, Priyanka Raina, Yanqing Zhang, Brian Zimmer, William J. Dally, Joel S. Emer, Stephen W. Keckler, Brucek Khailany  
+*IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, November 2019. [Paper](https://doi.org/10.1109/ICCAD45719.2019.8942127)
 
 **Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture**  
-S. Shao, J. Clemons, R. Venkatesan, B. Zimmer, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. Tell, Y. Zhang, B. Dally, J. Emer, C. T. Gray, B. Khailany, S. Keckler  
-*International Symposium on Microarchitecture (MICRO)*, October 2019. **([Best Paper Award](https://www.microarch.org/micro52/program/bestpaper.html), Top Picks in Computer Architecture Honorable Mentions)** [Paper](https://people.eecs.berkeley.edu/~ysshao/assets/papers/shao2019-micro.pdf)
+Yakun Sophia Shao, Jason Clemons, Rangharajan Venkatesan, Brian Zimmer, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel Emer, C. Thomas Gray, Brucek Khailany, Stephen W. Keckler  
+*IEEE/ACM International Symposium on Microarchitecture (MICRO)*, October 2019. **([Best Paper Award](https://www.microarch.org/micro52/program/bestpaper.html), Top Picks in Computer Architecture Honorable Mentions)** [Paper](https://doi.org/10.1145/3352460.3358302)
 
 **Neuro-Inspired Computing with Emerging Memories: Where Device Physics Meets Learning Algorithms**  
-H. Li, P. Raina, H.-S.P. Wong  
-*Proceedings of SPIE*, September 2019. (Invited) [Paper](http://dx.doi.org/10.1117/12.2529916)
+Haitong Li, Priyanka Raina, H.-S. Philip Wong  
+*Proceedings of SPIE*, September 2019. (Invited) [Paper](https://doi.org/10.1117/12.2529916)
 
 **Creating An Agile Hardware Flow**  
-R. Bahr, C. Barrett, N. Bhagdikar, A. Carsello, N. Chizgi, R. G. Daly, C. Donovick, D. Durst, K. Fatahalian, P. Hanrahan, T. Hofstee, M. Horowitz, D. Huff, T. Kong, Q. Liu, M. Mann, A. Nayak, A. Niemetz, G. Nyengele, S. Richardson, R. Setaluri, J. Setter, D. Stanley, M. Strange, J. Thomas, L. Truong, X. Yang, K. Zhang, P. Raina  
-*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2019. [Slides](https://www.dropbox.com/s/frg7r52xp4lw766/2019-hotchips-agile.pdf?dl=0)
+Rick Bahr, Clark Barrett, Nikhil Bhagdikar, Alex Carsello, Nate Chizgi, Ross G. Daly, Caleb Donovick, David Durst, Kayvon Fatahalian, Kathleen Feng, Pat Hanrahan, Teguh Hofstee, Mark Horowitz, Dillon Huff, Taeyoung Kong, Zheng Liang, Qiaoyi Liu, Makai Mann, Zachary Alexander Myers, Ankita Nayak, Aina Niemetz, Gedeon Nyengele, Priyanka Raina, Stephen Richardson, Raj Setaluri, Jeff Setter, Daniel Stanley, Maxwell Strange, Charles Tsao, James Thomas, Leonard Truong, Xuan Yang, Keyi Zhang  
+*IEEE Hot Chips Symposium (Hot Chips)*, August 2019. [Slides](https://doi.org/10.1109/HOTCHIPS.2019.8875630)
 
 **A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator Designed with a High-Productivity VLSI Methodology**  
-B. Khailany, R. Venkatesan, Y. S. Shao, B. Zimmer, J. Clemons, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, S. W. Keckler  
-*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2019. [Slides](https://people.eecs.berkeley.edu/~ysshao/assets/papers/venkatesan2019-hotchips.pdf)
+Rangharajan Venkatesan, Yakun Sophia Shao, Brian Zimmer, Jason Clemons, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel S. Emer, C. Thomas Gray, Stephen W. Keckler, Brucek Khailany  
+*IEEE Hot Chips Symposium (Hot Chips)*, August 2019. [Slides](https://doi.org/10.1109/HOTCHIPS.2019.8875657)
 
 **A 0.11 pJ/Op, 0.32-128 TOPS, Scalable Multi-Chip-Module-based Deep Neural Network Accelerator with Ground-Reference Signaling in 16nm**  
-B. Zimmer, R. Venkatesan, Y. S. Shao, J. Clemons, M. Fojtik, N. Jiang, B. Keller, A. Klinefelter, N. Pinckney, P. Raina, S. G. Tell, Y. Zhang, W. J. Dally, J. S. Emer, C. T. Gray, S. W. Keckler, B. Khailany  
-*Symposium on VLSI Circuits (VLSI)*, June 2019. [Paper](https://ieeexplore.ieee.org/document/8778056)
+Brian Zimmer, Rangharajan Venkatesan, Yakun Sophia Shao, Jason Clemons, Matthew Fojtik, Nan Jiang, Ben Keller, Alicia Klinefelter, Nathaniel Pinckney, Priyanka Raina, Stephen G. Tell, Yanqing Zhang, William J. Dally, Joel S. Emer, C. Thomas Gray, Stephen W. Keckler, Brucek Khailany  
+*IEEE Symposium on VLSI Circuits (VLSI)*, June 2019. [Paper](https://doi.org/10.23919/VLSIC.2019.8778056)
 
 **Timeloop: A Systematic Approach to DNN Accelerator Evaluation**  
-A. Parashar, P. Raina, S. Shao, A. Mukkara, V. A. Ying, R. Venkatesan, Y. H. Chen, B. Khailany, S. Keckler, J. Emer  
-*International Symposium on Performance Analysis of Systems and Software (ISPASS)*, March 2019. [Paper](https://ieeexplore.ieee.org/document/8695666)
+Angshuman Parashar, Priyanka Raina, Yakun Sophia Shao, Yu-Hsin Chen, Victor A. Ying, Anurag Mukkara, Rangharajan Venkatesan, Brucek Khailany, Stephen W. Keckler, Joel Emer  
+*IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)*, March 2019. [Paper](https://doi.org/10.1109/ISPASS.2019.00042)
 
 **An Energy-Scalable Accelerator for Blind Image Deblurring**  
-P. Raina, M. Tikekar, and A. P. Chandrakasan  
-*Journal of Solid-State Circuits (JSSC)*, July 2017. (Invited) [Paper](https://ieeexplore.ieee.org/document/7891902)
+Priyanka Raina, Mehul Tikekar, Anantha P. Chandrakasan  
+*IEEE Journal of Solid-State Circuits (JSSC)*, July 2017. (Invited) [Paper](https://doi.org/10.1109/JSSC.2017.2682842)
 
 **An Energy-Scalable Accelerator for Blind Image Deblurring**  
-P. Raina, M. Tikekar, and A. P. Chandrakasan  
-*European Solid-State Circuits Conference (ESSCIRC)*, September 2016. (**Best Student Paper**) [Paper](https://ieeexplore.ieee.org/document/7598255) 
+Priyanka Raina, Mehul Tikekar, Anantha P. Chandrakasan  
+*IEEE European Solid-State Circuits Conference (ESSCIRC)*, September 2016. (**Best Young Scientist Paper Award**) [Paper](https://doi.org/10.1109/ESSCIRC.2016.7598255) 
 
 **A 0.6V 8mW 3D Vision Processor for a Navigation Device for the Visually Impaired**  
-D. Jeon, N. Ickes, P. Raina, H. C. Wang, A. P. Chandrakasan  
-*International Solid-State Circuits Conference (ISSCC)*, February 2016. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7418084)
+Dongsuk Jeon, Nathan Ickes, Priyanka Raina, Hsueh-Cheng Wang, Daniela Rus, Anantha Chandrakasan  
+*IEEE International Solid-State Circuits Conference (ISSCC)*, February 2016. [Paper](https://doi.org/10.1109/ISSCC.2016.7418084)
 
 **Reconfigurable Processor for Energy-Efficient Computational Photography**  
-R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
-*Journal of Solid-State Circuits (JSSC)*, November 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623206)
+Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chandrakasan  
+*IEEE Journal of Solid-State Circuits (JSSC)*, November 2013. [Paper](https://doi.org/10.1109/JSSC.2013.2282614)
 
 **Reconfigurable Processor for Energy-Scalable Computational Photography**  
-R. Rithe, P. Raina, N. Ickes, S. V. Tenneti, A. P. Chandrakasan  
-*International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6487683), [Demo](http://player.vimeo.com/video/70417371)
+Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chandrakasan  
+*IEEE International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](https://doi.org/10.1109/ISSCC.2013.6487683), [Demo](http://player.vimeo.com/video/70417371)
 
 ## Poster Presentations
 **Amber: a 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, Qiaoyi Liu, James Thomas, Po-Han Chen, Jackson Melchert, Zachary Myers, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
-*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2022.    
+*International Solid-State Circuits Conference (ISSCC) Student Research Preview (SRP)*, February 2022. (**2022 ISSCC Student Research Preview Poster Award**)    
 
 **CHIMERA: A 2MB, 0.92 TOPS, Non-Volatile Edge AI Accelerator for Training and Inference**    
 Massimo Giordano, Kartik Prabhu, Kalhan Koul, Rohan Doshi, Albert Gural, Zainab F. Khan, John W. Kustin, Timothy Liu, Gregorio B. Lopes, Robert M. Radway, Victor Turbiner, Guénolé Lallement, Boris  Murmann, Subhasish Mitra, Priyanka Raina    
