@@ -15,57 +15,61 @@ To appear in *Conference & Exhibition on Design, Automation & Test in Europe (DA
 Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina  
 *Integration, the VLSI Journal*, January 2023. [Paper](https://doi.org/10.1016/j.vlsi.2022.10.001)  
 
+**High-Density Analog Image Storage in an Analog-Valued Non-Volatile Memory Array**   
+Xin Zheng, Ryan V. Zarcone, Akash Levy, Win-San Khwa, Priyanka Raina, Bruno A. Olshausen, H.-S. Philip Wong   
+*Neuromorphic Computing and Engineering*, December 2022. [Paper](https://doi.org/10.1088/2634-4386/aca92c) 
+
 **Unified Buffer: Compiling Halide Programs to Push-Memory Accelerators**  
 Jeff Setter, Qiaoyi Liu, Dillon Huff, Maxwell Strange, Kathleen Feng, Mark Horowitz, Priyanka Raina, Fredrik Kjolstad    
 *ACM Transactions on Architecture and Code Optimization (TACO)*, November 2022. [Paper](https://doi.org/10.1145/3572908)
 
 **Synthesizing Instruction Selection Rewrite Rules from RTL using SMT**    
 Ross Daly, Caleb Donovick, Jack Melchert, Raj Setaluri, Nestan Tsiskaridze, Priyanka Raina, Clark Barrett, Pat Hanrahan    
-*Formal Methods in Computer-Aided Design (FMCAD)*, October 2022. [Paper](https://repositum.tuwien.at/handle/20.500.12708/81336)
+*Formal Methods in Computer-Aided Design (FMCAD)*, October 2022. [Paper](https://doi.org/10.34727/2022/isbn.978-3-85448-053-2_20)
 
 **Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Keyi Zhang, Yuchen Mei, Mark Horowitz, Christopher Torng, Priyanka Raina    
-*Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO*, October 2022.    
+*Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO*, October 2022. [Paper](https://arxiv.org/abs/2211.17207)    
 
 **Hardware Abstractions and Hardware Mechanisms to Support Multi-Task Execution on Coarse-Grained Reconfigurable Arrays**    
 Taeyoung Kong, Kalhan Koul, Priyanka Raina, Mark A Horowitz, Christopher Torng     
-*Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO*, October 2022.    
+*Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO*, October 2022. [Paper](https://priyanka-raina.github.io/assets/papers/MICRO\%20WDDSA\%202022\%20-\%20CGRA\%20DPR.pdf)    
 
 **Improving Energy Efficiency of CGRAs with Low-Overhead Fine-Grained Power Domains**    
 Ankita Nayak, Keyi Zhang, Raj Setaluri, Alex Carsello, Makai Mann, Christopher Torng, Stephen Richardson, Rick Bahr, Pat Hanrahan, Mark Horowitz, Priyanka Raina    
-*Transactions on Reconfigurable Technology and Systems (TRETS)*, August 2022. [Paper](https://dl.acm.org/doi/10.1145/3558394)        
+*Transactions on Reconfigurable Technology and Systems (TRETS)*, August 2022. [Paper](https://doi.org/10.1145/3558394)        
 
 **A Compute-in-Memory Chip Based on Resistive Random-Access Memory**    
 Weier Wan, Rajkumar Kubendran, Clemens Schaefer, Sukru Burc Eryilmaz, Wenqiang Zhang, Dabin Wu, Stephen Deiss, Priyanka Raina, He Qian, Bin Gao, Siddharth Joshi, Huaqiang Wu, H.-S. Philip Wong, Gert Cauwenberghs     
-*Nature*, August 2022. [Paper](https://www.nature.com/articles/s41586-022-04992-8)    
+*Nature*, August 2022. [Paper](https://doi.org/10.1038/s41586-022-04992-8)    
 
 **Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration**    
 Kathleen Feng, Alex Carsello, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
-*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022. [Slides](https://ieeexplore.ieee.org/document/9895616), [Video](https://drive.google.com/file/d/1eTfIfUbUkYadmRmuRtVijnKcEoTy_G81/view?usp=sharing) 
+*Hot Chips: A Symposium on High Performance Chips (HotChips)*, August 2022. [Slides](http://doi.org/10.1109/HCS55958.2022.9895616), [Video](https://drive.google.com/file/d/1eTfIfUbUkYadmRmuRtVijnKcEoTy_G81/view?usp=sharing) 
 
 **Enabling Reusable Physical Design Flows with Modular Flow Generators**  
 Alex Carsello, James Thomas, Ankita Nayak, Po-Han Chen, Mark Horowitz, Priyanka Raina, Christopher Torng  
-*Design Automation Conference (DAC)*, July 2022. [Paper](https://arxiv.org/abs/2111.14535)
+*Design Automation Conference (DAC)*, July 2022. [Paper](https://doi.org/10.1145/3489517.3530633)
 
 **Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra**    
 Alex Carsello, Kathleen Feng, Taeyoung Kong, Kalhan Koul, Qiaoyi Liu, Jackson Melchert, Gedeon Nyengele, Maxwell Strange, Keyi Zhang, Ankita Nayak, Jeff Setter, James Thomas, Kavya Sreedhar, Po-Han Chen, Nikhil Bhagdikar, Zachary Myers, Brandon D'Agostino, Pranil Joshi, Stephen Richardson, Rick Bahr, Christopher Torng, Mark Horowitz, Priyanka Raina    
-*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2022. **(Best Demo Paper Award)** [Paper](https://ieeexplore.ieee.org/document/9830509), [VLSI Demo Session](https://mobile.twitter.com/VLSI_2022/status/1536825690196217856)        
+*IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2022. **(Best Demo Paper Award)** [Paper](http://doi.org/10.1109/VLSITechnologyandCir46769.2022.9830509), [VLSI Demo Session](https://mobile.twitter.com/VLSI_2022/status/1536825690196217856)        
 
 **AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers**    
 Kalhan Koul, Jackson Melchert, Kavya Sreedhar, Leonard Truong, Gedeon Nyengele, Keyi Zhang, Qiaoyi Liu, Jeff Setter, Po-Han Chen, Yuchen Mei, Maxwell Strange, Ross Daly, Caleb Donovick, Alex Carsello, Taeyoung Kong, Kathleen Feng, Dillon Huff, Ankita Nayak, Rajsekhar Setaluri, James Thomas, Nikhil Bhagdikar, David Durst, Zachary Myers, Nestan Tsiskaridze, Stephen Richardson, Rick Bahr, Kayvon Fatahalian, Pat Hanrahan, Clark Barrett, Mark Horowitz, Christopher Torng, Fredrik Kjolstad, Priyanka Raina    
-*ACM Transactions on Embedded Computing Systems (TECS)*, April 2022. [Paper](https://dl.acm.org/doi/10.1145/3534933)
+*ACM Transactions on Embedded Computing Systems (TECS)*, April 2022. [Paper](https://doi.org/10.1145/3534933)
 
 **An Agile Approach to the Design of Hardware Accelerators and Adaptable Compilers**  
 Ross Daly, Jackson Melchert, Kalhan Koul, Raj Setaluri, Rick Bahr, Clark Barrett, Nikhil Bhagdikar, Alex Carsello, Caleb Donovick, David Durst, Kayvon Fatahalian, Kathleen Feng, Pat Hanrahan, Teguh Hofstee, Mark Horowitz, Dillon Huff, Fredrik Kjolstad, Taeyoung Kong, Qiaoyi Liu, Makai Mann, Ankita Nayak, Aina Niemetz, Gedeon Nyengele, Stephen Richardson, Jeff Setter, Kavya Sreedhar, Maxwell Strange, James Thomas, Christopher Torng, Leonard Truong, Nestan Tsiskaridze, Keyi Zhang, Priyanka Raina    
-*GOMACTech*, March 2022. [Paper](https://drive.google.com/file/d/1wE5cdkM8JmMPxf7xqphPhtfokrFlqHXn/view?usp=sharing)    
+*GOMACTech*, March 2022. [Paper](https://priyanka-raina.github.io/assets/papers/GOMACTech\%202022\%20-\%20Agile\%20Hardware.pdf)    
 
 **CHIMERA: A 0.92 TOPS, 2.2 TOPS/W Edge AI Accelerator with 2 MByte On-Chip Foundry Resistive RAM for Efficient Training and Inference**  
 Kartik Prabhu, Albert Gural, Zainab F. Khan, Robert M. Radway, Massimo Giordano, Kalhan Koul, Rohan Doshi, John W. Kustin, Timothy Liu, Gregorio B. Lopes, Victor Turbiner, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Guenole Lallement, Boris Murmann, Subhasish Mitra, Priyanka Raina   
-*Journal of Solid-State Circuits (JSSC)*, January 2022. [Paper](https://ieeexplore.ieee.org/document/9690772)    
+*Journal of Solid-State Circuits (JSSC)*, January 2022. [Paper](https://doi.org/10.1109/JSSC.2022.3140753)    
 
 **Efficient Routing for Coarse-Grained Reconfigurable Arrays using Multi-Pole NEM Relays**  
-A. Levy, M. Oduoza, A. Balasingam, R. T. Howe, P. Raina  
-*IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, January 2022. [Paper](https://ieeexplore.ieee.org/document/9712515)        
+Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina     
+*IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, January 2022. [Paper](http://doi.org/10.1109/ASP-DAC52403.2022.9712515)        
 
 **SAPIENS: A 64-Kbit RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge**   
 H. Li, W.-C. Chen, A. Levy, C.-H. Wang, H. Wang, P. Chen, W. Wan, W.-S. Khwa, H. Chuang, Y.-D. Chih, M.-F. Chang, H.-S. P. Wong, P. Raina  
