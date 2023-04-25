@@ -5,14 +5,17 @@ subtitle: Assistant Professor, Stanford University
 description: The pages meta description
 ---
 
-<img src="/assets/images/priyanka-raina.jpeg" width="400" align="left" style="padding-right: 30px; padding-bottom: 20px;"> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from the IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.
+<img src="/assets/images/priyanka-raina.jpeg" width="400" align="left" style="padding-right: 30px; padding-bottom: 20px;"> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from the IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the NSF CAREER Award, Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.
 
 **Research Interests**: Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity, Machine Learning, Near-Memory Computing
 
 For a complete list of ongoing and past projects please see her [publications](https://priyanka-raina.github.io/publications/) and [research group website](https://stanfordaccelerate.github.io/).
 
 ## News and Talk Videos   
-- Kathleen Feng will receive the **ISSCC 2022 Student Research Preview Poster Award** for "Amber: A 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision" at ISSCC 2023.   
+- Jackson Melchert won the **Apple Stanford EE PhD Fellowship in Integrated Systems**, April 18, 2023.    
+- Kartik Prabhu won the **Apple Stanford EE PhD Fellowship in Integrated Systems**, April 18, 2023.    
+- Priyanka Raina received the **NSF CAREER Award** for "A Framework for Co-design and Optimization of Programmable Hardware Accelerators and Compilers", March 3, 2023.    
+- Kathleen Feng received the **ISSCC 2022 Student Research Preview Poster Award** for "Amber: A 441.2 GOPS/W 16nm Coarse Grained Reconfigurable Array-Based SoC Accelerator for Image Processing and Computer Vision" at ISSCC 2023.   
 - The PCAST [Report on Recommendations for Semiconductors R&D](https://www.whitehouse.gov/pcast/documents-reports/), that I worked on as a part of the Working Group on Semiconductors, has been released, September 20, 2022.    
 - Our [*Nature* paper](https://www.nature.com/articles/s41586-022-04992-8) "A compute-in-memory chip based on resistive random-access memory" featured on [Stanford News](https://news.stanford.edu/2022/08/18/new-chip-ramps-ai-computing-efficiency/), August 18, 2022.     
 - Our paper “Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra” won the **Best Demo Paper Award** at the [2022 IEEE Symposium on VLSI Technology & Circuits](https://mobile.twitter.com/VLSI_2022/status/1536825690196217856), June 14, 2022.    
