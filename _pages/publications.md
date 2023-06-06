@@ -6,17 +6,25 @@ hide_hero: true
 ---
 
 ## Publications    
+**EMBER: A 100 MHz, 0.86 mm2, Multiple-Bits-per-Cell RRAM Macro in 40 nm CMOS with Compact Peripherals and 1.0 pJ/bit Read Circuitry**    
+Luke R. Upton, Akash Levy, Michael D. Scott, Dennis Rich, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina, Boris Murmann    
+*IEEE European Solid-State Circuits Conference (ESSCIRC)*, September 2023.
+
+**PEak: A Single Source of Truth for Hardware Design and Verification**     
+Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett    
+*Programming Languages for Architecture (PLARCH) Workshop at PLDI*, June 2023.
+
 **An Open-Source 4x8 Coarse-Grained Reconfigurable Array Using SkyWater 130 nm Technology and Agile Hardware Design Flow**    
 Po-Han Chen, Charles Tsao, Priyanka Raina   
-To appear in *IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2023.    
+*IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2023.    
 
 **Ultra-Dense 3D Physical Design Enables New Architectural Design Points with Large Benefits**    
 Tathagata Srimani, Robert M. Radway, Jinwoo Kim, Kartik Prabhu, Dennis Rich, Carlo Gilardi, Priyanka Raina, Max M. Shulaker, Sung-Kyu Lim, Subhasish Mitra    
-To appear in *Conference & Exhibition on Design, Automation & Test in Europe (DATE)*, April 2023.    
+*Conference & Exhibition on Design, Automation & Test in Europe (DATE)*, April 2023. [Paper](https://doi.org/10.23919/DATE56975.2023.10137051)    
 
 **APEX: A Framework for Automated Processing Element Design Space Exploration using Frequent Subgraph Analysis**     
 Jackson Melchert, Kathleen Feng, Caleb Donovick, Ross Daly, Ritvik Sharma, Clark Barrett, Mark Horowitz, Pat Hanrahan, Priyanka Raina   
-To appear in *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2023.    
+*International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, March 2023. [Paper](https://doi.org/10.1145/3582016.3582070), [Talk Video](https://www.youtube.com/watch?v=ebUdthdFHlE&ab_channel=ACMSIGARCH)    
 
 **3-D Coarse-Grained Reconfigurable Array Using Multi-Pole NEM Relays for Programmable Routing**  
 Akash Levy, Michael Oduoza, Akhilesh Balasingam, Roger T. Howe, Priyanka Raina  
