@@ -34,6 +34,10 @@ For a complete list of ongoing and past projects please see her [publications](h
 Assistant Professor, Electrical Engineering  
 Sep 2018 - Present  
 
+**Amazon**, Sunnyvale, CA    
+Amazon Visiting Academic    
+May 2023 – Present    
+
 **NVIDIA Corporation**, Santa Clara, CA    
 Visiting Research Scientist, Architecture Research Group, NVIDIA Research  
 Jan 2018 - Aug 2018  
@@ -62,7 +66,9 @@ Advisor: Anshul Kumar
 ## Affiliations
 **[Stanford AHA (Agile Hardware) Center](https://aha.stanford.edu/)**  
 **[SystemX Alliance](https://systemx.stanford.edu/)**  
-**[AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk)**  
+**[AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk)**      
+**[SRC JUMP2.0 COCOSYS: Center for the Co-Design of Cognitive Systems](https://www.src.org/program/jump2/cocosys/)**     
+**[SRC JUMP2.0 PRISM: Center for Processing with Intelligent Storage and Memory](https://www.src.org/program/jump2/prism/)**     
 
 ## Contact
 praina at stanford dot edu  
