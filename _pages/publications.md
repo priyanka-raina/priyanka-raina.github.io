@@ -30,7 +30,7 @@ Po-Han Chen, Charles Tsao, Priyanka Raina
 
 **Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Keyi Zhang, Yuchen Mei, Mark Horowitz, Christopher Torng, Priyanka Raina    
-*IEEE Computer Architecture Letters (CAL)*, April 2023.
+*IEEE Computer Architecture Letters (CAL)*, April 2023. [Paper](https://doi.org/10.1109/LCA.2023.3268126)    
   
 **Ultra-Dense 3D Physical Design Enables New Architectural Design Points with Large Benefits**    
 Tathagata Srimani, Robert M. Radway, Jinwoo Kim, Kartik Prabhu, Dennis Rich, Carlo Gilardi, Priyanka Raina, Max M. Shulaker, Sung-Kyu Lim, Subhasish Mitra    
