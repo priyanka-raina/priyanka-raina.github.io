@@ -7,6 +7,7 @@ hide_hero: true
 
 ## Publications   
 
+
 **PBA: Percentile-Based Level Allocation for Multiple-Bits-Per-Cell RRAM**    
 Anjiang Wei, Akash Levy, Pu Yi, Robert Radway, Priyanka Raina, Subhasish Mitra, Sara Achour    
 *IEEE/ACM International Conference On Computer Aided Design (ICCAD)*, October 2023.    
@@ -27,6 +28,10 @@ Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat H
 Po-Han Chen, Charles Tsao, Priyanka Raina   
 *IEEE International Symposium on Circuits and Systems (ISCAS)*, May 2023.    
 
+**Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**    
+Jackson Melchert, Keyi Zhang, Yuchen Mei, Mark Horowitz, Christopher Torng, Priyanka Raina    
+*IEEE Computer Architecture Letters (CAL)*, April 2023.
+  
 **Ultra-Dense 3D Physical Design Enables New Architectural Design Points with Large Benefits**    
 Tathagata Srimani, Robert M. Radway, Jinwoo Kim, Kartik Prabhu, Dennis Rich, Carlo Gilardi, Priyanka Raina, Max M. Shulaker, Sung-Kyu Lim, Subhasish Mitra    
 *Conference & Exhibition on Design, Automation & Test in Europe (DATE)*, April 2023. [Paper](https://doi.org/10.23919/DATE56975.2023.10137051)    
