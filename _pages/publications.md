@@ -214,6 +214,10 @@ Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat H
 *arXiv*, August 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)
 
 ## Poster Presentations
+**An Open-Source 130-nm Fusion-Enabled Deconvolution Kernel Generator IC For Real-Time mmWave Radar Platform Motion Compensation**    
+Nikhil Poole, Priyanka Raina, Amin Arbabian    
+*IEEE Hot Chips Symposium (Hot Chips)*, August 2023.
+
 **APEX: A Framework for Automated Processing Element Design Space Exploration using Frequent Subgraph Analysis**     
 Jackson Melchert, Kathleen Feng, Caleb Donovick, Ross Daly, Ritvik Sharma, Clark Barrett, Mark Horowitz, Pat Hanrahan, Priyanka Raina   
 *TECHCON*, September 2023.    
