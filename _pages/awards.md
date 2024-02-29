@@ -5,6 +5,8 @@ title: Awards
 hide_hero: true
 ---
 ## Awards
+**Sloan Research Fellowship**, 2024
+
 **NSF CAREER Award** for "A Framework for Co-design and Optimization of Programmable Hardware Accelerators and Compilers", 2023    
 
 **Best Demo Paper Award** at the 2022 IEEE Symposium on VLSI Technology & Circuits for the paper "Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a Coarse-Grained Reconfigurable Array for Flexible Acceleration of Dense Linear Algebra", 2022    
