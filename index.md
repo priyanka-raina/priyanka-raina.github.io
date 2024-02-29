@@ -5,13 +5,14 @@ subtitle: Assistant Professor, Stanford University
 description: The pages meta description
 ---
 
-<img src="/assets/images/priyanka-raina.jpeg" width="400" align="left" style="padding-right: 30px; padding-bottom: 20px;"> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the NSF CAREER Award, Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.
+<img src="/assets/images/priyanka-raina.jpeg" width="400" align="left" style="padding-right: 30px; padding-bottom: 20px;"> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the Sloan Research Fellowship, NSF CAREER Award, Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.
 
 **Research Interests**: Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity, Machine Learning, Near-Memory Computing
 
 For a complete list of ongoing and past projects please see her [publications](https://priyanka-raina.github.io/publications/) and [research group website](https://stanfordaccelerate.github.io/).
 
 ## News and Talk Videos   
+- Priyanka Raina received the [**Sloan Research Fellowship**](https://sloan.org/fellowships/2024-Fellows), February 20, 2024.
 - Jeffrey Yu graduated with an MS in Electrical Engineering. He is joining Stanford for his PhD, June 18, 2023.
 - Yuchen Mei graduated with an MS in Electrical Engineering. He is joining Stanford for his PhD, June 18, 2023.
 - Akash Levy graduated with a PhD in Electrical Engineering, June 18, 2023.
@@ -68,8 +69,7 @@ Advisor: Anshul Kumar
 
 ## Affiliations
 **[Stanford AHA (Agile Hardware) Center](https://aha.stanford.edu/)**  
-**[SystemX Alliance](https://systemx.stanford.edu/)**  
-**[AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk)**      
+**[SystemX Alliance](https://systemx.stanford.edu/)**        
 **[SRC JUMP2.0 COCOSYS: Center for the Co-Design of Cognitive Systems](https://www.src.org/program/jump2/cocosys/)**     
 **[SRC JUMP2.0 PRISM: Center for Processing with Intelligent Storage and Memory](https://www.src.org/program/jump2/prism/)**     
 
