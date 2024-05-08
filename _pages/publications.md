@@ -241,6 +241,10 @@ Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat H
 *arXiv*, August 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)
 
 ## Poster Presentations
+**Onyx: A 12nm 756 GOPS/W Coarse-Grained Reconfigurable Array for Accelerating Dense and Sparse Applications**     
+Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina   
+*TECHCON*, September 2024.   
+
 **An Open-Source 130-nm Fusion-Enabled Deconvolution Kernel Generator IC For Real-Time mmWave Radar Platform Motion Compensation**    
 Nikhil Poole, Priyanka Raina, Amin Arbabian    
 *IEEE Hot Chips Symposium (Hot Chips)*, August 2023.
