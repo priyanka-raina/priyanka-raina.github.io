@@ -30,7 +30,6 @@ Jeffrey Yu, Kartik Prabhu, Yonatan Urman, Robert M. Radway, Eric Han, Priyanka R
 **Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
 *Languages, Tools, and Techniques for Accelerator Design (LATTE) Workshop at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*, April 2024.    
-
 **FastPASE: An AI-Driven Fast PPA Speculation Engine for RTL Design Space Optimization**    
 Akash Levy, Joe Walston, Priyanka Raina, Stelios Diamantidis    
 *International Symposium on Quality Electronic Design (ISQED)*, April 2024.
@@ -240,7 +239,7 @@ Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chand
 Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
 *arXiv*, August 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)
 
-## Poster Presentations
+## Poster Presentations    
 **Onyx: A 12nm 756 GOPS/W Coarse-Grained Reconfigurable Array for Accelerating Dense and Sparse Applications**     
 Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina   
 *TECHCON*, September 2024.   
