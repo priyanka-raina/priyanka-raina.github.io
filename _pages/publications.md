@@ -14,7 +14,7 @@ Ross Daly, Caleb Donovick, Caleb Terrill, Jack Melchert, Priyanka Raina, Clark B
 Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina    
 *IEEE Hot Chips Symposium (Hot Chips)*, August 2024.     
 
-**AHA: An Open-Source Framework for Co-design of Programmable Accelerators and Compilers**
+**AHA: An Open-Source Framework for Co-design of Programmable Accelerators and Compilers**    
 Kalhan Koul, Jackson Melchert, Keyi Zhang, Taeyoung Kong, Maxwell Strange, Olivia Hsu, Qiaoyi Liu, Jeff Setter, Ross Daly, Caleb Donovick, Alex Carsello, Leonard Truong, Po-Han Chen, Yuchen Mei, Zhouhua Xie, Kathleen Feng, Gedeon Nyengele, Dillon Huff, Kavya Sreedhar, Huifeng Ke, Ankita Nayak, Rajsekhar Setaluri, Stephen Richardson, Christopher Torng, Pat Hanrahan, Clark Barrett, Mark Horowitz, Fredrik Kjolstad, Priyanka Raina    
 *Open-Source Computer Architecture Research (OSCAR) Workshop at the International Symposium on Computer Architecture (ISCA)*, June 2024.    
 
