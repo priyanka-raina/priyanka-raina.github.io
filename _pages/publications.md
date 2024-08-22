@@ -251,6 +251,11 @@ Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chand
 Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
 *arXiv*, August 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)
 
+## Tutorials
+**AHA: An Open-Source Framework for Co-design of Programmable Accelerators and Compilers**    
+Kalhan Koul, Leonard Truong, Caleb Donovick, Maxwell Strange, Jackson Melchert, Jeff Setter, Olivia Hsu, Keyi Zhang, Taeyoung Kong, Qiaoyi Liu, Ross Daly, Alex Carsello, Po-Han Chen, Yuchen Mei, Zhouhua Xie, Kathleen Feng, Gedeon Nyengele, Dillon Huff, Kavya Sreedhar, Huifeng Ke, Ankita Nayak, Rajsekhar Setaluri, Stephen Richardson, Christopher Torng, Pat Hanrahan, Clark Barrett, Mark Horowitz, Fredrik Kjolstad,  Priyanka Raina    
+Tutorial at *IEEE/ACM International Symposium on Microarchitecture (MICRO)*, November 2024.
+
 ## Posters 
 **Onyx: A 12nm 756 GOPS/W Coarse-Grained Reconfigurable Array for Accelerating Dense and Sparse Applications**     
 Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina      
