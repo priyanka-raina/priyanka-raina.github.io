@@ -6,6 +6,18 @@ hide_hero: true
 ---
 
 ## Publications   
+**Efficiently Synthesizing Lowest Cost Rewrite Rules for Instruction Selection**    
+Ross Daly, Caleb Donovick, Caleb Terrill, Jack Melchert, Priyanka Raina, Clark Barrett, Pat Hanrahan    
+*Formal Methods in Computer-Aided Design (FMCAD)*, October 2024.    
+
+**Onyx: A Programmable Accelerator for Sparse Tensor Algebra**    
+Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina    
+*IEEE Hot Chips Symposium (Hot Chips)*, August 2024.     
+
+**AHA: An Open-Source Framework for Co-design of Programmable Accelerators and Compilers**
+Kalhan Koul, Jackson Melchert, Keyi Zhang, Taeyoung Kong, Maxwell Strange, Olivia Hsu, Qiaoyi Liu, Jeff Setter, Ross Daly, Caleb Donovick, Alex Carsello, Leonard Truong, Po-Han Chen, Yuchen Mei, Zhouhua Xie, Kathleen Feng, Gedeon Nyengele, Dillon Huff, Kavya Sreedhar, Huifeng Ke, Ankita Nayak, Rajsekhar Setaluri, Stephen Richardson, Christopher Torng, Pat Hanrahan, Clark Barrett, Mark Horowitz, Fredrik Kjolstad, Priyanka Raina    
+*Open-Source Computer Architecture Research (OSCAR) Workshop at the International Symposium on Computer Architecture (ISCA)*, June 2024.    
+
 **MINOTAUR: An Edge Transformer Inference and Training Accelerator with 12 MBytes On-Chip Resistive RAM and Fine-Grained Spatiotemporal Power Gating**    
 Kartik Prabhu, Robert M. Radway, Jeffrey Yu, Kai Bartolone, Massimo Giordano, Fabian Peddinghaus, Yonatan Urman, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina    
 *IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2024.    
@@ -233,6 +245,11 @@ Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chand
 **PEak: A Single Source of Truth for Hardware Design and Verification**     
 Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
 *arXiv*, August 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)
+
+## Posters 
+**Onyx: A 12nm 756 GOPS/W Coarse-Grained Reconfigurable Array for Accelerating Dense and Sparse Applications**     
+Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina      
+*TECHCON*, September 2024. 
 
 **An Open-Source 130-nm Fusion-Enabled Deconvolution Kernel Generator IC For Real-Time mmWave Radar Platform Motion Compensation**    
 Nikhil Poole, Priyanka Raina, Amin Arbabian    
