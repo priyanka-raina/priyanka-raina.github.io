@@ -8,7 +8,7 @@ hide_hero: true
 ## Publications   
 **Efficiently Synthesizing Lowest Cost Rewrite Rules for Instruction Selection**    
 Ross Daly, Caleb Donovick, Caleb Terrill, Jack Melchert, Priyanka Raina, Clark Barrett, Pat Hanrahan    
-*Formal Methods in Computer-Aided Design (FMCAD)*, October 2024.    
+*Formal Methods in Computer-Aided Design (FMCAD)*, October 2024. [Paper](https://arxiv.org/abs/2405.06127)
 
 **Onyx: A Programmable Accelerator for Sparse Tensor Algebra**    
 Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivia Hsu, Taeyoung Kong, Po-Han Chen, Huifeng Ke, Keyi Zhang, Qiaoyi Liu, Gedeon Nyengele, Akhilesh Balasingam, Jayashree Adivarahan, Ritvik Sharma, Zhouhua Xie, Christopher Torng, Joel S Emer, Fredrik Kjolstad, Mark Horowitz, Priyanka Raina    
