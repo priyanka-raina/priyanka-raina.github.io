@@ -18,6 +18,10 @@ Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivi
 Kalhan Koul, Jackson Melchert, Keyi Zhang, Taeyoung Kong, Maxwell Strange, Olivia Hsu, Qiaoyi Liu, Jeff Setter, Ross Daly, Caleb Donovick, Alex Carsello, Leonard Truong, Po-Han Chen, Yuchen Mei, Zhouhua Xie, Kathleen Feng, Gedeon Nyengele, Dillon Huff, Kavya Sreedhar, Huifeng Ke, Ankita Nayak, Rajsekhar Setaluri, Stephen Richardson, Christopher Torng, Pat Hanrahan, Clark Barrett, Mark Horowitz, Fredrik Kjolstad, Priyanka Raina    
 *Open-Source Computer Architecture Research (OSCAR) Workshop at the International Symposium on Computer Architecture (ISCA)*, June 2024.    
 
+**A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators**    
+Kartik Prabhu, Jeffrey Yu, Suresh Nambi, Priyanka Raina
+AI for Fully-Automated Chip Design (AI4FACD) Workshop at ISCA 2024 in Buenos Aires, Argentina. ![image](https://github.com/user-attachments/assets/b65d8fa2-e95b-4a02-86db-e3d1dea4aa95)
+
 **MINOTAUR: An Edge Transformer Inference and Training Accelerator with 12 MBytes On-Chip Resistive RAM and Fine-Grained Spatiotemporal Power Gating**    
 Kartik Prabhu, Robert M. Radway, Jeffrey Yu, Kai Bartolone, Massimo Giordano, Fabian Peddinghaus, Yonatan Urman, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina    
 *IEEE Symposium on VLSI Technology & Circuits (VLSI)*, June 2024.    
