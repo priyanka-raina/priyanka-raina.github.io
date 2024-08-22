@@ -19,7 +19,7 @@ Kalhan Koul, Jackson Melchert, Keyi Zhang, Taeyoung Kong, Maxwell Strange, Olivi
 *Open-Source Computer Architecture Research (OSCAR) Workshop at the International Symposium on Computer Architecture (ISCA)*, June 2024.    
 
 **A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators**    
-Kartik Prabhu, Jeffrey Yu, Suresh Nambi, Priyanka Raina
+Kartik Prabhu, Jeffrey Yu, Suresh Nambi, Priyanka Raina    
 AI for Fully-Automated Chip Design (AI4FACD) Workshop at ISCA 2024 in Buenos Aires, Argentina.    
 
 **MINOTAUR: An Edge Transformer Inference and Training Accelerator with 12 MBytes On-Chip Resistive RAM and Fine-Grained Spatiotemporal Power Gating**    
