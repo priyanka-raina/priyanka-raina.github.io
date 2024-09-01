@@ -12,12 +12,13 @@ description: The pages meta description
 For a complete list of ongoing and past projects please see her [publications](https://priyanka-raina.github.io/publications/) and [research group website](https://stanfordaccelerate.github.io/).
 
 ## News and Talk Videos   
+- Jackson Melchert graduated with a PhD in Electrical Engineering, August 30, 2024.
 - Priyanka Raina received the **DARPA Young Faculty Award**, July 31, 2024.
 - Zhouhua Xie won the **Apple Coterm Fellowship**, May 20, 2024.
+- Akash Levy graduated with a PhD in Electrical Engineering, February 28, 2024.
 - Priyanka Raina received the [**Sloan Research Fellowship**](https://sloan.org/fellowships/2024-Fellows), February 20, 2024.
 - Jeffrey Yu graduated with an MS in Electrical Engineering. He is joining Stanford for his PhD, June 18, 2023.
 - Yuchen Mei graduated with an MS in Electrical Engineering. He is joining Stanford for his PhD, June 18, 2023.
-- Akash Levy graduated with a PhD in Electrical Engineering, June 18, 2023.
 - Jackson Melchert won the **Apple Stanford EE PhD Fellowship in Integrated Systems**, April 18, 2023.    
 - Kartik Prabhu won the **Apple Stanford EE PhD Fellowship in Integrated Systems**, April 18, 2023.    
 - Priyanka Raina received the **NSF CAREER Award** for "A Framework for Co-design and Optimization of Programmable Hardware Accelerators and Compilers", March 3, 2023.    
