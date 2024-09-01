@@ -71,6 +71,7 @@ Thesis: Transactional Memory Architecture for Multi-core Processors
 Advisor: Anshul Kumar  
 
 ## Affiliations
+**[Stanford PORTAL Center](https://portal.stanford.edu/)**  
 **[Stanford AHA (Agile Hardware) Center](https://aha.stanford.edu/)**  
 **[SystemX Alliance](https://systemx.stanford.edu/)**        
 **[SRC JUMP2.0 COCOSYS: Center for the Co-Design of Cognitive Systems](https://www.src.org/program/jump2/cocosys/)**     
