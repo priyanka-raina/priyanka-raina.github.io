@@ -5,6 +5,8 @@ title: Awards
 hide_hero: true
 ---
 ## Awards
+**DARPA Young Faculty Award**, 2024    
+
 **Sloan Research Fellowship**, 2024
 
 **NSF CAREER Award** for "A Framework for Co-design and Optimization of Programmable Hardware Accelerators and Compilers", 2023    
