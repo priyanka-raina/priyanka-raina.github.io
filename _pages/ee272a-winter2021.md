@@ -31,26 +31,26 @@ This is a project based course, and there is a lot of material that we need to c
 
 | #   | Date        | Topic                                                          | Homework                      |  
 | --- | ----------- | -------------------------------------------------------------- | ----------------------------- |  
-| 1   | Mon, Jan 11 | Class objective and overview, major tasks, tools, and flow ([Slides](https://stanford.box.com/s/c0k52llce81twjlon6t120iv0u2ca9bi)) | HW1: Accelerator design space exploration |  
-| 2   | Wed, Jan 13 | DNNs, chip constraints, and the limitation of accelerators ([Slides](https://stanford.box.com/s/d6juygthmp48stq80v0wiftww4vasybl)) | |  
+| 1   | Mon, Jan 11 | Class objective and overview, major tasks, tools, and flow | HW1: Accelerator design space exploration |  
+| 2   | Wed, Jan 13 | DNNs, chip constraints, and the limitation of accelerators | |  
 | 3   | Mon, Jan 18 | Martin Luther King, Jr., Day (holiday, no classes)             | HW1 due, HW2: CNN accelerator - part 1: Unit testing and design in SystemVerilog |
-| 4   | Wed, Jan 20 | Maintaining designer sanity, creating a testing infrastructure ([Slides](https://stanford.box.com/s/h9aft1lh4eoaxyhre1waffw1iedniioe))| |
-| 5   | Mon, Jan 25 | High level synthesis ([Slides](https://stanford.box.com/s/0oa5yolmoe99mjuofpd9gfl7icellyy9)) | HW2 due, HW3: CNN accelerator - part 2: Integration testing and design in SystemVerilog |  
-| 6   | Wed, Jan 27 | Visual introduction to physical design ([Slides](https://stanford.box.com/s/fk9rl7wdwlrdfhlko5m1vw8nms8pom4u)) |                               |
+| 4   | Wed, Jan 20 | Maintaining designer sanity, creating a testing infrastructure | |
+| 5   | Mon, Jan 25 | High level synthesis | HW2 due, HW3: CNN accelerator - part 2: Integration testing and design in SystemVerilog |  
+| 6   | Wed, Jan 27 | Visual introduction to physical design |                               |
 | 7   | Mon, Feb 1  | Visual introduction to physical design | HW3 due, HW4: HLS design and functional verification |
-| 8   | Wed, Feb 3  | Static timing analysis ([Slides](https://stanford.box.com/s/fk9rl7wdwlrdfhlko5m1vw8nms8pom4u)) |
+| 8   | Wed, Feb 3  | Static timing analysis |
 | 9   | Mon, Feb 8  | Guest lecture | HW4 due, HW5: HLS design optimization |
-| 10  | Wed, Feb 10 | Advanced synthesis (retiming, memories, clock, reset) ([Slides](https://stanford.box.com/s/mxudl8tx5f6kzahrjkcliq57zbmowxpc)) |
+| 10  | Wed, Feb 10 | Advanced synthesis (retiming, memories, clock, reset) |
 | 11  | Mon, Feb 15 | Presidents' Day (holiday, no classes) | HW5 due, HW6: Synthesis, EE272B project proposal due |
-| 12  | Wed, Feb 17 | Analog functional modeling ([Slides](https://stanford.box.com/s/xl952vv6raqk2knmxgtx3aqrshsog6dx)) | |
+| 12  | Wed, Feb 17 | Analog functional modeling | |
 | 13  | Mon, Feb 22 | Analog functional modeling | HW6 due, HW7: Analog block modeling and design  |
-| 14  | Wed, Feb 24 | PDK overview and making custom cells ([Slides](https://stanford.box.com/s/f2rtbg1ncc88kk8zhsyis0h23faix6gk))|  |
+| 14  | Wed, Feb 24 | PDK overview and making custom cells |  |
 | 15  | Mon, Mar 1  | Making custom cells | HW7 due, HW8: Floorplanning, place and route, and signoff  |
-| 16  | Wed, Mar 3  | Floorplanning and power planning ([Slides](https://stanford.box.com/s/9518iz4jzz4a53px33000ckvyn7vmu3x)) |
+| 16  | Wed, Mar 3  | Floorplanning and power planning |
 | 17  | Mon, Mar 8  | Floorplanning and power planning | HW8 due, HW9: Collective FAQ and documentation creation |
-| 18  | Wed, Mar 10 | Placement and routing ([Slides](https://stanford.box.com/s/dawei8r8elxr9q4r9tyy9xqd5y7wvu58)) |   |
-| 19  | Mon, Mar 15 | Signoff steps ([Slides](https://stanford.box.com/s/eo89rdskqvh77qpr3pnsalg7964fd5jh)) | HW9 due, HW10: Final report (due only if taking the class for 4 units) |
-| 20  | Wed, Mar 17 | Power domains ([Slides](https://stanford.box.com/s/5qnb6lypa462f3klpaic5c8tkss7svxz)) |  |
+| 18  | Wed, Mar 10 | Placement and routing |   |
+| 19  | Mon, Mar 15 | Signoff steps | HW9 due, HW10: Final report (due only if taking the class for 4 units) |
+| 20  | Wed, Mar 17 | Power domains |  |
 |     | Fri, Mar 19 | HW10 due, EE272B project checkin  |  |
 
 ## Course Texts and Materials
