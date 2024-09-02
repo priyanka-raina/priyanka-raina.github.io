@@ -20,7 +20,7 @@ Kalhan Koul, Jackson Melchert, Keyi Zhang, Taeyoung Kong, Maxwell Strange, Olivi
 
 **A High-Level Synthesis Based Framework for Design Space Exploration and Generation of Neural Network Accelerators**    
 Kartik Prabhu, Jeffrey Yu, Suresh Nambi, Priyanka Raina    
-AI for Fully-Automated Chip Design (AI4FACD) Workshop at the International Symposium on Computer Architecture (ISCA)*, June 2024.    
+*AI for Fully-Automated Chip Design (AI4FACD) Workshop at the International Symposium on Computer Architecture (ISCA)*, June 2024.    
 
 **MINOTAUR: An Edge Transformer Inference and Training Accelerator with 12 MBytes On-Chip Resistive RAM and Fine-Grained Spatiotemporal Power Gating**    
 Kartik Prabhu, Robert M. Radway, Jeffrey Yu, Kai Bartolone, Massimo Giordano, Fabian Peddinghaus, Yonatan Urman, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Priyanka Raina    
