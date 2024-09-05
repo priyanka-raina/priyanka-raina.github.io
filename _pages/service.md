@@ -35,6 +35,7 @@ hide_hero: true
 - tinyML Research Symposium (2022)
 - Design Automation Conference (DAC) (2018, 2020)
 - Hot Chips: A Symposium on High Performance Chips (2019, 2023)
+- Special Session Co-Chair, IEEE International Symposium on Circuits and Systems (ISCAS) (2023)
 
 ### Stanford Committees
 - Committee on Graduate Studies (C-GS) (2020, 2021, 2022)
