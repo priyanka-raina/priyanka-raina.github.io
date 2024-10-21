@@ -6,6 +6,10 @@ hide_hero: true
 ---
 
 ## Publications   
+**PEak: A Single Source of Truth for Hardware Design and Verification**     
+Caleb Donovick, Jackson Melchert, Ross Daly, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
+*ACM Transactions on Embedded Computing Systems (TECS)*, October 2024.
+
 **Edge Continual Training and Inference with RRAM-Gain Cell Memory Integrated on Si CMOS**    
 Shuhan Liu, Robert M. Radway, Xinxin Wang, Filippo Moro, Jean-Francois Nodin, Koustav Jana, Shuting Du, Luke R. Upton, Wei-Chen Chen, Jian Chen, Haitong Li, Francois Andrieu, Elisa Vianello, Priyanka Raina, Subhasish Mitra, H.-S. Philip Wong    
 *IEEE International Electron Devices Meeting (IEDM)*, December 2024.    
@@ -255,9 +259,6 @@ Rahul Rithe, Priyanka Raina, Nathan Ickes, Srikanth V. Tenneti, Anantha P. Chand
 *IEEE International Solid-State Circuits Conference (ISSCC)*, February 2013. [Paper](https://doi.org/10.1109/ISSCC.2013.6487683), [Demo](http://player.vimeo.com/video/70417371)
 
 ## Preprints    
-**PEak: A Single Source of Truth for Hardware Design and Verification**     
-Caleb Donovick, Ross Daly, Jackson Melchert, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
-*arXiv*, August 2023. [Paper](https://doi.org/10.48550/arXiv.2308.13106)
 
 ## Tutorials
 **AHA: An Open-Source Framework for Co-design of Programmable Accelerators and Compilers**    
