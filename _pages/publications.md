@@ -14,13 +14,13 @@ Po-Han Chen, Bo Wun Cheng, Michael Oduoza, Zhouhua Xie, Kalhan Koul, Sai Gautham
 Kathleen Feng, Kartik Prabhu, Kai Bartolone, Jeffrey Yu, Priyanka Raina    
 *IEEE Custom Integrated Circuits Conference (CICC)*, April 2025.    
 
-**PEak: A Single Source of Truth for Hardware Design and Verification**     
-Caleb Donovick, Jackson Melchert, Ross Daly, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
-*ACM Transactions on Embedded Computing Systems (TECS)*, October 2024.
-
 **Edge Continual Training and Inference with RRAM-Gain Cell Memory Integrated on Si CMOS**    
 Shuhan Liu, Robert M. Radway, Xinxin Wang, Filippo Moro, Jean-Francois Nodin, Koustav Jana, Shuting Du, Luke R. Upton, Wei-Chen Chen, Jian Chen, Haitong Li, Francois Andrieu, Elisa Vianello, Priyanka Raina, Subhasish Mitra, H.-S. Philip Wong    
 *IEEE International Electron Devices Meeting (IEDM)*, December 2024.    
+
+**PEak: A Single Source of Truth for Hardware Design and Verification**     
+Caleb Donovick, Jackson Melchert, Ross Daly, Lenny Truong, Priyanka Raina, Pat Hanrahan, Clark Barrett   
+*ACM Transactions on Embedded Computing Systems (TECS)*, October 2024.
 
 **Efficiently Synthesizing Lowest Cost Rewrite Rules for Instruction Selection**    
 Ross Daly, Caleb Donovick, Caleb Terrill, Jack Melchert, Priyanka Raina, Clark Barrett, Pat Hanrahan    
