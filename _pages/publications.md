@@ -48,7 +48,7 @@ Kalhan Koul, Maxwell Strange, Jackson Melchert, Alex Carsello, Yuchen Mei, Olivi
 
 **Cascade: An Application Pipelining Toolkit for Coarse-Grained Reconfigurable Arrays**    
 Jackson Melchert, Yuchen Mei, Kalhan Koul, Qiaoyi Liu, Mark Horowitz, Priyanka Raina    
-*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2024. [Paper](https://doi.org/10.1109/TCAD.2024.3390542)         
+*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, April 2024. [Paper](https://doi.org/10.1109/TCAD.2024.3390542)         
 
 **EMBER: Efficient Multiple-Bits-per-Cell Embedded RRAM Macro for High-Density Digital Storage**    
 Akash Levy, Luke R. Upton, Michael D. Scott, Dennis Rich, Win-San Khwa, Yu-Der Chih, Meng-Fan Chang, Subhasish Mitra, Boris Murmann, Priyanka Raina    
