@@ -9,6 +9,8 @@ callouts: vlsi_courses
 ## Courses Taught
 
 ### Stanford University
+**EE372: Design Projects in VLSI Systems - II**, Spring 2025   
+**EE272: Design Projects in VLSI Systems - I**, Winter 2025    
 **EE272: Design Projects in VLSI Systems - I**, Winter 2024    
 **EE309B: Emerging Non-Volatile Memory Devices and Circuit Design**, Winter 2024    
 **EE309A: Semiconductor Memory Devices and Circuit Design**, Autumn 2023    
