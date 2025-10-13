@@ -6,17 +6,23 @@ hide_hero: true
 ---
 
 ## Current PhD Students
-- Kathleen Feng
 - Kartik Prabhu
-- Kalhan Koul
 - Po-Han Chen
 - Jeffrey Yu 
 - Yuchen Mei
 - Bo Wun Cheng
 - Michael Oduoza
 - Allen Pan
+- Zhouhua Xie
+- Sai Gautham Ravipati
 
 ## Previous PhD Students    
+- Kathleen Feng    
+  Graduated in 2025            
+  Thesis: Designing Extended Reality Perception Accelerators    
+- Kalhan Koul    
+  Graduated in 2025            
+  Thesis: An Agile Approach to the Design of Programmable Accelerators and Compilers    
 - Jackson Melchert    
   Graduated in 2024        
   Thesis: The Design and Verification of Compilers for Domain-Specific Reconfigurable Accelerators    
