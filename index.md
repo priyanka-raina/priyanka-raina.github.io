@@ -39,10 +39,13 @@ For a complete list of ongoing and past projects please see her [publications](h
 - **How computer chips get speedier through specialization** in Stanford Engineering’s The Future of Everything podcast with Russ Altman, September 21, 2021. [Video](https://youtu.be/UgmKLm4U1II)
 
 ## Work Experience
+**Stanford University**, Stanford, CA    
+Associate Professor, Electrical Engineering  
+Oct 2025 - Present  
 
 **Stanford University**, Stanford, CA    
 Assistant Professor, Electrical Engineering  
-Sep 2018 - Present  
+Sep 2018 - Sep 2025  
 
 **Amazon**, Sunnyvale, CA    
 Amazon Visiting Academic    
