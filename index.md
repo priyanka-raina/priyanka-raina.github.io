@@ -1,17 +1,20 @@
 ---
 layout: page
 title: Priyanka Raina
-subtitle: Assistant Professor, Stanford University
+subtitle: Associate Professor, Stanford University
 description: The pages meta description
 ---
 
-<img src="/assets/images/priyanka-raina.jpeg" width="400" align="left" style="padding-right: 30px; padding-bottom: 20px;"> Priyanka Raina is an Assistant Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the Sloan Research Fellowship, NSF CAREER Award, DARPA Young Faculty Award, Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.
+<img src="/assets/images/priyanka-raina.jpeg" width="400" align="left" style="padding-right: 30px; padding-bottom: 20px;"> Priyanka Raina is an Associate Professor of Electrical Engineering at Stanford University. She received her BTech in Electrical Engineering from IIT Delhi in 2011 and her SM and PhD in Electrical Engineering and Computer Science from MIT in 2013 and 2018. Priyanka’s research is on creating high-performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies and agile hardware-software co-design. Her research has won best paper awards at VLSI, ESSCIRC and MICRO conferences and in the JSSC journal. Priyanka teaches several VLSI design classes at Stanford. She has also won the Sloan Research Fellowship, NSF CAREER Award, DARPA Young Faculty Award, Intel Rising Star Faculty Award, Hellman Faculty Scholar Award and is a Terman Faculty Fellow.
 
 **Research Interests**: Domain-Specific Architectures, Hardware/Software Co-design, Design Productivity, Machine Learning, Near-Memory Computing
 
 For a complete list of ongoing and past projects please see her [publications](https://priyanka-raina.github.io/publications/) and [research group website](https://stanfordaccelerate.github.io/).
 
 ## News and Talk Videos   
+- Priyanka was promoted to the rank of Associate Professor with tenure, October 1, 2025.         
+- Kathleen Feng graduated with a PhD in Electrical Engineering, August 28, 2025.    
+- Kalhan Koul graduated with a PhD in Electrical Engineering, March 14, 2025.    
 - Jackson Melchert graduated with a PhD in Electrical Engineering, August 30, 2024.
 - Priyanka Raina received the **DARPA Young Faculty Award**, July 31, 2024.
 - Zhouhua Xie won the **Apple Coterm Fellowship**, May 20, 2024.
@@ -43,7 +46,7 @@ Sep 2018 - Present
 
 **Amazon**, Sunnyvale, CA    
 Amazon Visiting Academic    
-May 2023 – Present    
+May 2023 – Sep 2025    
 
 **NVIDIA Corporation**, Santa Clara, CA    
 Visiting Research Scientist, Architecture Research Group, NVIDIA Research  
